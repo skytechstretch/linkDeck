@@ -44,3 +44,8 @@ let hasChanged = false
 
 // this the reason we should not mutate the state object ,bcz our mutation wil render only old things 
 // i.e no change
+
+
+// touch fetch to remove glitch 
+
+https://alligator.io/js/fetch-api/
