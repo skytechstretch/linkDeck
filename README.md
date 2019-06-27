@@ -10,3 +10,7 @@
 // username check
 
 // https://www.quora.com/How-can-I-check-if-a-username-existed-with-Node-js#
+
+// js implicit/explicit
+
+//https://stackoverflow.com/questions/33313854/how-can-i-access-the-browsers-window-object-from-a-nodejs-application
