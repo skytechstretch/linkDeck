@@ -42,5 +42,5 @@ let hasChanged = false
   }
 }
 
-// this the reason we should not mutate the object ,bcz our mutation wil render only old things 
+// this the reason we should not mutate the state object ,bcz our mutation wil render only old things 
 // i.e no change
