@@ -19,3 +19,6 @@
 // es6way 
 
 // https://stackoverflow.com/questions/171251/how-can-i-merge-properties-of-two-javascript-objects-dynamically?rq=1
+
+// fuck Jquery 24*7
+// https://medium.com/@trombino.marco/you-might-not-need-jquery-a-2018-performance-case-study-aa6531d0b0c3
