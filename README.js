@@ -49,3 +49,6 @@ let hasChanged = false
 // touch fetch to remove glitch 
 
 https://alligator.io/js/fetch-api/
+
+// rest/spread in place of push method  
+// way  to operate on array/object
