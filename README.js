@@ -74,3 +74,12 @@ https://alligator.io/js/fetch-api/
 // this is the reason you will see some initialization in state property 
 // to avoid undefined condition just to avoid error 
 // then in react component map statetoprops is called ,passing required data
+// thats it from react component ,you can produce n no of action
+// creator n no of times ,reducer will catch will or will not modify state
+// thus calling mapstatetoprops again ,which will pass modified 
+// state to react component class with new rendering 
+// button I am clicking 100000 timesss 
+// i.e action creator will get passed 10000 times to all reducer 
+// in your app,reducer
+//which is responsible for handling particulasr response will
+// act then pass it to the react domain via mapstatetoprops
