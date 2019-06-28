@@ -69,3 +69,7 @@ https://alligator.io/js/fetch-api/
 // do ctrl c and ctrl v with npm install and tons of 
 // useless tech talk with the wrapper of tech inventor ,
 //but infact they are not even tech sweeper 
+// just remember one thing ,when code gets executed after npm install
+// reducer run with default action type 
+// this is the reason you will see some initialization in state property 
+// to avoid undefined condition just to avoid error 
