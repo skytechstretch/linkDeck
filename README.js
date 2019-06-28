@@ -58,4 +58,5 @@ https://alligator.io/js/fetch-api/
 
 // I will take psychology degree after 9 years ,to free many innocent 
 // lives from sufferingss
-
+// worth reading 
+// https://www.miteshkhatri.com/book-on-law-of-attraction/
