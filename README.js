@@ -73,3 +73,4 @@ https://alligator.io/js/fetch-api/
 // reducer run with default action type 
 // this is the reason you will see some initialization in state property 
 // to avoid undefined condition just to avoid error 
+// then in react component map statetoprops is called ,passing required data
