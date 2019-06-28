@@ -83,3 +83,8 @@ https://alligator.io/js/fetch-api/
 // in your app,reducer
 //which is responsible for handling particulasr response will
 // act then pass it to the react domain via mapstatetoprops
+
+// what tis tech talk ?
+
+// ohh yeahh slidesss ,ohh nooo,examplesss,without knowing the real depth 
+//,real base these guys are motherfuckerss I can say this with no doubt in my mind
