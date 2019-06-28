@@ -125,3 +125,6 @@ https://alligator.io/js/fetch-api/
 // by mistake i was reading one packt publication book
 // now i will never purchase packt publication or any curse type 
 // publication book
+
+// will publish node/mongo in one logo that will log all essentials+advance project (next year plan)
+// this will be a video version
