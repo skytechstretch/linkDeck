@@ -115,3 +115,8 @@ https://alligator.io/js/fetch-api/
 
 // data science is new ,there is no comparison ,so they emit anything ..I think this is the reason ..model is dull or tall
 // who cares 
+// probability 0 to solve basic integration 
+// probability -7 to understand probability
+// but they are data scientist
+// it is really shocking facts 
+// i have explore many examples so just i am sharing 
