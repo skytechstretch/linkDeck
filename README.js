@@ -112,3 +112,6 @@ https://alligator.io/js/fetch-api/
 
 
 // now they are changing the meaning of book ,it totally a curse for bunch of bucks
+
+// data science is new ,there is no comparison ,so they emit anything ..I think this is the reason ..model is dull or tall
+// who cares 
