@@ -105,3 +105,7 @@ https://alligator.io/js/fetch-api/
 // tech talk to become tech expert which is impossible
 // move your as in chair learn fundamental first 
 // then practise ,then go to motherfucking tech talk 
+
+
+// many assholes are becoming author now 
+// thanks to packt /// tackettt// lot of scammers 
