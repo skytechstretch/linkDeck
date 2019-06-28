@@ -122,3 +122,6 @@ https://alligator.io/js/fetch-api/
 // i have explore many examples so just i am sharing 
 
 
+// by mistake i was reading one packt publication book
+// now i will never purchase packt publication or any curse type 
+// publication book
