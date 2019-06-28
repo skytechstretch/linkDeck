@@ -62,3 +62,10 @@ https://alligator.io/js/fetch-api/
 // https://www.miteshkhatri.com/book-on-law-of-attraction/
 // render then didmount
 // https://github.com/facebook/react/issues/5828
+
+
+// thousand times I have heard the frequency mapstate ,reducer what is the order 
+// of their execution ,it is confusing ,if you only 
+// do ctrl c and ctrl v with npm install and tons of 
+// useless tech talk with the wrapper of tech inventor ,
+//but infact they are not even tech sweeper 
