@@ -52,3 +52,10 @@ https://alligator.io/js/fetch-api/
 
 // rest/spread in place of push method  
 // way  to operate on array/object
+// awesome book to analyse any kind of behaviour to conclude fact
+//,so that you can have wow fact in life (i.e this book shows true analysis of behaviour) 
+// https://www.amazon.com/Applied-Behavior-Analysis-Principles-Modification/dp/0470571527
+
+// I will take psychology degree after 9 years ,to free many innocent 
+// lives from sufferingss
+
