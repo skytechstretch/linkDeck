@@ -109,3 +109,6 @@ https://alligator.io/js/fetch-api/
 
 // many assholes are becoming author now 
 // thanks to packt /// tackettt// lot of scammers 
+
+
+// now they are changing the meaning of book ,it totally a curse for bunch of bucks
