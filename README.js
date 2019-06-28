@@ -129,3 +129,5 @@ https://alligator.io/js/fetch-api/
 // will publish node/mongo in one logo that will log all essentials+advance project (next year plan)
 // this will be a video version
 // I guarrante ,this will become trending in asian countries atleast 
+
+// 5mod3===2 i.e finding what we get as output remainder 
