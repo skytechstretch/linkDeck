@@ -60,3 +60,5 @@ https://alligator.io/js/fetch-api/
 // lives from sufferingss
 // worth reading 
 // https://www.miteshkhatri.com/book-on-law-of-attraction/
+// render then didmount
+// https://github.com/facebook/react/issues/5828
