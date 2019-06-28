@@ -60,6 +60,6 @@ https://alligator.io/js/fetch-api/
 // lives from sufferingss
 
 // money I earn by my mind wind i.e not by any cheat wind so no ocean of black money ,i involve honesty+motive 
-// to turn money towards me no matter whether it is freelane or industry work
+// to turn money towards me no matter whether it is freelance or industry work
 // so this is called ethics 
 // lot of projects I am self-funding ,this is called self-help
