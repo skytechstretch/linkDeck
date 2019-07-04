@@ -135,3 +135,10 @@ https://alligator.io/js/fetch-api/
 // link spread object 
 
 //https://reactjs.org/docs/jsx-in-depth.html#spread-attributes
+
+var props = {firstName: {k:'Bun', lastName: 'Hector'},j:"hghg"};
+props:
+{firstName: {…}, j: "hghg"}
+{...props.firstName}
+{k: "Ben", lastName: "Hector"}
+so pulling out firstname all key pairs on flyy 
