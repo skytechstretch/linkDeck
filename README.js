@@ -140,5 +140,5 @@ var props = {firstName: {k:'Bun', lastName: 'Hector'},j:"hghg"};
 props:
 {firstName: {…}, j: "hghg"}
 {...props.firstName}
-{k: "Ben", lastName: "Hector"}
+{k: "Bun", lastName: "Hector"}
 so pulling out firstname all key pairs on flyy 
