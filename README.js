@@ -131,3 +131,7 @@ https://alligator.io/js/fetch-api/
 // I guarrante ,this will become trending in asian countries atleast 
 
 // 5mod3===2 i.e finding what we get as output remainder 
+
+// link spread object 
+
+//https://reactjs.org/docs/jsx-in-depth.html#spread-attributes
