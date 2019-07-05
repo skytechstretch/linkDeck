@@ -139,6 +139,7 @@ https://alligator.io/js/fetch-api/
 var props = {firstName: {k:'Bun', lastName: 'Hector'},j:"hghg"};
 props:
 {firstName: {…}, j: "hghg"}
+or {...props} same above output(based on situation ,use differnt notation)
 {...props.firstName}
 {k: "Bun", lastName: "Hector"}
 so pulling out firstname all key pairs on flyy 
