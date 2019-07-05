@@ -147,7 +147,7 @@ so pulling out firstname all key pairs on flyy
 // back to coin 
 // var months = {
 
- jan:30,
+ jan:31,
  feb:29,
  mar:31
 
