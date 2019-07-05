@@ -142,3 +142,27 @@ props:
 {...props.firstName}
 {k: "Bun", lastName: "Hector"}
 so pulling out firstname all key pairs on flyy 
+
+// back to coin 
+// var months = {
+
+ jan:30,
+ feb:29,
+ mar:31
+
+}
+
+function getDetails({mar}){
+      console.log(`In March do the march ${mar} \'times\'`);
+}
+
+getDetails(months);
+ In March do the march 31 'times'
+
+// 
+var c ={j:"afsgdhf"}
+var d={...c,y:"ghvv"}
+d;
+{j: "afsgdhf", y: "ghvv"}
+c;
+{j: "afsgdhf"}
