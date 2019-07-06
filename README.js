@@ -167,3 +167,7 @@ d;
 {j: "afsgdhf", y: "ghvv"}
 c;
 {j: "afsgdhf"}
+
+
+
+https://www.financial-math.org/blog/2016/10/the-mathematics-behind-blockchain/
