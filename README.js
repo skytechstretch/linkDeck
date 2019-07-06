@@ -176,3 +176,5 @@ https://www.financial-math.org/blog/2016/10/the-mathematics-behind-blockchain/
 // link for linear algerbra for mastering blockchain/machine learning 
 
 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+
+https://www.freecodecamp.org/news/how-does-blockchain-really-work-i-built-an-app-to-show-you-6b70cd4caf7d/
