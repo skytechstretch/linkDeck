@@ -171,3 +171,8 @@ c;
 
 
 https://www.financial-math.org/blog/2016/10/the-mathematics-behind-blockchain/
+
+
+// link for linear algerbra for mastering blockchain/machine learning 
+
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
