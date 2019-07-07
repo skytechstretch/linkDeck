@@ -200,3 +200,5 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 // even though 50% naming is same ,but work-goal  is differnt 
 // above mention link are like dimag chatna type link ..only read when u want to sleep 
 
+ // styling components
+// https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822
