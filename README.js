@@ -187,3 +187,6 @@ https://www.freecodecamp.org/news/how-does-blockchain-really-work-i-built-an-app
 
 // https://reactjs.org/docs/optimizing-performance.html#use-the-production-build
 
+// link ds algo
+//https://hackernoon.com/5-javascript-courses-to-learn-algorithms-data-structures-501a0aa1b19b
+
