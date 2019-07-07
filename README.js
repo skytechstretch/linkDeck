@@ -183,3 +183,7 @@ https://www.freecodecamp.org/news/how-does-blockchain-really-work-i-built-an-app
 
 // https://codeburst.io/react-anti-pattern-jsx-spread-attributes-59d1dd53677f
 
+// for production stuff
+
+// https://reactjs.org/docs/optimizing-performance.html#use-the-production-build
+
