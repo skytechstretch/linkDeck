@@ -190,3 +190,6 @@ https://www.freecodecamp.org/news/how-does-blockchain-really-work-i-built-an-app
 // link ds algo
 //https://hackernoon.com/5-javascript-courses-to-learn-algorithms-data-structures-501a0aa1b19b
 
+// mongo 
+// https://stackoverflow.com/questions/14290568/how-to-handle-mongodb-schema-change-in-production
+
