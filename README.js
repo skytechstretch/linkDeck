@@ -192,4 +192,11 @@ https://www.freecodecamp.org/news/how-does-blockchain-really-work-i-built-an-app
 
 // mongo 
 // https://stackoverflow.com/questions/14290568/how-to-handle-mongodb-schema-change-in-production
+// website or mobile app(android /ios)
+// https://www.hswsolutions.com/services/mobile-web-development/mobile-website-vs-apps/
+
+// differnces react js and react native
+//https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24
+// even though 50% naming is same ,but work-goal  is differnt 
+// above mention link are like dimag chatna type link ..only read when u want to sleep 
 
