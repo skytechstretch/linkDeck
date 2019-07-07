@@ -178,3 +178,8 @@ https://www.financial-math.org/blog/2016/10/the-mathematics-behind-blockchain/
 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
 
 https://www.freecodecamp.org/news/how-does-blockchain-really-work-i-built-an-app-to-show-you-6b70cd4caf7d/
+
+// link blink 
+
+// https://codeburst.io/react-anti-pattern-jsx-spread-attributes-59d1dd53677f
+
