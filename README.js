@@ -206,7 +206,7 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 // good for Interview ques 
 // https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make
 
-//thinking to assign you assign as permanent password but you are otp(one time password) i.e only
+//was thinking to assign you  as permanent password but you are otp(one time password) i.e only
 //temporary password this was the line written in 99% of truckk which i came across
 
 // outer beauty arrogance fades and gets mixed with no outer beautyy so keep 
