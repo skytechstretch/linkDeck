@@ -205,3 +205,5 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 
 // good for Interview ques 
 // https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make
+
+// very few know the knowledge and value of love ...whenever i see the world This prefix .... lines comes in my mind ....
