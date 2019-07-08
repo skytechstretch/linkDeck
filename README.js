@@ -214,3 +214,5 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 // which is good niyat
 // now behave like having everyting as new ...dewwww... 
 
+// p.s I have read whole psycholgy boook and behavioural analysis book
+// Today I feel Practial of theory factsss i.e xxxllll cooolllll fooollll
