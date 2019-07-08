@@ -202,3 +202,6 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 
  // styling components
 // https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822
+
+// good for Interview ques 
+// https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make
