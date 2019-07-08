@@ -216,3 +216,6 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 
 // p.s I have read whole psycholgy boook and behavioural analysis book
 // Today I feel Practial of theory factsss i.e xxxllll cooolllll fooollll
+
+// from very childhood I used tofind unknown values in maths
+// now also I am finding hidden intention from some cool fooll 
