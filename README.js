@@ -210,3 +210,6 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 // so conclusion is 99% does not know love you cant teach or make them feel so just discard this kind of fuckinggg card ,1 % is harder to find ...
 // fucking whyash also practise these thingsss with girlssss...thats whyyy I never talk with himmmm nowwww
 // overallll his behaviourrrr was likeeee heartlesss speciesss
+// so guys listen to your heart ,fuck all hurt and move on with work mode on 
+// life is large ,so explore the life without any emotion cage 
+// overall god is monitor of life
