@@ -220,4 +220,4 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 // from very childhood I used tofind unknown values in maths
 // now also I am finding hidden intention from some cool fooll 
 
-// try to find my new historyyy ,you will feel xxxlllll foooollll 
+// try to find my new historyyy ,you will feel like xxxlllll foooollll 
