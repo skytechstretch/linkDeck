@@ -214,3 +214,5 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 // https://medium.com/@madasamy/javascript-brief-history-and-ecmascript-es6-es7-es8-features-673973394df4
 
 // http://es6-features.org/#Constants
+
+// https://stackoverflow.com/questions/1606212/why-is-there-no-official-javascript-reference
