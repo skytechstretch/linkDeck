@@ -206,3 +206,7 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 // good for Interview ques 
 // https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make
 
+// must code node as backend 
+
+// http://www.tothenew.com/blog/how-are-10-global-companies-using-node-js-in-production/
+
