@@ -210,3 +210,6 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 
 // http://www.tothenew.com/blog/how-are-10-global-companies-using-node-js-in-production/
 
+// link es 
+// https://medium.com/@madasamy/javascript-brief-history-and-ecmascript-es6-es7-es8-features-673973394df4
+
