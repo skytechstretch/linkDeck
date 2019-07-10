@@ -219,3 +219,5 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 
 // imp link 
 // https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast
+// redis pose
+// https://www.objectrocket.com/blog/how-to/10-quick-tips-about-redis/
