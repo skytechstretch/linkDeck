@@ -216,3 +216,6 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 // http://es6-features.org/#Constants
 
 // https://stackoverflow.com/questions/1606212/why-is-there-no-official-javascript-reference
+
+// imp link 
+// https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast
