@@ -221,3 +221,6 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 // https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast
 // redis pose
 // https://www.objectrocket.com/blog/how-to/10-quick-tips-about-redis/
+
+//  built-in SchemaType options
+//https://blog.cloudboost.io/everything-you-need-to-know-about-mongoose-63fcf8564d52
