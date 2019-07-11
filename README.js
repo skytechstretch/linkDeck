@@ -226,3 +226,4 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 //https://blog.cloudboost.io/everything-you-need-to-know-about-mongoose-63fcf8564d52
 
 // https://dzone.com/articles/dom-manipulation-in-react
+// https://gabrieleromanato.name/nodejs-parsing-a-remote-html-page
