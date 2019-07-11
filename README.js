@@ -227,3 +227,5 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 
 // https://dzone.com/articles/dom-manipulation-in-react
 // https://gabrieleromanato.name/nodejs-parsing-a-remote-html-page
+
+// https://stackoverflow.com/questions/41766656/what-is-the-purpose-of-the-scripts-section-in-package-json
