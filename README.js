@@ -230,3 +230,5 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 
 // https://stackoverflow.com/questions/41766656/what-is-the-purpose-of-the-scripts-section-in-package-json
 // https://stackoverflow.com/questions/48657481/in-javascript-is-constructor-mandatory-in-a-class
+// sanction location section
+// https://mongoosejs.com/docs/geojson.html
