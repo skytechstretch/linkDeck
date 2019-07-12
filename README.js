@@ -234,3 +234,10 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 // https://mongoosejs.com/docs/geojson.html
 
 // https://docs.mongodb.com/manual/reference/operator/aggregation/geoNear/#pipe._S_geoNear
+
+// giving res.status('200') to __default dir so that u will get that __content in node/express.js env 
+// but that development new Timestamp of 20000000000s turned out to be res.status(forof100) 
+// pushing server in some other view-bug  mode so use the below link to overcome this scenario 
+
+// https://facebook.github.io/create-react-app/docs/deployment
+// use the above link to delink any error/bug
