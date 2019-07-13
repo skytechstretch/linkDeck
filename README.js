@@ -243,3 +243,5 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 // use the above link to delink any error/bug
 
 // https://www.freecodecamp.org/news/chart-the-stock-market-with-react-redux-react-vis-and-socket-io-18caf312693c/
+
+// https://bost.ocks.org/mike/selection/
