@@ -254,3 +254,5 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 // https://www.youtube.com/watch?v=VwVg9jCtqaU
 // regex refernce
 // https://regexone.com/?ref=hackr.io
+
+// https://blog.teamtreehouse.com/getting-started-typescript
