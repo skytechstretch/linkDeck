@@ -249,3 +249,6 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 // https://www.tutorialrepublic.com
 
 // http://www.reactnativeexpress.com/
+
+// some insight on what is machine learning ?
+// https://www.youtube.com/watch?v=VwVg9jCtqaU
