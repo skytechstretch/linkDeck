@@ -252,3 +252,5 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 
 // some insight on what is machine learning ?
 // https://www.youtube.com/watch?v=VwVg9jCtqaU
+// regex refernce
+// https://regexone.com/?ref=hackr.io
