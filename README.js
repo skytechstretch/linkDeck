@@ -268,3 +268,30 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 
 // bind call apply 
 //https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb
+
+// slight modiffication from above link 
+
+var firstname="hola" ;
+var lastname="all";
+
+getPokeName= ()=> {
+        var fullname = this.firstname + ' ' + this.lastname;
+        return fullname;
+    }
+
+var pokemon = {
+    firstname: 'Pika',
+    lastname: 'Chu ',
+    getPokeName: function() {
+        var fullname = this.firstname + ' ' + this.lastname;
+        return fullname;
+    }
+};
+
+var pokemonName = function(snack, hobby) {
+    console.log(this.getPokeName() + 'I choose you!');
+    console.log(this.getPokeName() + ' loves ' + snack + ' and ' + hobby);
+};
+
+var logPokemon = pokemonName.bind(this);// this===window domain heree...
+
