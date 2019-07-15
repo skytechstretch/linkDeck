@@ -359,4 +359,5 @@ a(10,100,10);
 // god is watching ..dont perform sin bean kind of things 
 // this is truly a sign of heartless ,emotionless species..they deserve to be animal 
 // by mistake they are into human species  
-// 
+// no more fact insight on above issues 
+// honesty/trust/realBehaviour is very expensive gift ,we cant expect it from virtualHeart soul (warren buffet sayings resultant)
