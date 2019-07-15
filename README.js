@@ -263,8 +263,6 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 // another wow ether in hur-ray array 
 // https://www.loginradius.com/engineering/16-javascript-hacks-for-optimization/
 
-//fact of the day :
-//dont let yourself be controlled by people ,money and past experiences 
 
 // bind call apply 
 //https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb
@@ -354,9 +352,11 @@ a(10,100,10);
 // https://stackoverflow.com/questions/21397743/passing-html-input-value-as-a-javascript-function-parameter
 
 
-// honesty/trust/realBehaviour is very expensive gift ,we cant expect it from virtualHeart soul (warren buffet sayings resultant)
 // d3 with react
 // https://www.youtube.com/watch?v=5FEzELkLsYw
 
 // d3-refernce
 // https://www.youtube.com/watch?v=C4t6qfHZ6Tw
+
+// no more non-code content updates as it is generating lot of spam in repo ,account may get suspended
+// removing all non-code i.e software-development stuff 
