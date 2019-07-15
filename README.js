@@ -294,4 +294,7 @@ var pokemonName = function(snack, hobby) {
 };
 
 var logPokemon = pokemonName.bind(this);// this===window domain heree...
-
+as output is :
+logPokemon();
+VM469:20 hola allI choose you!
+VM469:21 hola all loves undefined and undefined
