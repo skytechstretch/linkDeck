@@ -349,3 +349,6 @@ console.log(new Date().getMilliseconds());
     return ok;
 }
 a(10,100,10);
+
+// link check suckkkk
+// https://stackoverflow.com/questions/21397743/passing-html-input-value-as-a-javascript-function-parameter
