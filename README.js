@@ -352,3 +352,11 @@ a(10,100,10);
 
 // link check suckkkk
 // https://stackoverflow.com/questions/21397743/passing-html-input-value-as-a-javascript-function-parameter
+
+// another fact of the day 
+// for the sake of temporary fun with your partner/family/friends/anything we should not play with ones heart 
+// because it is very painful ..behave like real human 
+// god is watching ..dont perform sin bean kind of things 
+// this is truly a sign of heartless ,emotionless species..they deserve to be animal 
+// by mistake they are into human species  
+// 
