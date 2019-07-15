@@ -259,3 +259,6 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 
 // wow link to check arrray ray
 // https://www.freecodecamp.org/news/https-medium-com-gladchinda-hacks-for-creating-javascript-arrays-a1b80cb372b/
+
+// another wow ether in hur-ray array 
+// https://www.loginradius.com/engineering/16-javascript-hacks-for-optimization/
