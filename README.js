@@ -363,3 +363,6 @@ a(10,100,10);
 // honesty/trust/realBehaviour is very expensive gift ,we cant expect it from virtualHeart soul (warren buffet sayings resultant)
 // d3 with react
 // https://www.youtube.com/watch?v=5FEzELkLsYw
+
+// d3-refernce
+// https://www.youtube.com/watch?v=C4t6qfHZ6Tw
