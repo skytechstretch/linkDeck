@@ -256,3 +256,6 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 // https://regexone.com/?ref=hackr.io
 
 // https://blog.teamtreehouse.com/getting-started-typescript
+
+// wow link to check arrray ray
+// https://www.freecodecamp.org/news/https-medium-com-gladchinda-hacks-for-creating-javascript-arrays-a1b80cb372b/
