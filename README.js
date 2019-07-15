@@ -319,3 +319,18 @@ function a(s,e,d){
 }
 a(10,100,4);
 (23) [10, 14, 18, 22, 26, 30, 34, 38, 42, 46, 50, 54, 58, 62, 66, 70, 74, 78, 82, 86, 90, 94, 98]
+
+// ref 
+// function a(s,e,d){
+    var ok=[{}];
+    var c = (e-s+d)/d;
+    for(var i=s;i<=e;i=i+d){
+     ok.push({i});
+    }
+   
+   ok.forEach(function(element) {
+       element.time= new Date().getHours();
+      });
+    return ok;
+}
+a(10,100,10);
