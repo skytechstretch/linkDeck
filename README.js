@@ -334,3 +334,17 @@ a(10,100,4);
     return ok;
 }
 a(10,100,10);
+
+// function a(s,e,d){
+    var ok=[{}];
+    var c = (e-s+d)/d;
+    for(var i=s;i<=e;i=i+d){
+     ok.push({i});
+    }
+   
+   ok.forEach(function(element) {
+       element.time= new Date().getMilliseconds();
+      });
+    return ok;
+}
+a(10,100,10);
