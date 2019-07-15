@@ -89,22 +89,7 @@ https://alligator.io/js/fetch-api/
 // ohh yeahh slidesss ,ohh nooo,examplesss,without knowing the real depth 
 //,real base these guys are motherfuckerss I can say this with no doubt in my mind
 
-// okay I will give you metaphor for this
-// taking some child to fucktalk(fuck talk is been provided by parents only),so that in future 
-// he can become expert in 69 position 
-// how baby will understand ,the fuck
-// baby dont know to walk through the depth
-// baby dont know the abc of lang 
-// so how he will understand the word fuck 
-// first teach him ,abc...z,then teach him tons 
-// of bascic common sense then that baby 
-/// will come to know about mathemtics of sex 69
 
-// similary in this tech field 
-// there are tons of babies ,join 
-// tech talk to become tech expert which is impossible
-// move your as in chair learn fundamental first 
-// then practise ,then go to motherfucking tech talk 
 
 
 // many assholes are becoming author now 
