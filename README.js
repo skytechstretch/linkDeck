@@ -265,3 +265,6 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 
 //fact of the day :
 //dont let yourself be controlled by people ,money and past experiences 
+
+// bind call apply 
+//https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb
