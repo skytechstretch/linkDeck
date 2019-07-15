@@ -339,6 +339,7 @@ a(10,100,10);
     var ok=[];
     var c = (e-s+d)/d;
     for(var i=s;i<=e;i=i+d){
+console.log(new Date().getMilliseconds());
      ok.push({i});
     }
    
