@@ -262,3 +262,6 @@ https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-diff
 
 // another wow ether in hur-ray array 
 // https://www.loginradius.com/engineering/16-javascript-hacks-for-optimization/
+
+//fact of the day :
+//dont let yourself be controlled by people ,money and past experiences 
