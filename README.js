@@ -348,3 +348,5 @@ a(10,100,10);
 // removing all non-code i.e non-software-development stuff 
 
 // https://frontarm.com/james-k-nelson/when-context-replaces-redux/
+
+//https://codeburst.io/how-to-fetch-data-from-an-api-with-react-hooks-9e7202b8afcd
