@@ -311,7 +311,7 @@ a(10,100,10);
 
 function a(s,e,d){
     var ok=[]
-    var c = (e-s+d)/10;
+    var c = (e-s+d)/d;
     for(var i=10;i<=100;i=i+d){
      ok.push(i)
     }
