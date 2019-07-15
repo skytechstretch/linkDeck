@@ -298,3 +298,13 @@ as output is :
 logPokemon();
 VM469:20 hola allI choose you!
 VM469:21 hola all loves undefined and undefined
+// ref
+function a(s,e,d){
+
+    var c = (e-s+d)/d;
+    console.log(c);
+
+
+}
+
+a(10,100,10);
