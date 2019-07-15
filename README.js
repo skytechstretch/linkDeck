@@ -322,7 +322,7 @@ a(10,100,4);
 
 // ref 
 // function a(s,e,d){
-    var ok=[{}];
+    var ok=[];
     var c = (e-s+d)/d;
     for(var i=s;i<=e;i=i+d){
      ok.push({i});
@@ -336,7 +336,7 @@ a(10,100,4);
 a(10,100,10);
 
 // function a(s,e,d){
-    var ok=[{}];
+    var ok=[];
     var c = (e-s+d)/d;
     for(var i=s;i<=e;i=i+d){
      ok.push({i});
