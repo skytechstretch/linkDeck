@@ -350,3 +350,4 @@ a(10,100,10);
 // https://frontarm.com/james-k-nelson/when-context-replaces-redux/
 
 //https://codeburst.io/how-to-fetch-data-from-an-api-with-react-hooks-9e7202b8afcd
+// https://medium.com/@eliaai/javascript-functional-programming-foreach-map-filter-reduce-f710abb69753
