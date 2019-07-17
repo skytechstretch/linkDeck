@@ -355,3 +355,10 @@ a(10,100,10);
 // https://opensource.appbase.io/reactive-manual/getting-started/reactivebase.html
 
 // https://stackoverflow.com/questions/33479180/what-does-react-native-use-to-allow-javascript-to-be-executed-on-ios-and-android
+
+// objects
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/propertyIsEnumerable
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty
+//http://dmitrysoshnikov.com/ecmascript/es5-chapter-1-properties-and-property-descriptors/
+// https://stackoverflow.com/questions/679915/how-do-i-test-for-an-empty-javascript-object?page=1&tab=votes#tab-top
