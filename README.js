@@ -364,3 +364,5 @@ a(10,100,10);
 // https://stackoverflow.com/questions/679915/how-do-i-test-for-an-empty-javascript-object?page=1&tab=votes#tab-top
 
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor
+
+// http://shop.oreilly.com/product/0636920032977.do
