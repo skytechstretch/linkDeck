@@ -353,3 +353,5 @@ a(10,100,10);
 // https://medium.com/@eliaai/javascript-functional-programming-foreach-map-filter-reduce-f710abb69753
 
 // https://opensource.appbase.io/reactive-manual/getting-started/reactivebase.html
+
+// https://stackoverflow.com/questions/33479180/what-does-react-native-use-to-allow-javascript-to-be-executed-on-ios-and-android
