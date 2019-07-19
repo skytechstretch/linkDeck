@@ -366,3 +366,6 @@ a(10,100,10);
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor
 
 // http://shop.oreilly.com/product/0636920032977.do
+
+// es6 wow link 
+// https://www.freecodecamp.org/news/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c/
