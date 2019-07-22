@@ -374,3 +374,6 @@ a(10,100,10);
 // Object.assign({}, ['7','b','995']);
 
 // https://stackoverflow.com/questions/8012002/create-a-unique-number-with-javascript-time
+
+// not a good soch if u have this approach chachiii
+// https://stackoverflow.com/questions/28199100/probability-of-getting-the-same-value-using-math-random?noredirect=1&lq=1
