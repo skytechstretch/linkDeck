@@ -371,4 +371,4 @@ a(10,100,10);
 // https://www.freecodecamp.org/news/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c/
 
 // for converting arrays in to objects 
-// Object.assign({}, ['a','b','c']);
+// Object.assign({}, ['7','b','995']);
