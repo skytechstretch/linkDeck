@@ -372,3 +372,5 @@ a(10,100,10);
 
 // for converting arrays in to objects 
 // Object.assign({}, ['7','b','995']);
+
+// https://stackoverflow.com/questions/8012002/create-a-unique-number-with-javascript-time
