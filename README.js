@@ -387,4 +387,4 @@ export default createBrowserHistory();// this is going to create history object
 // Instead of browserRouter use plain router ,to avoid conflict of using history object 
 // as browser router has its own history object 
 
-
+// https://www.freecodecamp.org/forum/t/why-use-view-engines-with-express/64475/8
