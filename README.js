@@ -378,3 +378,13 @@ a(10,100,10);
 // not a good soch if u have this approach chachiii
 // https://stackoverflow.com/questions/28199100/probability-of-getting-the-same-value-using-math-random?noredirect=1&lq=1
 // https://stackoverflow.com/questions/36049493/when-exactly-is-componentdidmount-fired
+
+// navigate by using own history object 
+
+import { createBrowserHistory } from 'history'; 
+export default createBrowserHistory();// this is going to create history object
+
+// Instead of browserRouter use plain router ,to avoid conflict of using history object 
+// as browser router has its own history object 
+
+
