@@ -388,3 +388,5 @@ export default createBrowserHistory();// this is going to create history object
 // as browser router has its own history object 
 
 // https://www.freecodecamp.org/forum/t/why-use-view-engines-with-express/64475/8
+// https://www.freecodecamp.org/news/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf/
+
