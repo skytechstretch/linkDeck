@@ -429,3 +429,8 @@ try {
 // be a adjective which everyone see  as a objective in their life to achive positive active mode to derive 
 // success ..i.e become a great example ..i.e simple ripple of positive act
 
+// I also face same uncomfortability ,when I walk on road many orange 
+// directly see towards my banana ..majority of these orange 
+// are unsatisfied species ...so appeal to all their banana partner ...
+// devote some time on bed also apart from drinksparty 
+// because ohhyeahhh pleasure is the greatest taste
