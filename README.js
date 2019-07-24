@@ -415,3 +415,8 @@ try {
 // lust attraction remains till your young age ohhyeahh peakk
 // love is permanentttt,so dont get amused by lust popularity 
 // as these kind of popularity is the key to hell
+
+// btw how tharkii buddha used to perform insert operation 
+// as per my reasoning it is just like low weight cotton someone rubbing 
+// with o amount of force 
+// 
