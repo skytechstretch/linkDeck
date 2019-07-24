@@ -410,3 +410,8 @@ try {
 
 // advise to all ,dont judge the book by its cover 
 // and dont judge any product by its advertisement 
+
+// lust lust everywhere not a drop of actual love to drink 
+// lust attraction remains till your young age ohhyeahh peakk
+// love is permanentttt,so dont get amused by lust popularity 
+// as these kind of popularity is the key to hell
