@@ -390,3 +390,19 @@ export default createBrowserHistory();// this is going to create history object
 // https://www.freecodecamp.org/forum/t/why-use-view-engines-with-express/64475/8
 // https://www.freecodecamp.org/news/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf/
 
+
+// below code I will like to dedicate to old tharkiii weakDick who dont have any valid number to 
+// perform up and down i.e behuda budha whose ohhyeah performance is like kuda 
+
+const getWet = (open) => {
+ if (typeof open !== 'number') {
+ throw Error('error is like mirror')
+ }
+ return open +" "+times
+}
+try {
+ const getWett  = getWet('12')
+ console.log(getWett) 
+} catch (e) {
+ console.log('Error ON DEAD Bomb'+e) 
+}
