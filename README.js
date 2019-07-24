@@ -456,3 +456,12 @@ try {
 // genuine feedback by seeing face of yo yo paper I can say yo yo is trustworthy 
 // sensitive ,oneface,pureinreflection,innocentSoul..I really got a lot of inspiration from u 
 // and will be taking from u as a friend .
+
+// human married with human 
+// just by  reading that whether that species is human or not 
+
+// but smart people just like me for example ..dig one more step 
+// by implementiong face reading technique that whether that human has 
+// good soch or niyat or not thats it this is why I am very selective 
+// bcz i have more knowledge to know someone just by seeing their behaviour and face..this is called psychology ..
+
