@@ -423,4 +423,9 @@ try {
 // as old banana wants peakkk jawaniii to rest his 100less object 
 // not all old banana is valid here ,some old banana is like 
 // true guide
-// 
+// lust can push dozens of motherfucker towards tight orange with the wrapper of sweet drug
+// tight orange thinks omg I am so popular ,majority of tight orange fact 
+// so change this popularity view to escape motherfucker from your life 
+// be a adjective which everyone see  as a objective in their life to achive positive active mode to derive 
+// success ..i.e become a great example ..i.e simple ripple of positive act
+
