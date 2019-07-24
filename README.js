@@ -465,3 +465,6 @@ try {
 // good soch or niyat or not thats it this is why I am very selective 
 // bcz i have more knowledge to know someone just by seeing their behaviour and face..this is called psychology ..
 
+// dont take it as offence ...I like to spend my time in aloneMode..because I love this mode 
+// its nothing that I dont like my friends or colloeague or whatever..if u need help any time 
+// if I can help with my power then I will definetly execute help 24*7..
