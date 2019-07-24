@@ -437,3 +437,22 @@ try {
 
 // I am happy with self ohh yeahhh with plenty of online site 
 // contents 
+// I still believe in my Face Reading Knowledge 
+// because I learnt it from my roll model 
+// who is my roll model ?
+// it is a xxxxxllll superStarrrr,you all can see ..
+
+// i have imaturity during 2007 to 17 ..so very bad 
+// desicion I have made totally neglecting the truth 
+// just to hug my lonelliness with some sort of virtual feeling 
+
+// I have re-read the face of 2007-17 earlier all my dear ones voted them as as two face species 
+// only one face in my life is voted as okay by all my dear ones and by me i.e yo yo paper 
+// but unluckily that face also is now not in my destinyyy
+// i m really shocked that how this can happen ..but i have now accepted the paper decision
+// love is automatic feeling ,if u r forcing someone then it is not love 
+// so My search is now on for two side automatic feeling because this is blessing 
+// because one side automatic feeling is just like a accidentt,we all should avoid it
+// genuine feedback by seeing face of yo yo paper I can say yo yo is trustworthy 
+// sensitive ,oneface,pureinreflection,innocentSoul..I really got a lot of inspiration from u 
+// and will be taking from u as a friend .
