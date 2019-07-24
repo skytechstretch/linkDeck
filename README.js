@@ -419,4 +419,7 @@ try {
 // btw how tharkii buddha used to perform insert operation 
 // as per my reasoning it is just like low weight cotton someone rubbing 
 // with o amount of force 
-// 
+// old banana never gets attracted with old orange 
+// as old banana wants peakkk jawaniii to rest his 100less object 
+// not all old banana is valid here ,some old banana is like 
+// true guide
