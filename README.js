@@ -457,15 +457,7 @@ try {
 // sensitive ,oneface,pureinreflection,innocentSoul..I really got a lot of inspiration from u 
 // and will be taking from u as a friend .
 
-// human married with human 
-// just by  reading that whether that species is human or not 
-
-// but smart people just like me for example ..dig one more step 
-// by implementiong face reading technique that whether that human has 
-// good soch or niyat or not thats it this is why I am very selective 
-// bcz i have more knowledge to know someone just by seeing their behaviour and face..this is called psychology ..
-
-// dont take it as offence ...I like to spend my time in aloneMode..because I love this mode 
+.I like to spend my time in aloneMode..because I love this mode 
 // its nothing that I dont like my friends or colloeague or whatever..if u need help any time 
 // if I can help with my power then I will definetly execute help 24*7..
 // so if I am not coming in some gathering or party or whatever dont tag me as antisocial
