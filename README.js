@@ -406,3 +406,5 @@ try {
  console.log('Error ON DEAD Bomb'+e) 
 }
 // no one has double facee..alll just got better good niyat face...
+// Nature is rude ..Yep..Nature Is straight forward with 0 tolerance of any 
+// kind of shit..in all the field.
