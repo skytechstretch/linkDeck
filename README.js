@@ -405,4 +405,5 @@ try {
 } catch (e) {
  console.log('Error ON DEAD Bomb'+e) 
 }
-
+// react context
+// https://medium.com/@wisecobbler/using-context-in-react-56a8e7da5431
