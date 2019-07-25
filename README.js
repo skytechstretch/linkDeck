@@ -405,3 +405,4 @@ try {
 } catch (e) {
  console.log('Error ON DEAD Bomb'+e) 
 }
+// no one has double facee..alll just got better good niyat face...
