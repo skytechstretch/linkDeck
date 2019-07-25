@@ -391,8 +391,7 @@ export default createBrowserHistory();// this is going to create history object
 // https://www.freecodecamp.org/news/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf/
 
 
-// below code I will like to dedicate to old tharkiii weakDick who dont have any valid number to 
-// perform up and down i.e behuda budha whose ohhyeah performance is like kuda 
+// error handling synchronus way
 
 const getWet = (open) => {
  if (typeof open !== 'number') {
@@ -406,54 +405,3 @@ try {
 } catch (e) {
  console.log('Error ON DEAD Bomb'+e) 
 }
-// whenever I see Oldyy With the above Intention ,I recalll Xvidosss category
-
-// advise to all ,dont judge the book by its cover 
-// and dont judge any product by its advertisement 
-
-// lust lust everywhere not a drop of actual love to drink 
-// lust attraction remains till your young age ohhyeahh peakk
-// love is permanentttt,so dont get amused by lust popularity 
-// as these kind of popularity is the key to hell
-
-// btw how tharkii buddha used to perform insert operation 
-// as per my reasoning it is just like low weight cotton someone rubbing 
-// with o amount of force 
-// old banana never gets attracted to old orange 
-// as old banana wants peakkk jawaniii to rest his 100less object 
-// not all old banana is valid here ,some old banana is like 
-// true guide
-// lust can push dozens of motherfucker towards tight orange with the wrapper of sweet drug
-// tight orange thinks omg I am so popular ,majority of tight orange fact 
-// so change this popularity view to escape motherfucker from your life 
-// be a adjective which everyone see  as a objective in their life to achive positive active mode to derive 
-// success ..i.e become a great example ..i.e simple ripple of positive act
-
-// I also face same uncomfortability ,when I walk on road many orange 
-// directly see towards my banana ..majority of these orange 
-// are unsatisfied species ...so appeal to all their banana partner ...
-// devote some time on bed also apart from drinksparty 
-// because ohhyeahhh pleasure is the greatest taste
-
-// I am happy with self ohh yeahhh with plenty of online site 
-// contents 
-// I still believe in my Face Reading Knowledge 
-// because I learnt it from my roll model 
-// who is my roll model ?
-// it is a xxxxxllll superStarrrr,you all can see ..
-
-// i have imaturity during 2007 to 17 ..so very bad 
-// desicion I have made totally neglecting the truth 
-// just to hug my lonelliness with some sort of virtual feeling 
-
-// I have re-read the face of 2007-17 earlier all my dear ones voted them as as two face species 
-// only one face in my life is voted as okay by all my dear ones and by me i.e yo yo paper 
-// but unluckily that face also is now not in my destinyyy
-// i m really shocked that how this can happen ..but i have now accepted the paper decision
-// love is automatic feeling ,if u r forcing someone then it is not love 
-// so My search is now on for two side automatic feeling because this is blessing 
-// because one side automatic feeling is just like a accidentt,we all should avoid it
-// genuine feedback by seeing face of yo yo paper I can say yo yo is trustworthy 
-// sensitive ,oneface,pureinreflection,innocentSoul..I really got a lot of inspiration from u 
-// and will be taking from u as a friend .
-
