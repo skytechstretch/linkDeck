@@ -407,3 +407,7 @@ try {
 }
 // react context
 // https://medium.com/@wisecobbler/using-context-in-react-56a8e7da5431
+
+// closures in javascript 
+
+// https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
