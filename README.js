@@ -417,3 +417,5 @@ try {
 // https://stackoverflow.com/questions/54709006/store-array-with-key-value
 // react-form
 // https://codesandbox.io/embed/n7l025m5y4?module=%2Fsrc%2FRegistrationForm.jsx&source=post_page---------------------------
+
+// https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
