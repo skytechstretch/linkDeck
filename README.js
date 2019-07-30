@@ -428,3 +428,5 @@ try {
 // my wifi name is big click so my neighbour always want to grab it as it offers high speed performance 
 // AWESOME SONGG
 // https://www.youtube.com/watch?v=qhea1U3v1_o
+// virtual-dom||diffing algorithm
+// https://dzone.com/articles/dom-manipulation-in-react
