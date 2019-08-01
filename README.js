@@ -455,3 +455,10 @@ try {
 // WILL PUBLISH GLOBALLY SOME OF THE HULL ULLUUU COLLEGE DROPOUT ENTREPRENUR SHIT FACT THAT HOW THEY RUN THEIR HOME 
 //BREAD BUTTER ..
 // DONT GET HEART ATTACK THAT TIMEEE.
+// always say my stength Is I am Logical with magicall approach (try this out only if u have confidence to dismiss their offer)
+// weakness ,after doing self ohh yeah  3-5 times I feel weakness thats it 
+// 
+// i have seen many ones aying I am with positive attitutde with bunch of 
+// wow italian idiom phrasesss...and weakness I am like gandhii..I a m like leonee...hell 
+// plenty lot of virtual reality factssss
+
