@@ -462,3 +462,5 @@ try {
 // wow italian idiom phrasesss...and weakness I am like gandhii..I a m like leonee...hell 
 // plenty lot of virtual reality factssss
 
+// at the end of this hell lot of shit what matters is your skill and discipline 
+// in every kind of field .
