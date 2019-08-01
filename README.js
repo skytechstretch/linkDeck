@@ -442,3 +442,7 @@ try {
 // candidates has sent you resume are u duffer to analyse strength 
 // weakness..are u motherfucking doctor that u will provide me capsule 
 // by knowing weakness
+
+// some dummy technical experttt with hell lot of whattt whatt whatt ques?
+
+// and then these motherfuckersss...need proper education and strategyyy
