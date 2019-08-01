@@ -430,3 +430,15 @@ try {
 // https://www.youtube.com/watch?v=qhea1U3v1_o
 // virtual-dom||diffing algorithm
 // https://dzone.com/articles/dom-manipulation-in-react
+
+// I think founders from hululu ullu kind of college is creating 
+// hell lot of donkey mechanism strategy to Judge skill
+
+// some of the samples of idiotic question in which thesee huhlulllu entreprenurs are expert
+
+// what are your strength 
+// what is your weakness 
+
+// candidates has sent you resume are u duffer to analyse strength 
+// weakness..are u motherfucking doctor that u will provide me capsule 
+// by knowing weakness
