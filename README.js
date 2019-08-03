@@ -464,3 +464,5 @@ try {
 
 // at the end of this hell lot of shit what matters is your skill and discipline 
 // in every kind of field .
+
+// https://docs.aws.amazon.com/lambda/latest/dg/nodejs-prog-model-handler.html
