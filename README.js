@@ -469,5 +469,4 @@ try {
 // buddha the best buddyy quotesss to dresssss lifeee
 // https://www.yourselfquotes.com/gautam-buddha-quotes/
 
-// mitronn aaj 8 baje ke baad choclatteee will be  biharyyyy liteeeee..as biharyyy liteeee sounds 
-// cooll
+// mitronn aaj 8 baje ke baad choclatteee will be choclateeee onlyyyy
