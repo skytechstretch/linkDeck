@@ -466,3 +466,5 @@ try {
 // in every kind of field .
 
 // https://docs.aws.amazon.com/lambda/latest/dg/nodejs-prog-model-handler.html
+// buddha the best buddyy quotesss to dresssss lifeee
+// https://www.yourselfquotes.com/gautam-buddha-quotes/
