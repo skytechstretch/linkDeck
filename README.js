@@ -469,5 +469,5 @@ try {
 // buddha the best buddyy quotesss to dresssss lifeee
 // https://www.yourselfquotes.com/gautam-buddha-quotes/
 
-// mitronn aaj 8 baje ke baad choclatteee will be choclateeee onlyyyy
-// now I am buddha real followerssss..i.e RIP ANGRY ..IT IS SELF DESTRUCTION..
+// stack --heap >>concept
+//https://glebbahmutov.com/blog/javascript-stack-size/
