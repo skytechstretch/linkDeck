@@ -471,3 +471,5 @@ try {
 
 // stack --heap >>concept
 //https://glebbahmutov.com/blog/javascript-stack-size/
+
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error
