@@ -475,3 +475,5 @@ try {
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error
 //when no of server inc based on traffic then refer below link..
 //https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8
+// algopogo 
+// https://www.spoj.com/
