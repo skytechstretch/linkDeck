@@ -522,4 +522,4 @@ chocolate:"daisy milk'
 // but i think about my childhood again 
 // so i get afraid of loosing all my white bone
 // daisy was my first neighbour (jab se hosss sambhala hai)
-// who use to give me chocolatess a lot 
+// who use to give me diary milk  a lot 
