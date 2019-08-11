@@ -513,7 +513,7 @@ const phoneBookList = function (phonebook, name) {
 // via some storage 
 // var shoppingToday = {
 condoms:'4 for seldf ohh yeahh onlyyy',
-chocolate:"daisy milk'
+sweet:"daisy milk'
 }
 // so refer screen shot 5.51 that how one can suggest missing info..
 // aplologies from my mind for liitle bit of typo 
