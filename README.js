@@ -521,3 +521,5 @@ chocolate:"daisy milk'
 // diary milk which i think to eat daily 
 // but i think about my childhood again 
 // so i get afraid of loosing all my white bone
+// daisy was my first neighbour (jab se hosss sambhala hai)
+// who use to give me chocolatess a lot 
