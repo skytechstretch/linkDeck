@@ -477,3 +477,30 @@ try {
 //https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8
 // algopogo 
 // https://www.spoj.com/
+
+// so,how phone contacts support deleting or similar kind of 
+// operation in some other scenario...
+
+const phonebook = [{
+    name: 'adam',
+    number: 69-69-100
+},
+  {
+    name: 'lewis',
+    number: 69-00-100
+},
+       {
+    name: 'mohan',
+    number: 69-2342-100
+}            
+]
+
+const phoneBookList = function (phonebook, name) {
+    const index = phonebook.findIndex(function (list) {
+        return list.name.toLowerCase() === name.toLowerCase()
+    })
+
+    if (index > -1) {
+        phonebook.splice(index, 1)
+    }
+}
