@@ -523,3 +523,5 @@ sweet:"daisy milk'
 // so i get afraid of loosing all my white bone
 // daisy was my first neighbour (jab se hosss sambhala hai)
 // who use to give me diary milk  a lot 
+// how to react on react to get right insight
+// https://github.com/petehunt/react-howto#how-to-tackle-the-react-ecosystem
