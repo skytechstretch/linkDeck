@@ -504,3 +504,4 @@ const phoneBookList = function (phonebook, name) {
         phonebook.splice(index, 1)
     }
 }
+// refer screenshot 5.34 ...for the view of updatedcontact list
