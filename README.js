@@ -517,7 +517,7 @@ sweet:"daisy milk'
 }
 // so refer screen shot 5.51 that how one can suggest missing info..
 // aplologies from my mind for liitle bit of typo 
-// in chocolate section actually it should be 
+// in sweet section actually it should be 
 // diary milk which i think to eat daily 
 // but i think about my childhood again 
 // so i get afraid of loosing all my white bone
