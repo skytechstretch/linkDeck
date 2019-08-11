@@ -515,7 +515,7 @@ const phoneBookList = function (phonebook, name) {
 condoms:'4 for seldf ohh yeahh onlyyy',
 sweet:"daisy milk'
 }
-// so refer screen shot 5.51 that how one can suggest missing info..
+// so refer screen shot 6.02 that how one can suggest missing info..
 // aplologies from my mind for liitle bit of typo 
 // in sweet section actually it should be 
 // diary milk which i think to eat daily 
