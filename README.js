@@ -505,3 +505,15 @@ const phoneBookList = function (phonebook, name) {
     }
 }
 // refer screenshot 5.34 ...for the view of updatedcontact list
+
+// how bigbasket sense that you should purchase atta also 
+// based on your previous shopping history 
+
+// nothing new everything they implement as memory based techinques 
+// via some storage 
+// var shoppingToday = {
+condoms:'4 for seldf ohh yeahh onlyyy',
+chocolate:"daisy milk'
+}
+// so refer screen shot that how one can suggest missing info..
+
