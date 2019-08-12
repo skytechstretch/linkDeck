@@ -525,3 +525,5 @@ sweet:"daisy milk'
 // who use to give me diary milk  a lot 
 // how to react on react to get right insight
 // https://github.com/petehunt/react-howto#how-to-tackle-the-react-ecosystem
+// this linkdeck is increasing daily..so i can say this deck is becomingg
+// now maturee to give satisfaction via knowledgable graph...
