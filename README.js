@@ -547,3 +547,9 @@ sweet:"daisy milk'
 // wasted kgs amount of time in motherfucking tech talk 
 // i guaranteee..in codejam the the event organizer pionerrr i.e tech talk main chalk
 // can even not pass the first round of code jam 
+// hey you 
+// would you like to 
+// click new tech 
+// daily 
+// guess from where I have cloned above hey you text
+// they are genious marketer I can say
