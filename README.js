@@ -580,3 +580,7 @@ sweet:"daisy milk'
 // UX always want satisfaction which only better UI can Provide
 // UX/UI i.e experince via click,scroll slide,i.e a UI part brings WOW to UX.
 //UX in ML
+// so how UX IN ML
+// SEE SINCE MACHINE LEARNING (ML) LIKES MAL (MACHINE ADAPTIVE LEARNERS)
+// SO THERE ARE MANY SCENARIOS WHERE ML IN UX ..VIA WOW UI..
+// LIKE PREDICTING SENSEX AND SHOWING USERS IN SOME SORT OF DASHBOARD SECTION
