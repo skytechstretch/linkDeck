@@ -576,3 +576,4 @@ sweet:"daisy milk'
 // pleasure should be same 
 // i.e user should feel comfort in any device while travesing your website..
 // i.e user experience I can say
+// in css we can customize the ui size based on UX 
