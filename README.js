@@ -551,5 +551,7 @@ sweet:"daisy milk'
 // would you like to 
 // click new tech 
 // daily 
+// if yes then go to codacademy.com 
+// its free and no bullshitt
 // guess from where I have cloned above hey you text
 // they are genious marketer I can say
