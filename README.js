@@ -540,4 +540,8 @@ sweet:"daisy milk'
 // onReturn whats the gain..the only gain is 
 // tech,tech for life,hell lot of one-liner quotes merged with tech like we are tech to teach the world bigclick quotess
 //thats itttt
-
+// these guys create pseudo scene to look themselves as tech top branch
+// if u have capability ,I will suggest to partcipate in code hackathon ,codejam,
+// or any competitive coding challenge and then share 
+// feeling dumb ..need some proper event guidance 
+// wasted kgs amount of time in motherfucking tech talk 
