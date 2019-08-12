@@ -569,3 +569,4 @@ sweet:"daisy milk'
 // javascript understanding the weird parts from udemy 
 // its a awesome course to know some weird stuffss
 
+// why to learn css ?
