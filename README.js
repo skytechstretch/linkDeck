@@ -574,3 +574,5 @@ sweet:"daisy milk'
 // thus impacting business  ..
 // responsive web page in css means either bed is small ,large or xxxl large 
 // pleasure should be same 
+// i.e user should feel comfort in any device while travesing your website..
+// i.e user experience I can say
