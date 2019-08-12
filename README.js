@@ -570,3 +570,7 @@ sweet:"daisy milk'
 // its a awesome course to know some weird stuffss
 
 // why to learn css ?
+// It is a webPage makeup kit..which can attract lot of users 
+// thus impacting business  ..
+// responsive web page in css means either bed is small ,large or xxxl large 
+// pleasure should be same 
