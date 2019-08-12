@@ -546,4 +546,4 @@ sweet:"daisy milk'
 // feeling dumb ..need some proper event guidance 
 // wasted kgs amount of time in motherfucking tech talk 
 // i guaranteee..in codejam the the event organizer pionerrr i.e tech talk main chalk
-// can even not qualify the first round of code jam 
+// can even not pass the first round of code jam 
