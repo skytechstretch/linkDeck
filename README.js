@@ -538,5 +538,6 @@ sweet:"daisy milk'
 // tech-talk on react at gfhg venue ...
 // omg 4 snapshot..attending tech talk ...feeling wow 
 // onReturn whats the gain..the only gain is 
-// tech,tech for life,hell lot of one-liner quotes merged with tech like we are tech to teach the world bigclick quotess thats itttt
+// tech,tech for life,hell lot of one-liner quotes merged with tech like we are tech to teach the world bigclick quotess
+//thats itttt
 
