@@ -565,3 +565,6 @@ sweet:"daisy milk'
 // full health belt
 //just see the confidence 
 // https://youtu.be/e-5obm1G_FY
+// this tech talk things has been extracted from 
+// javascript understanding the weird parts from udemy 
+// its a awesome course to know some weird stuffss
