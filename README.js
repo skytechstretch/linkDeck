@@ -555,3 +555,5 @@ sweet:"daisy milk'
 // its free and no bullshitt
 // guess from where I have cloned above hey you text
 // they are genious marketer I can say
+// Life is all about pleasure I can say with no doubt in my mind 
+// pleasure via gods preach I mean (including workdev i.e head of worksutra)
