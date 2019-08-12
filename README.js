@@ -534,4 +534,4 @@ sweet:"daisy milk'
 // 1 thread can design n no of distinct cloth
 // many times i have seen idiot talking..one knows only js
 // framework is like unknown to that js noun
-// idiots framework are just like wrapper around actual contents..
+// idiots framework/lib are just like wrapper around actual contents..
