@@ -532,6 +532,6 @@ sweet:"daisy milk'
 // https://hackernoon.com/angular-vs-react-vs-vue-which-is-the-best-choice-for-2019-16ce0deb3847
 // framework is like cloth...language is like thread ..
 // 1 thread can design n no of distinct cloth
-// many times i have seen idiot talking..one knows only js
+// many times i have seen idiot more precisely event/pseudo tech-talk foloowers  talking..one knows only js
 // framework is like unknown to that js noun
 // idiots framework/lib are just like wrapper around actual contents..
