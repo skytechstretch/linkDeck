@@ -529,3 +529,4 @@ sweet:"daisy milk'
 // now maturee to give satisfaction via knowledgable graph...
 //vueJs
 // https://www.vuemastery.com/courses
+// https://hackernoon.com/angular-vs-react-vs-vue-which-is-the-best-choice-for-2019-16ce0deb3847
