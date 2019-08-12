@@ -535,3 +535,8 @@ sweet:"daisy milk'
 // many times i have seen idiot more precisely event/pseudo tech-talk foloowers  talking..one knows only js
 // framework is like unknown to that js noun
 // idiots framework/lib are just like wrapper around actual contents..
+// tech-talk on react at gfhg venue ...
+// omg 4 snapshot..attending tech talk ...feeling wow 
+// onReturn whats the gain..the only gain is 
+// tech,tech for life,hell lot of one-liner quotes merged with tech like we are tech to teach the world bigclick quotess thats itttt
+
