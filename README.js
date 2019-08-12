@@ -568,3 +568,11 @@ sweet:"daisy milk'
 // this tech talk things has been extracted from 
 // javascript understanding the weird parts from udemy 
 // its a awesome course to know some weird stuffss
+
+// creating beautiful ui in web  with animation requires lot of time
+// i have invested lot of my time in UI part of web ,whichEver u people 
+// have seen till now
+// so below link ,one can refer and can playaround with it 
+// so why to learn css ?
+// to impress crush /to earn money/
+//https://css-tricks.com/ or one can refer w3school.com(for starters)
