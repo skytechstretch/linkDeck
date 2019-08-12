@@ -557,3 +557,9 @@ sweet:"daisy milk'
 // they are genious marketer I can say
 // Life is all about pleasure I can say with no doubt in my mind 
 // pleasure via gods preach I mean (including workdev i.e head of worksutra)
+// trending slogan in twiterr sitter
+// tum mujhe whole do mai tumhe pleasure dunga inspired from subhas
+// chandra boseee i.e give your whole commitment I will give you the 
+// banana pleasure i.e healthy body ...i.t all about 
+// swimming where whole body acts ...thus giving you 
+// full health belt
