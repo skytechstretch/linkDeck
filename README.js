@@ -598,3 +598,4 @@ sweet:"daisy milk'
 // people see undefined
 // in javascript ,when you write expression like var a ="landshot",it is not returning anything so undefined 
 // comes it is behaviour of js code nothing related to mine view 
+// landshot ? what is this stuff ?
