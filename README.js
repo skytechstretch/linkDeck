@@ -599,5 +599,5 @@ sweet:"daisy milk'
 // in javascript ,when you write expression like var a ="landshot",it is not returning anything so undefined 
 // comes it is behaviour of js code nothing related to mine view 
 // landshot ? what is this stuff ?
-// it is a shot towardds hole i.e hockey ,football net...in the land 
+// it is a shot towardds hole i.e hockey ,football net or golf context...in the land 
 // i.e totally wow stuff ,pleasure kind of adjective 
