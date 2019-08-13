@@ -615,3 +615,5 @@ sweet:"daisy milk'
 // this is just the respect for my virtual belif..
 // i never try to RE-connect with same sin scene PLACE WITH SAME HEART FACE
 // so 1 req ..DND FOREVER
+// ONLY OHH YEAHH TYPE ATTRACTION LAST FOR HOURS LIKE A DAILY ROUTINE 
+// OHH YEAHH +GOOD SOUL FEEL LASTS TILL LAST OXYGEN INTAKE
