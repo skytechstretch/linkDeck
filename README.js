@@ -607,3 +607,8 @@ sweet:"daisy milk'
 // one can play with fruits but never play with innocencyyy and heart 
 // it is the biggest sin which even rin cant clean..
 // so save this text scene in your skin..
+// world is cruel..so stay alert with brain vein..
+// everyone is not like nature ..so if performing same sin scene 
+// with anyone then beware..I express via word ...rarely 
+// i have referncedd any heart sin with my word..
+// as i dont like to express word sword regarding heart sin
