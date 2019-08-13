@@ -596,3 +596,5 @@ sweet:"daisy milk'
 // just like nature i.e me
 // hola all ..refer screenshot 6.2 or any screen shot where you 
 // people see undefined
+// in javascript ,when you write expression like var a ="landshot",it is not returning anything so undefined 
+// comes it is behaviour of js code nothing related to mine view 
