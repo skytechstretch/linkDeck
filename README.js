@@ -609,7 +609,7 @@ sweet:"daisy milk'
 // so save this text scene in your skin..
 // world is cruel..so stay alert with brain vein..
 // everyone is not like nature ..so if performing same sin scene 
-// with anyone then beware..I express via word ...rarely 
+// with anyone then beware AS THAT ANYONE CAN EMIT WORST UNDIGESTABLE SHITTT ..I express via word ...rarely 
 // i have referncedd any heart sin with my word..
 // as i dont like to express word sword regarding heart sin
 // this is just the respect for my virtual belif..
