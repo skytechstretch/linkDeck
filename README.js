@@ -601,3 +601,5 @@ sweet:"daisy milk'
 // landshot ? what is this stuff ?
 // it is a shot towardds hole i.e hockey ,football net or golf context...in the land 
 // i.e totally wow stuff ,pleasure kind of adjective 
+// refer ok.jpg it is a behavioural analysis based on all 
+// kind of fruit who do switch always i.e they love selfish stituationship not selfless relationship
