@@ -591,3 +591,6 @@ sweet:"daisy milk'
 // ONLY WEBPAGE SHOULD APPLYMAKEUP,HUMAN SHOULD NOT BECAUSE 
 // NATURAL BEAUTY  IS A BEST BEAUTYYY
 // NON-RISKY WHISKY HAS NO SIDE EFFECT SO ONE CAN TAKE IN LIMIT 
+// if from 572 to anyline..you have felt self ohh yeahh feel
+// then congratss you are excellent visualizer as well as reader 
+// just like nature i.e me
