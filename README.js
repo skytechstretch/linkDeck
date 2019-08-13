@@ -612,3 +612,6 @@ sweet:"daisy milk'
 // with anyone then beware..I express via word ...rarely 
 // i have referncedd any heart sin with my word..
 // as i dont like to express word sword regarding heart sin
+// this is just the respect for my virtual belif..
+// i never try to RE-connect with same sin scene PLACE WITH SAME HEART FACE
+// so 1 req ..DND FOREVER
