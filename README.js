@@ -604,3 +604,6 @@ sweet:"daisy milk'
 // refer ok.jpg it is a behavioural analysis based on all 
 // kind of fruit who do switch always i.e they love selfish stituationship not selfless relationship
 // only one word for situationship followersss...god bless you..
+// one can play with fruits but never play with innocencyyy and heart 
+// it is the biggest sin which even rin cant clean..
+// so save this text scene in your skin..
