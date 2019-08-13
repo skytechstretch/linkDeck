@@ -603,3 +603,4 @@ sweet:"daisy milk'
 // i.e totally wow stuff ,pleasure kind of adjective 
 // refer ok.jpg it is a behavioural analysis based on all 
 // kind of fruit who do switch always i.e they love selfish stituationship not selfless relationship
+// only one word for situationship followersss...god bless you..
