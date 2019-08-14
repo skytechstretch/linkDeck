@@ -625,5 +625,6 @@ sweet:"daisy milk'
 // preach of lesson should follow broadcasting...to show the real adjectives 
 // of disguice face so that one can gain knowledge without any practical means but via 
 // words fact..thatss ittt
-// you are unique sweetdrugg with mind endowedd with 420 type approach as well as your closee friendd I can sayy ...
+// you are unique sweetdrugg with mind endowedd with 420 type approach as well as your closee friendd is 
+// also greater than you in this definition I can sayy ...
 // with no doubt in my mind
