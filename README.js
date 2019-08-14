@@ -628,3 +628,5 @@ sweet:"daisy milk'
 // you are unique sweetdrugg with mind endowedd with 420 type approach as well as your closee friendd is 
 // also greater than you in this definition I can sayy ...
 // with no doubt in my mind
+// you both are virus ..your partner will suffer worst in his life 
+// i can say if soul things remain same on your section..
