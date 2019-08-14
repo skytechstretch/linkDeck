@@ -618,3 +618,7 @@ sweet:"daisy milk'
 // ONLY OHH YEAHH TYPE ATTRACTION LAST FOR HOURS LIKE A DAILY ROUTINE 
 // OHH YEAHH +GOOD SOUL FEEL ATTRACTION LASTS TILL LAST OXYGEN INTAKE
 //
+// call by refernce in js is cool approach 
+// similarly nature used to do praise by refernce 
+// bcz its gives clear vision with comparison season
+// i hope you understand this fact 
