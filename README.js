@@ -638,3 +638,4 @@ sweet:"daisy milk'
 // once i get the feel to troll sweetdruggg..i dont see my past virtual belief also...
 // ypu have emitted worstttt reflectionnn...just save this in your sweetdruggg containerrr
 // i willl suggest go and visit some mental hospitalll 
+// your friend is a great story makerrrr..tell her to particiapte in drama 
