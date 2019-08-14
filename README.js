@@ -643,3 +643,5 @@ sweet:"daisy milk'
 // ack ...and then telling other that i got feelings about herr...
 // what the hell renderrr ...UI is avg ..behaviour I dont know 
 // and i got feelling... she is really a great virtual story makerrrr
+// heart matcher ,she is trying to becomeee...tell her 
+// to be in limitt and dont emittt rubbishhhh kind of fact to innocent soulll
