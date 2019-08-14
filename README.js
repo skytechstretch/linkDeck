@@ -630,3 +630,7 @@ sweet:"daisy milk'
 // with no doubt in my mind
 // you both are virus ..your partner will suffer worst in his life 
 // i can say if soul things remain same on your section..
+// i will write the fact 10000000 timesss ...will make disguice faceeee
+// a clear face in all place so that some other faceeee dont get the tasteee
+// of sweetdrugggg
+// you are female version of whyashhhh
