@@ -639,3 +639,7 @@ sweet:"daisy milk'
 // ypu have emitted worstttt reflectionnn...just save this in your sweetdruggg containerrr
 // i willl suggest go and visit some mental hospitalll 
 // your friend is a great story makerrrr..tell her to particiapte in drama 
+// pinging me randomly in some other cell whatsapp..and demanding pic with wow 
+// ack ...and then telling other that i got feelings about herr...
+// what the hell renderrr ...UI is avg ..behaviour I dont know 
+// and i got feelling... she is really a great virtual story makerrrr
