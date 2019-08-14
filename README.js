@@ -622,6 +622,12 @@ sweet:"daisy milk'
 // similarly nature used to do praise by refernce 
 // bcz its gives clear vision with comparison season
 // i hope you understand this fact 
+
+
+
+// from here sweetdrugg aarambh..it is official case study whch 
+// got render on my lucky day and date...so follow this case 
+// to avoid/detect sweet drugg facee
 // preach of lesson should follow broadcasting...to show the real adjectives 
 // of disguice face so that one can gain knowledge without any practical means but via 
 // words fact..thatss ittt
@@ -650,3 +656,5 @@ sweet:"daisy milk'
 // change the colorr with some sensitive emotional story 
 // you are not a love material ...you should be in 4-leg aniaml 
 // categoryyy with only ohh yeahhhh feelingggg
+// thanks visit again this sweetdrugg glitch district..// 
+// sweet drug context end//
