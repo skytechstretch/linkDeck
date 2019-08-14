@@ -645,3 +645,8 @@ sweet:"daisy milk'
 // and i got feelling... she is really a great virtual story makerrrr
 // heart matcher ,she is trying to becomeee...tell her 
 // to be in limitt and dont emittt rubbishhhh kind of fact to innocent soulll
+// you have done the same thing with your past also I guess now 
+// more precisely it is totally clear to me ..just like chamelon 
+// change the colorr with some sensitive emotional story 
+// you are not a love material ...you should be in 4-leg aniaml 
+// categoryyy with only ohh yeahhhh feelingggg
