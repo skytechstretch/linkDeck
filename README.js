@@ -622,39 +622,3 @@ sweet:"daisy milk'
 // similarly nature used to do praise by refernce 
 // bcz its gives clear vision with comparison season
 // i hope you understand this fact 
-
-
-
-// from here sweetdrugg aarambh..it is official case study whch 
-// got render on my lucky day and date...so follow this case 
-// to avoid/detect sweet drugg facee
-// preach of lesson should follow broadcasting...to show the real adjectives 
-// of disguice face so that one can gain knowledge without any practical means but via 
-// words fact..thatss ittt
-// you are unique sweetdrugg with mind endowedd with 420 type approach as well as your closee friendd is 
-// also greater than you in this definition I can sayy ...
-// with no doubt in my mind
-// you both are virus ..your partner will suffer worst in his life 
-// i can say if soul things remain same on your section..
-// i will write the fact 10000000 timesss ...will make disguice faceeee
-// a clear face in all place so that some other faceeee dont get the tasteee
-// of sweetdrugggg
-// you are female version of whyashhhh
-// never invocke me with motherfuckinggg quotes renderr..bcz 
-// once i get the feel to troll sweetdruggg..i dont see my past virtual belief also...
-// ypu have emitted worstttt reflectionnn...just save this in your sweetdruggg containerrr
-// i willl suggest go and visit some mental hospitalll 
-// your friend is a great story makerrrr..tell her to particiapte in drama 
-// pinging me randomly in some other cell whatsapp..and demanding pic with wow 
-// ack ...and then telling other that i got feelings about herr...
-// what the hell renderrr ...UI is avg ..behaviour I dont know 
-// and i got feelling... she is really a great virtual story makerrrr
-// heart matcher ,she is trying to becomeee...tell her 
-// to be in limitt and dont emittt rubbishhhh kind of fact to innocent soulll
-// you have done the same thing with your past also I guess now 
-// more precisely it is totally clear to me ..just like chamelon 
-// change the colorr with some sensitive emotional story 
-// you are not a love material ...you should be in 4-leg aniaml 
-// categoryyy with only ohh yeahhhh feelingggg
-// thanks visit again this sweetdrugg glitch district..// 
-// sweet drug context end//
