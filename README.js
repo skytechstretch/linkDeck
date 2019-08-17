@@ -631,3 +631,5 @@ sweet:"daisy milk'
 console.log("Litti".repeat(3));
 //output: LittiLittiLitti (awesome 00)
 
+//explanation :A string can be repeated with the repeat method, which creates a new string
+//containing multiple copies of the original string, glued together.
