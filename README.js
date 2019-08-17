@@ -679,3 +679,6 @@ console.log(horseShoe.charCodeAt(0));
 // → 55357 (Code of the half-character)
 console.log(horseShoe.codePointAt(0));
 // → 128052 (Actual code for horse emoji)
+
+// as per survery BIG O can bring erect 
+// in algorithm running time 
