@@ -663,3 +663,6 @@ console.log(randomPointOnCircle(2));
 
 typeof A=?
 typeof B = ?
+let me clarify OO is small o ok..
+if i say typeof both A and B is similar to typeof "pleasureeeee"
+is this statement  erect or wrong
