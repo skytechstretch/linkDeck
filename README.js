@@ -667,3 +667,15 @@ let me clarify OO is small o ok..
 if i say typeof both A and B is similar to typeof "pleasureeeee"
 is this statement  erect or wrong
 it is correct bcz type of A ,B and "pleasureeeee" is string..
+
+/// emojii jeee timeee
+// // Two emoji characters, horse and shoe
+let horseShoe = "🐴👟";
+console.log(horseShoe.length);
+// → 4
+console.log(horseShoe[0]);
+// → (Invalid half-character)
+console.log(horseShoe.charCodeAt(0));
+// → 55357 (Code of the half-character)
+console.log(horseShoe.codePointAt(0));
+// → 128052 (Actual code for horse emoji)
