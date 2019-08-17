@@ -627,3 +627,7 @@ sweet:"daisy milk'
 // https://stackoverflow.com/questions/36180414/reactjs-add-custom-event-listener-to-component
 // https://stackoverflow.com/questions/38093760/how-to-access-a-dom-element-in-react-what-is-the-equilvalent-of-document-getele
 // https://hackernoon.com/virtual-dom-in-reactjs-43a3fdb1d130
+// from eloquent javascript book 
+console.log("Litti".repeat(3));
+//output: LittiLittiLitti (awesome 00)
+
