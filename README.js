@@ -652,4 +652,6 @@ y: radius * Math.sin(angle)};
 }
 console.log(randomPointOnCircle(2));
 // → {x: 0.3667, y: 1.966}
-// COS 90 HO JATA HAI JAB AAP SIN 0 DEKHTE HAI
+// SIN 90 HO JATA HAI JAB AAP COS 0 DEKHTE HAI
+// I.E SIN 90=1 AND COS 0 =1
+// EXCELLENT
