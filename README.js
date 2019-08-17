@@ -709,3 +709,7 @@ refer past screenshot to achieve the same
 // if and else condition ..meanwhile njoy selff ohh yeahh 
 // 1.08.11 and 1.08 34 for ohh yeahh enthusiasttt
 //1.11.11 and 1.11.20 for else condition ,i.e sakht orange type
+// refer my link deck for becoming click expert also 
+// in addition to selff ohh yeahh feelingg call
+// thats why i have created link deck 
+// the whole motto is to give pleasure by .jainscript(js)
