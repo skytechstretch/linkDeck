@@ -704,3 +704,6 @@ copy from 693 to 702 ,and paste in your browser console by doing right click
 +clicking on inspect + going on console" then paste it"
 and see your hidden mood in the browserrr renderrr
 refer past screenshot to achieve the same
+
+// I am putting the expected output for both 
+// if and else condition ..meanwhile njoy selff ohh yeahh 
