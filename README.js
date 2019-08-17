@@ -697,7 +697,10 @@ var inputt=ohhyeahh.join('');
 if(inputtt==="ohh yeahh"){
 alert(inputt.toUpperCase()+" "+ '\"Excellent\"');
 }
-copy from 693 to 699 ,and paste in your browser console by doing right click 
+else{
+    alert("sakht orange mood")
+}
+copy from 693 to 702 ,and paste in your browser console by doing right click 
 +clicking on inspect + going on console" then paste it"
 and see your hidden mood in the browserrr renderrr
 refer past screenshot to achieve the same
