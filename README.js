@@ -684,3 +684,5 @@ console.log(horseShoe.codePointAt(0));
 // in algorithm running time 
 // more precisely not survey its a fact i.e hold the O 
 // and achieve the goal i.e algorithm goal bol
+// big O  small o two parameters in running time algorithm 
+// to save in memory just say o level greater than O from ground 
