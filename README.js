@@ -660,3 +660,6 @@ console.log(randomPointOnCircle(2));
 / SO BEWARE HERE BODMAS RULE IS APPLICABLE..
 // VAR A ="(F)";
 // VAR B ="OOF";
+
+typeof A=?
+typeof B = ?
