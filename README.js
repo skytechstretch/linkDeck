@@ -688,3 +688,16 @@ console.log(horseShoe.codePointAt(0));
 // to save in memory just say o level greater than O from ground 
 // to achieve the rhythm hold small o and execute (f) i.e functionnn
 // thats enough simplesutra regarding algorithmm
+// test time folks 
+
+var inputtt=prompt("are you excited","then write \"ohh yeahh\"");
+var ohhyeahh="xyzqted".split('');
+ohhyeahh.splice(0,4,'e','x','c','i');
+var inputt=ohhyeahh.join('');
+if(inputtt==="ohh yeahh"){
+alert(inputt.toUpperCase()+" "+ '\"Excellent\"');
+}
+copy from 693 to 699 ,and paste in your browser console by doing right click 
++clicking on inspect + going on console" then paste it"
+and see your hidden mood in the browserrr renderrr
+refer past screenshot to achieve the same
