@@ -633,3 +633,13 @@ console.log("LittiL".repeat(3));
 
 //explanation :A string can be repeated with the repeat method, which creates a new string
 //containing multiple copies of the original string, glued together.
+// REST PARAMETERS (F)
+// function max(...numbers) {
+let result = -Infinity;
+for (let number of numbers) {
+if (number > result) result = number;
+}
+return result;
+}
+console.log(max(4, 1, 9, -2));
+// → 9
