@@ -687,3 +687,4 @@ console.log(horseShoe.codePointAt(0));
 // big O  small o two parameters in running time algorithm 
 // to save in memory just say o level greater than O from ground 
 // to achieve the rhythm hold small o and execute (f) i.e functionnn
+// thats enough simplesutra regarding algorithmm
