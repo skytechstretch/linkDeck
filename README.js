@@ -712,4 +712,4 @@ refer past screenshot to achieve the same
 // refer my link deck for becoming click expert also 
 // in addition to selff ohh yeahh feelingg call
 // thats why i have created link deck 
-// the whole motto is to give pleasure by .jainscript(js)
+// the whole motto is to give pleasure by .jascript(js)
