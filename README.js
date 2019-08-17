@@ -644,3 +644,12 @@ return result;
 console.log(max(4, 1, 9, -2));
 // → 9
 // AWESOME ..
+
+function randomPointOnCircle(radius) {
+let angle = Math.random() * 2 * Math.PI;
+return {x: radius * Math.cos(angle),
+y: radius * Math.sin(angle)};
+}
+console.log(randomPointOnCircle(2));
+// → {x: 0.3667, y: 1.966}
+// COS 90 HO JATA HAI JAB AAP SIN 0 DEKHTE HAI
