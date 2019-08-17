@@ -682,3 +682,5 @@ console.log(horseShoe.codePointAt(0));
 
 // as per survery BIG O can bring erect 
 // in algorithm running time 
+// more precisely not survey its a fact i.e hold the O 
+// and achieve the goal i.e algorithm goal bol
