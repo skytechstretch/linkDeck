@@ -713,3 +713,4 @@ refer past screenshot to achieve the same
 // in addition to selff ohh yeahh feelingg call
 // thats why i have created link deck 
 // the whole motto is to give pleasure by javascript(js)
+//https://www.taniarascia.com/how-to-use-local-storage-with-javascript/
