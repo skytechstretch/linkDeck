@@ -718,3 +718,9 @@ refer past screenshot to achieve the same
 // https://stackoverflow.com/questions/17000835/token-authentication-vs-cookies#targetText=So%2C%20that's%20the%20difference%20between,the%20latter%20uses%20Web%20Storage.&targetText=Token%20based%20authentication%20is%20stateless,user%20information%20in%20the%20session.&targetText=Tokens%20on%20the%20other%20hand,subject%20to%20same%20origin%20policy.
 //https://stackoverflow.com/questions/6657216/why-doesnt-node-js-have-a-native-dom
 //https://codescracker.com/js/js-browsers.htm
+// do you know if u mix reddish leaf with honey ....then putting it over carrot 
+// you will gettt the best feell ,it was on survey 
+
+// dont check the clock..all shop will be now open tom morning..
+// meanwhile do the old stuff to get proper diet ..tom you can get 
+// the sweetVegetable delicious feel
