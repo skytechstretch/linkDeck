@@ -714,3 +714,4 @@ refer past screenshot to achieve the same
 // thats why i have created link deck 
 // the whole motto is to give pleasure by javascript(js)
 //https://www.taniarascia.com/how-to-use-local-storage-with-javascript/
+// https://love2dev.com/blog/use-local-storage-to-make-your-single-page-web-application-rock/#targetText=Basically%20it%20gives%20you%20a,sorry%20no%20binaries%20in%20here.
