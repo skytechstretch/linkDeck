@@ -724,3 +724,5 @@ refer past screenshot to achieve the same
 // dont check the clock..all shop will be now open tom morning..
 // meanwhile do the old stuff to get proper diet ..tom you can get 
 // the sweetVegetable delicious feel
+// for performing self ohh yeahh you need to have strong visualization skill
+// if u dont have then you are pseudo human dna
