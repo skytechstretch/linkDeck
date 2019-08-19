@@ -745,3 +745,7 @@ refer past screenshot to achieve the same
 // otherwise you can end in bell tune
 // I am polluting dream word with some other noun refernce ,so I will give sirname to 
 // this refernce noun i.e bhayankar so full name dream bhayankar
+// why bhayankar bcz its root dont foloow parmeshwar preach..
+// In Hell you all will get highest rank dont worry...so enjoy free peri peri 
+// with quotes "From next week I am on diet "I know you all people hidden agenda and trap call
+// challu mallu bhi kalluu ko bhut mamuu bnaieah haii
