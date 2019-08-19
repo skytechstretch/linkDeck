@@ -729,3 +729,6 @@ refer past screenshot to achieve the same
 // http://programmerblog.net/nodejs-user-registration-tutorial/
 
 // what we can learn from motherfuckinggg bhataktiii banana genderrr renderrr?
+// we can learn adjectivee...like gorgeouss..of thingss..
+// so join social platform like twitter now ..and follow the words to 
+// learn adjectivesss
