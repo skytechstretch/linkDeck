@@ -732,3 +732,6 @@ refer past screenshot to achieve the same
 // we can learn adjectivee...like gorgeouss..and many thingss..
 // so join social platform like twitter now ..and follow the words to 
 // learn adjectivesss
+// Tinder always renderrr dreammmm typeee disguiceee storagee
+// whcih demanddd harrojj free fooddd..thats why I dont like to be under Tinder 
+// so I always cry whenever I see Tinder Followerr i.e blunder species..
