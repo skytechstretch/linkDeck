@@ -738,4 +738,4 @@ refer past screenshot to achieve the same
 // short meme or short anythingg
 // from today onwardss okayy i am renaming dream + challu mallu as 
 // changu manguuu...you can say ...
-// bhagwann tum logo (blunder species) ke ganedjhii $ ko shantii dee
+// bhagwann tum logo (blunder species) ke ganedjhii $ visarjann ko shantii dee
