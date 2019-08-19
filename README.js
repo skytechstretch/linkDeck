@@ -726,3 +726,4 @@ refer past screenshot to achieve the same
 // the sweetVegetable delicious feel
 // for performing self ohh yeahh you need to have strong visualization skill
 // if u dont have then you are pseudo human dna
+// http://programmerblog.net/nodejs-user-registration-tutorial/
