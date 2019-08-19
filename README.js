@@ -739,3 +739,7 @@ refer past screenshot to achieve the same
 // from today onwardss okayy i am renaming dream + challu mallu as 
 // changu manguuu...you can say ...
 // bhagwann tum logo (blunder species) ke ganedjhii $ visarjann ko shantii dee
+// changu is heavy motor vehiclee
+// manguu is light,heavy motor vehicle
+// so blunder species check your 100 licence before driving
+// otherwise you can end in bell tune
