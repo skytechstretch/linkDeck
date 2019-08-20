@@ -775,5 +775,3 @@ refer past screenshot to achieve the same
 // HEY CHALLU MALLU ARE YOU ENJOYING WITH DREAM BHAYANKARRR..THEN SING JAY JAY SHIVV SHANKARRR
 // LAA LL AAA ..I DONT THE COMPLETE LYRISSS SO JUST GOOGLE IT BITCHHH
 // P.S IN NIGHT ALSO BAJANA FEELINGS COMES THATS A FACT..BUT MORNING NEW DAY AUTOMATIC LONG EFFECT WITHOUT ANY SCRIPT..SOOO
-// I will be Dr in few hours just for fun shakee ..this dr shake
-// ladki ban ke buddhee tharkii ke saath prank karne ka mazaaa hi alag haii
