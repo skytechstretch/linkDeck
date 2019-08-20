@@ -761,3 +761,5 @@ refer past screenshot to achieve the same
 // or I can sing banana le loo orange de dooo
 // p.s practise this song with your permanent bondd,if not then I will 
 // not be responsible for any destructive windd
+// fruit inequality where THIS PHENOMENON happen this was question asked in ONE OF THE TOUGHEST EXAMINATION
+// I WAS ACTUALLY QUESTION SETTERR 
