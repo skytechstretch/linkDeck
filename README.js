@@ -750,3 +750,5 @@ refer past screenshot to achieve the same
 // with quotes "From next week I am on diet "I know you all people hidden agenda and trap call
 // challu mallu bhi kalluu ko bhut mamuu bnaieah haii
 // hum sab jaante haii..I am antaryamii
+// best explanation 
+// https://bytearcher.com/articles/why-asynchronous-exceptions-are-uncatchable/
