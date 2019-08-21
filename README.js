@@ -776,3 +776,5 @@ refer past screenshot to achieve the same
 // LAA LL AAA ..I DONT THE COMPLETE LYRISSS SO JUST GOOGLE IT BITCHHH
 // P.S IN NIGHT ALSO BAJANA FEELINGS COMES THATS A FACT..BUT MORNING NEW DAY AUTOMATIC LONG EFFECT WITHOUT ANY SCRIPT..SOOO
 //today no automaticcc long effecttt as i was on stresss dresss..need someee scriptt urgentlyyy
+// in this world ,proper insights about any weird possibility very few can give 
+//
