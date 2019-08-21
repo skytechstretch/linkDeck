@@ -777,4 +777,9 @@ refer past screenshot to achieve the same
 // P.S IN NIGHT ALSO BAJANA FEELINGS COMES THATS A FACT..BUT MORNING NEW DAY AUTOMATIC LONG EFFECT WITHOUT ANY SCRIPT..SOOO
 //today no automaticcc long effecttt as i was on stresss dresss..need someee scriptt urgentlyyy
 // in this world ,proper insights about any weird possibility very few can give 
-//
+//see as per my exp ..genuine true feel is a virtual field now a days
+// same person with wow scene will crack scene behind you that i have fooled that
+// person with my brain they actually dont know the differnce 
+// between brain and trust ..trust only pure soul can have ...
+// so my advise in future ..if you are suffering from too many 
+// if else condition in your relation then discard the relation and move onnn
