@@ -793,3 +793,5 @@ refer past screenshot to achieve the same
 // eventually i suffer large loss..because my action was on emotion track onlyy
 // and my emotion motive was to mention some other as shit..no problem in it 
 // we should always tag shit but with some emotion+mind wind conceptt
+// be sensitive or emotional no problem in it..but not let otherss to use 
+// this unique quality as some other motherfuckingg meanss
