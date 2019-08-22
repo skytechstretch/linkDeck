@@ -811,3 +811,5 @@ refer past screenshot to achieve the same
 // so dont stress over love move..just love your work..
 // my voice really got chokedd when i feel the mechanism of oneee pain ..it is similar to 
 // mine painnn
+// okay lets movee onn ..this is lifee ..accident happenss..
+// no problem in it..rock the clock 24*7 oneee has all qualityyy
