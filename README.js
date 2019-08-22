@@ -803,3 +803,4 @@ refer past screenshot to achieve the same
 // whatever u can say
 // i.e transition from shakira to pitbull to eminem we follow the same cyclee
 // dont show mercyy on stringg ringgg for motherfackersss
+// oneee should writee some bad hearttt conditionnn poem for motherf@ckerr if onee can
