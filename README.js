@@ -795,3 +795,5 @@ refer past screenshot to achieve the same
 // we should always tag shit but with some emotion+mind wind conceptt
 // be sensitive or emotional no problem in it..but not let otherss to use 
 // this unique quality as some other motherfuckingg meanss
+// oneee can get top IAS cadre ,this is my belief ..oneee can get anythingg in life 
+// so dont mourn on motherfackingg shit 
