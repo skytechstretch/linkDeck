@@ -815,5 +815,5 @@ refer past screenshot to achieve the same
 // no problem in it..rock the clock 24*7 oneee has all qualityyy
 // i m just curious to know that how oneee got this skybye02 path..i guess fb video tagline 
 //  really FBI TYPE OF BRAINN
-// mint use to suck mango what is noun here and what is verb here 
+// mint like to suck mango but there is no resource what is noun here and what is verb here 
 // this was question asked in some czech maturity rest
