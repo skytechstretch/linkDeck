@@ -802,3 +802,4 @@ refer past screenshot to achieve the same
 // when first timee i see the timelinee i found mine type hobbyy/lobbyy sufferingss 
 // whatever u can say
 // i.e transition from shakira to pitbull to eminem we follow the same cyclee
+// dont show mercyy on stringg ringgg for motherfackersss
