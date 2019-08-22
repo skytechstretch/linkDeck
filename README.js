@@ -785,3 +785,7 @@ refer past screenshot to achieve the same
 // if else condition in your relation then discard the relation and move onnn
 // i was very sensitive dumb in my school dayss
 // one shopkeeper told me..thatt..i will not give you any cream roll without moneyy
+// so i become angryy and thought that okayy i will take udharri from bigger shop 
+// and will show him that see shop bigger than you is giving me cream roll 
+// without money ..it was just my emotion reaction..to show some one 
+// that  i can get more 
