@@ -789,3 +789,7 @@ refer past screenshot to achieve the same
 // and will show him that see shop bigger than you is giving me cream roll 
 // without money ..it was just my emotion reaction..to show some one 
 // that  i can get more 
+// but during fees submission..that shopkeeper presents false bills of mine
+// eventually i suffer large loss..because my action was on emotion track onlyy
+// and my emotion motive was to mention some other as shit..no problem in it 
+// we should always tag shit but with some emotion+mind wind conceptt
