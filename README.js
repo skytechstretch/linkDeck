@@ -816,4 +816,4 @@ refer past screenshot to achieve the same
 // i m just curious to know that how oneee got this skybye02 path..i guess fb video tagline 
 //  really FBI TYPE OF BRAINN
 // mint like to suck mango but there is no resource what is noun here and what is verb here 
-// this question  was asked in some czech maturity rest
+// this question  was asked in some czech maturity test
