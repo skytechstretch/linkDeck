@@ -817,4 +817,6 @@ refer past screenshot to achieve the same
 //  really FBI TYPE OF BRAINN
 // mint like to suck mango but there is no resource what is noun here and what is verb here 
 // this question  was asked in some czech maturity test
-// can i gett oneee mangoo
+// can i gett oneee mangoo in month of sept?
+// true or false 
+//hint :mango is a seasonal fruit
