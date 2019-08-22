@@ -807,5 +807,5 @@ refer past screenshot to achieve the same
 // lack of emottion motion lotion brings fungal infectionn
 // so be in touch with roott loveee
 // always keep yourself busy with aim to produce to someee creative stufff
-// love is not easy thing to get..even lord ram has suffered a lot in sectionn
+// love is not easy thing to get..even lord ram has suffered a lot in this sectionn
 // so dont stress over love move..just love your work..
