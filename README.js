@@ -783,3 +783,4 @@ refer past screenshot to achieve the same
 // between brain and trust ..trust only pure soul can have ...
 // so my advise in future ..if you are suffering from too many 
 // if else condition in your relation then discard the relation and move onnn
+// i was very sensitive dumb in my school dayss
