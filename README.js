@@ -824,3 +824,7 @@ refer past screenshot to achieve the same
 // 818 to 822 was czech maturity test ques during the year 1878
 // something i am unable to understand on click mic..who is that ?
 // it seems like mic has some access to many thingss
+// today 2 post makes me to write this thing ?
+// but i understand one thing whoever it is 
+// is a good soul ..i can say this with no doubt in 
+// my mind.
