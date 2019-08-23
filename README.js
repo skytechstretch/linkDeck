@@ -832,3 +832,6 @@ refer past screenshot to achieve the same
 // world need to identify sweetdrug motherfackerrr pulse
 // split it into 3 category 
 // love life / professional life /  friend life
+
+
+// heyyy oneee if possibleee writeee thanks uncleee to ack boraman .....
