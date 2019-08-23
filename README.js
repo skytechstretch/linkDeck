@@ -834,4 +834,3 @@ refer past screenshot to achieve the same
 // love life / professional life /  friend life
 
 
-// heyyy oneee if possibleee writeee thanks uncleee to ack boraman .....
