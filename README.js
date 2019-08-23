@@ -830,3 +830,5 @@ refer past screenshot to achieve the same
 // my mind.
 // post some video on sweetdruggg motherfackerrr with wow background musicc
 // world need to identify sweetdrug motherfackerrr pulse
+// split it into 3 category 
+// love life / professional life / pseudo friend life
