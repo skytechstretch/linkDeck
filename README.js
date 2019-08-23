@@ -833,3 +833,6 @@ refer past screenshot to achieve the same
 // split it into 3 category 
 // love life / professional life /  friend life
 // insertinto fb also..i have to talk with takluuu
+// i am lit expert and psycholgy expert ..it takes me 15 mins to understand the qualityy
+// of post
+// and someone instant ready with the predefine words ..thats something abnormal
