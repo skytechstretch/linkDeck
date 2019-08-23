@@ -832,4 +832,4 @@ refer past screenshot to achieve the same
 // world need to identify sweetdrug motherfackerrr pulse
 // split it into 3 category 
 // love life / professional life /  friend life
-
+// insertinto fb also..i have to talk with takluuu
