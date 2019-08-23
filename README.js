@@ -836,3 +836,7 @@ refer past screenshot to achieve the same
 // yo firee
 // weak point -ve....ion
 // in -veionn people dont react towards anythingg..
+// so dont use this -ionn term
+// else everthing is totally wowwwwww
+// learnt new if and but todayyy
+// awesomeeee
