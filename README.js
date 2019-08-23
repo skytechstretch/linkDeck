@@ -834,3 +834,5 @@ refer past screenshot to achieve the same
 // love life / professional life /  friend life
 
 // yo firee
+// weak point -ve....ion
+// in -veionn people dont react towards anythingg..
