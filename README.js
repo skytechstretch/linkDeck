@@ -838,3 +838,4 @@ refer past screenshot to achieve the same
 // and someone instant ready with the predefine words ..thats something abnormal
 // dost dost na rhaa whyy oneee 😢😭😭
 // https://youtu.be/PY5AMJtMY3A
+// for 1 likeee ..saving ugandaa 😢😭😭😢😢
