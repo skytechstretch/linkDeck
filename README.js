@@ -851,3 +851,6 @@ refer past screenshot to achieve the same
 // LIFE IS Like Battery..Be In Sleep Mode..to produce more meaningful life
 // it means always add rest in your routine to add more productivityyy
 // in life ..i always use to follow this philosophy 
+// sit in chair then lift your heap data structure assignent in pen ..i guaaranee
+// there will be then proper satisfactionn ..as per survey ..when we concentrate
+// on sitting posture..we feell more relaxationnn
