@@ -840,3 +840,5 @@ refer past screenshot to achieve the same
 // especially chicken curryyy,mix-veg curryyy..with raspberryyy
 // i love reaspberryyy too muchh
 // http://berryhealth.fst.oregonstate.edu/health_healing/fact_sheets/red_raspberry_facts.htm#targetText=Red%20Raspberries%20contain%20strong%20antioxidants,to%20have%20anti%2Dinflammatory%20properties.
+// reddish is good for databasee too
+// https://blog.panoply.io/redis-vs-mongodb
