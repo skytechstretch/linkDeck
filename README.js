@@ -842,5 +842,5 @@ refer past screenshot to achieve the same
 // http://berryhealth.fst.oregonstate.edu/health_healing/fact_sheets/red_raspberry_facts.htm#targetText=Red%20Raspberries%20contain%20strong%20antioxidants,to%20have%20anti%2Dinflammatory%20properties.
 // reddish is good for databasee too
 // https://blog.panoply.io/redis-vs-mongodb
-// this song has won 56 awards ..including all local votes 
+// this song has won 56 awards 
 // https://youtu.be/BV0-rrdPJKw
