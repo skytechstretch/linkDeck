@@ -832,12 +832,7 @@ refer past screenshot to achieve the same
 // world need to identify sweetdrug motherfackerrr pulse
 // split it into 3 category 
 // love life / professional life /  friend life
-// insertinto fb also..i have to talk with takluuu
-// i am literature expert and psycholgy expert ..it takes me 15 mins to understand the qualityy
-// of post
-// and someone instant ready with the predefine words ..thats something abnormal
-// dost dost na rhaa whyy oneee 😢😭😭
-// https://youtu.be/PY5AMJtMY3A
-// for 1 likeee ..saving ugandaa 😢😭😭😢😢
-// this song is oneee which i likeee more thannn aboveee
+
+// this song is oneee which i likeee to carryyy in my hearttt while
+// taking currryyy
 // https://youtu.be/kybeq2dWBf8
