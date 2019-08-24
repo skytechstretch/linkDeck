@@ -846,3 +846,5 @@ refer past screenshot to achieve the same
 // https://youtu.be/BV0-rrdPJKw
 // https://en.wikipedia.org/wiki/Why_Buddhism_Is_True 
 // buddhism means peace and no violence
+// from today onwards I m buddhism ..no violence 
+// no attachement no ohh yeahhh 
