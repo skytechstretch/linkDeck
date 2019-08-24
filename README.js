@@ -844,3 +844,5 @@ refer past screenshot to achieve the same
 // https://blog.panoply.io/redis-vs-mongodb
 // this song has won 56 awards 
 // https://youtu.be/BV0-rrdPJKw
+// https://en.wikipedia.org/wiki/Why_Buddhism_Is_True 
+// buddhism means peace and no violence
