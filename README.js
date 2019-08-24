@@ -848,3 +848,6 @@ refer past screenshot to achieve the same
 // buddhism means peace and no violence
 // from today onwards I m buddhism ..no violence 
 // no attachement no self ohh yeahhh 
+// LIFE IS Like Battery..Be In Sleep Mode..to produce more meaningful life
+// it means always add rest in your routine to add more productivityyy
+// in life ..i always use to follow this philosophy 
