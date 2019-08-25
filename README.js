@@ -863,3 +863,5 @@ refer past screenshot to achieve the same
 // hi mic why im seeing recusrvie kind of video call..if mic has lot of thread 
 // associated with it then spread real hidden truth i.e.. about 
 // sweetdrug motherfackerrr
+// fact of the day my litrerature is nulll
+// what i feel or i experience I write
