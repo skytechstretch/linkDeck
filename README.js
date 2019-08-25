@@ -854,3 +854,6 @@ refer past screenshot to achieve the same
 // sit in chair then lift your heap data structure assignent in pen ..i guaaranee
 // there will be then proper satisfactionn ..as per survey ..when we concentrate
 // on sitting posture..we feell more relaxationnn
+
+// fact of the day 
+// to impresss ,share rocket science linkk..no matter whether u are getting any single term or not 
