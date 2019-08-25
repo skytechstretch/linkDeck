@@ -867,3 +867,5 @@ refer past screenshot to achieve the same
 // what i feel or i experience I write
 // mic ?
 // who is that ?
+// I am psychologist expertt..but this time 
+// i need some clear hintt
