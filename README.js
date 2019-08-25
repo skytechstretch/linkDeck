@@ -865,5 +865,3 @@ refer past screenshot to achieve the same
 // sweetdrug motherfackerrr
 // fact of the day my litrerature is nulll
 // what i feel or i experience I write
-// from my school days only i used to devote my 90% of time in solving maths
-// problem ...bcz my mind is volatile..
