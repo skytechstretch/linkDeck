@@ -883,3 +883,4 @@ refer past screenshot to achieve the same
 // my self ohh yeah time complexity depends on script
 // there are lot of script data structure available 
 // but which is best case worst case and average case
+// first worst case
