@@ -880,3 +880,6 @@ refer past screenshot to achieve the same
 // 33 HERE STANDS FOR 23 
 // THIS IS CALLED DIGIT ALGORITHM WITH T.C O(nlogn)
 // it is useful in hashing techniquess
+// my self ohh yeah time complexity depends on script
+// there are lot of script data structure available 
+// but which is best case worst case and average case
