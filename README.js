@@ -870,5 +870,5 @@ refer past screenshot to achieve the same
 // I am psychologist expertt..but this time 
 // i need some clear hintt
 
-// nice voice sHen is lucky noun
+// nice voice sHen 🐔 is lucky noun
 // https://youtu.be/aSZVYZTze74
