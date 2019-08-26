@@ -876,3 +876,7 @@ refer past screenshot to achieve the same
 
 // SO FINALLYYY ONEEE HAS REVEALED ITS SECRET THAT HOW AT 37 YRS ONEEE LOOKS LIKE 33 YRSSS
 // AWESOMEEE ..I M HAPPY TODAYY
+// P.S 37 HERE STANDS FOR 25 
+// 33 HERE STANDS FOR 23 
+// THIS IS CALLED DIGIT ALGORITHM WITH T.C O(nlogn)
+// it is useful in hashing techniquess
