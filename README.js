@@ -884,3 +884,8 @@ refer past screenshot to achieve the same
 // there are lot of script data structure available 
 // but which is best case worst case and average case
 // first worst case
+// mallu is a script structure..in which t.c to 
+// is O(e^n) i.e negligible very ..i.e
+// you do the appeal ceaselessly how z that how z that 
+// but no decision out signal will be there so terminate 
+// this data structure
