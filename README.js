@@ -869,3 +869,6 @@ refer past screenshot to achieve the same
 // who is that ?
 // I am psychologist expertt..but this time 
 // i need some clear hintt
+
+// nice voice 
+// https://youtu.be/aSZVYZTze74
