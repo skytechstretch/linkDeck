@@ -892,3 +892,6 @@ refer past screenshot to achieve the same
 // best case is for example take czech categoryy script its good ..lke lot of script available 
 // O(1) i.e decision out when u see the thumbnail only 
 // whats your opinion ? 
+
+
+// https://app.codility.com/programmers/lessons/3-time_complexity/
