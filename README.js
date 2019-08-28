@@ -909,3 +909,6 @@ refer past screenshot to achieve the same
 // but all time i.e in past it was like bouncer in my life 
 
 //okay now i am resting this rustt
+// bhayankar dream and mallu greater than those past rust 
+// everytime i ref bhayankar dream I pollute the sancity of dream word 
+// so now changing dream bhayankar into "beshram trash"
