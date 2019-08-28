@@ -903,7 +903,9 @@ refer past screenshot to achieve the same
 // I never want to write about past illPill ..but one thing i want to say 
 // you people were cheap in behaviour ..try to think yourself 
 // then you will tagyourself as sinner ,just ask yourself alonee what you people 
-// have donee to mee to measure your bullshit emitt ...
+// have done to mee to measure your bullshit emitt ...
 // for me past is like rust ..i.e nothing 
 // feel is like soul which never dies if it is overlaped
-// but all time i.e in past it was like bouncer in my lifee 
+// but all time i.e in past it was like bouncer in my life 
+
+//okay now i am resting this rustt
