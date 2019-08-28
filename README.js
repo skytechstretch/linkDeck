@@ -906,4 +906,4 @@ refer past screenshot to achieve the same
 // have donee to mee to measure your bullshit emitt ...
 // for me past is like rust ..i.e nothing 
 // feel is like soul which never dies if it is overlaped
-// but all time it was like bouncer in my lifee 
+// but all time i.e in past it was like bouncer in my lifee 
