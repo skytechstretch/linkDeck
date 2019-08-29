@@ -902,3 +902,12 @@ refer past screenshot to achieve the same
 
 //great mic ..health related stuff info great ..
 // but who r u and just give a small hint
+
+// fact of the day 
+// for destroying shit kind of emit ,you can become anything towards 
+// shit to push it in to hell sit 
+// many times i see ,world want to restrict your reaction on motherfacking action 
+// never ever do that ,Life is Like a battleground in everyfield if you stand like a 
+// paralysis object you are finished
+// always follow god's rule ...and hit the shit via violent or wow poisionus scentt but hit itt
+// to cement mfs in lament state..
