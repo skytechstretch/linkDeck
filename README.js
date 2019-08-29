@@ -905,7 +905,7 @@ refer past screenshot to achieve the same
 
 // fact of the day 
 // for destroying shit kind of emit ,you can become anything towards 
-// shit to push it in to hell sit 
+// shit to push it in to hell street 
 // many times i see ,world want to restrict your reaction on motherfacking action 
 // never ever do that ,Life is Like a battleground in everyfield if you stand like a 
 // paralysis object you are finished
