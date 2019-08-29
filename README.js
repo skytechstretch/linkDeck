@@ -911,3 +911,9 @@ refer past screenshot to achieve the same
 // paralysis object you are finished
 // always follow god's rule ...and hit the shit via violent or wow poisionus scentt but hit itt
 // to cement mfs in lament state..
+
+// parwachan of the day 
+//Three things cannot be long hidden: the apple, the orange, and the banana 
+//~~Shree Shree Hungry100Maharaj
+// arthath 
+// fruits beat hai tabhi toh universe verse hai
