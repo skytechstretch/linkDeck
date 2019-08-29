@@ -900,17 +900,5 @@ refer past screenshot to achieve the same
 // from decadee I use to watch  bheegi billii of 9xm ..it is just like mee
 
 
-// I never want to write about past illPill ..but one thing i want to say 
-// you people were cheap in behaviour ..try to think yourself 
-// then you will tagyourself as sinner ,just ask yourself alonee what you people 
-// have done to mee to measure your bullshit emitt ...
-// for me past is like rust ..i.e nothing 
-// feel is like soul which never dies if it is overlaped
-// but all time i.e in past it was like bouncer in my life 
-
-//okay now i am resting this rustt
-// bhayankar dream and mallu greater than those past rust 
-// everytime i ref bhayankar dream I pollute the sancity of dream word 
-// so now changing dream bhayankar into "beshram trash"
-// i have no association with those bhayankar dream mallu i.e changu mangu 
-// ramdas has some association with this trashh
+//great mic ..health related stuff info great ..
+// but who r u and just give a small hint
