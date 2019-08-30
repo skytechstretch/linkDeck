@@ -953,3 +953,4 @@ refer past screenshot to achieve the same
 // you bitchess deserves hell well 24*7
 // how i come to know this thing 
 // i have placed secrett audio device in the motherf@ckingg room bitchesss
+// mic any hint w r u?
