@@ -919,3 +919,7 @@ refer past screenshot to achieve the same
 // fruits beat hai tabhi toh universe verse hai
 // fact of the day 
 // nature has very strong memory with cache fascility to detect past trash in a rush 
+// parwachan of the day 
+// It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform.
+// explanation(arthath)
+// when you are featured in blazzers it means you are no more digusting mallu ballu clip
