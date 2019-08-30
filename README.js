@@ -926,3 +926,5 @@ refer past screenshot to achieve the same
 // observation of the day (only applicable on nature,as everyone has their own signature)
 // whisky hai toh life risky hai..
 // so I am willing to drink milky cherry to delink unlucky risky
+// bas darr is bat ka hai iss barr bhi kahi nonwowzone mei na aa jayee
+// nonwowzone is my friend for last 12 years i.e since water bottle age
