@@ -933,3 +933,8 @@ refer past screenshot to achieve the same
 
 // one incident just for awareness i hope everyone is mature enough 
 // to analyse the things but not mature enough to emit the desire action 
+
+// when orange gender is alone especially in night dont become 
+// helpful channel and never approach the zone to guide ..keep distance from zone 
+// this incident case study from the year I think 2008-09
+// from our native place only 
