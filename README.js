@@ -951,3 +951,5 @@ refer past screenshot to achieve the same
 // what was instruction if i come then changu mangu will not come
 // bcz i am repeller of toxic sweetdrug 
 // you bitchess deserves hell well 24*7
+// how i come to know this thing 
+// i have placed secrett audio device in the motherf@ckingg room bitchesss
