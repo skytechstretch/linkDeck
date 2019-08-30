@@ -955,3 +955,6 @@ refer past screenshot to achieve the same
 // i have placed secrett audio device in the motherf@ckingg room bitchesss
 // mic any hint w r u?
 // mic family quotes I like it .Impressed
+// A(js14,js5) > A(jsP) 
+// javaserverpage diff when dealing with js inc es6+ version
+// can u share the link so that i can perform a init without any y 
