@@ -942,3 +942,6 @@ refer past screenshot to achieve the same
 // second thing if there is continous req for lift event 
 // pick a phone and totally ignoree 
 // and note down the veh no
+// majority of banana gender dont have feel and heart
+// just like banana their wow event become large and strong 
+// then after i hope everyone understand this analogy
