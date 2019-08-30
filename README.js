@@ -938,3 +938,7 @@ refer past screenshot to achieve the same
 // helpful channel and never approach the zone to guide ..keep distance from zone 
 // this incident case study from the year I think 2008-09
 // from our native place only 
+
+// second thing if there is continous req for lift event 
+// pick a phone and totally ignoree 
+// and note down the veh no
