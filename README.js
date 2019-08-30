@@ -930,3 +930,6 @@ refer past screenshot to achieve the same
 // nonwowzone is my friend for last 12 years i.e since water bottle age
 // i have seen onee putting someonee very easily in nonwowzone with full respect
 // this is awesome great I really appreciate this we should be like this
+
+// one incident just for awareness i hope everyone is mature enough 
+// to analyse the things but not mature enough to emit the desire action 
