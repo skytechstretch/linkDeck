@@ -917,3 +917,5 @@ refer past screenshot to achieve the same
 //~~Shree Shree Hungry100Maharaj
 // arthath 
 // fruits beat hai tabhi toh universe verse hai
+// fact of the day 
+// nature has very strong memory with cache fascility to detect past trash in a rush 
