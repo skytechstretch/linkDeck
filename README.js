@@ -945,12 +945,3 @@ refer past screenshot to achieve the same
 // majority of banana gender dont have feel and heart
 // just like banana their wow event become large and strong 
 // then after i hope everyone understand this analogy
-// no food/wine no wish so this is a trash bhayankar(formerly known as dream bhayankar) and mallu slogan
-// ramdas till 2018 has ignored my plans ,my execution just to share precious moment with you 
-// bitchesss..you both are excellent sweetdrug kind of changu mangu
-// what was instruction if i come then changu mangu will not come
-// bcz i am repeller of toxic sweetdrug 
-// you bitchess deserves hell well 24*7
-// how i come to know this thing 
-// i have placed secrett audio device in the motherf@ckingg room bitchesss
-
