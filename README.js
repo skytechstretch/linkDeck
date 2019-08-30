@@ -923,3 +923,6 @@ refer past screenshot to achieve the same
 // It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform.
 // explanation(arthath)
 // when you are featured in blazzers it means you are no more digusting mallu ballu clip
+// observation of the day 
+// whisky hai toh life risky hai..
+// so drink milky cherry to delink unlucky risky
