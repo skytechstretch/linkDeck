@@ -958,3 +958,6 @@ refer past screenshot to achieve the same
 // A(js14,js5) > A(jsP) 
 // javaserverpage diff when dealing with js inc es6+ version
 // can u share the link so that i can perform a init without any y 
+// some code in jsp ,i am unable to debug but while running in eclipse it is not 
+// getting a init code to execute code ..platform is unable to preempt as it is 
+// not following os pagination technique..can u share the link 
