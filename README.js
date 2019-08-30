@@ -954,3 +954,4 @@ refer past screenshot to achieve the same
 // how i come to know this thing 
 // i have placed secrett audio device in the motherf@ckingg room bitchesss
 // mic any hint w r u?
+// mic family quotes I like it .Impressed
