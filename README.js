@@ -960,3 +960,8 @@ refer past screenshot to achieve the same
 // you will loose free fat bitchess
 // ok stop 
 // tata bye bye phir milenge 
+
+
+// mongodb time detail
+// https://stackoverflow.com/questions/3778428/best-way-to-store-date-time-in-mongodb
+
