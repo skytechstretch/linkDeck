@@ -956,3 +956,4 @@ refer past screenshot to achieve the same
 // I know mallu is saying Nature Is XXXl Best
 // and trash bhayankar is saying Nature Is infinite Best 
 // Thanks Bitchess now check your bed ..some secret audio device ..
+// check each corner of the room..tofind audio gadget..
