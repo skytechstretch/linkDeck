@@ -947,3 +947,6 @@ refer past screenshot to achieve the same
 // then after i hope everyone understand this analogy
 // https://stackoverflow.com/questions/211841/is-there-a-good-jsp-editor-for-eclipse(this is valid linkk)
 // provide some more onion link it is very beneficial
+// parwachan of the day 
+// “If you are working on something that you really care about, you don't have to be pushed.
+// arthath:This Is called 2-fro motion via love move bi-drectionally
