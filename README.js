@@ -950,3 +950,4 @@ refer past screenshot to achieve the same
 // parwachan of the day 
 // “If you are working on something that you really care about, you don't have to be pushed.
 // arthath:This Is called 2-fro motion via love move bi-drectionally
+// oof(object oriennted function) I lovee it ..
