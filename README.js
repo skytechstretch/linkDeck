@@ -958,3 +958,5 @@ refer past screenshot to achieve the same
 // Thanks Bitchess now check your bed ..some secret audio device ..
 // check each corner of the room..tofind audio gadget..
 // you will loose free fat bitchess
+// ok stop 
+// tata bye bye phir milenge 
