@@ -964,4 +964,6 @@ refer past screenshot to achieve the same
 
 // mongodb time detail
 // https://stackoverflow.com/questions/3778428/best-way-to-store-date-time-in-mongodb
-
+//parwachan of the day 
+// where there is great force ,there is a awesome moemntum 
+// explanation: high gear for wow speed as smooth speed hai toh pleasure hai
