@@ -1036,4 +1036,5 @@ refer past screenshot to achieve the same
 // type tailored grammer
 
 // grammer is a great thing..i hated bcz of lack of interst 
-// just like I hate Physics ..lack of interst 
+// just like I hate economics ..lack of interst 
+
