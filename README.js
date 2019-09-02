@@ -1016,3 +1016,6 @@ refer past screenshot to achieve the same
 // brain vein comes in vain van ,when there is this kind of thing 
 // so what I have learnt majority of the world 
 // loves fraud to feel proud so beware from them 
+// why I feel ,I know onee in full depth 
+// when I see oneee geography it seems very familarr to me 
+// like I know onee fromm decade or more than decade or by birth
