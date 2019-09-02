@@ -1067,7 +1067,7 @@ refer past screenshot to achieve the same
 // this time I am not trying to emit impress dress
 // this is my domain science so I can do this ,so dont laughh
 // birju gait....i deactivated because 
-// there was lot of anger kind of rage 
+// there was lot of anger kind of rage (i.e uganda taklu (really he is motherf@ckerr)
 // my main motto was not that anger state 
 // so this time you can see ..no anger 
 // i am totally ignoring motherf@ckersss
