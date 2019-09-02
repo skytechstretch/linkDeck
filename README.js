@@ -1077,3 +1077,5 @@ refer past screenshot to achieve the same
 // manytimes we confuse genuine action with violent word
 // violent is a term when you are agreesive for executing false things (Ravana)
 // violent is a term when you are agressive for executing right things (Arjuna,Krishna,Ram,BajrangBali,manymore)
+// so clear the word meaning ..as there is lot of confusion
+// I play with words to stich the breech 
