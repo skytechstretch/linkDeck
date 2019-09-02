@@ -1020,3 +1020,7 @@ refer past screenshot to achieve the same
 // when I see oneee geography it seems very familarr to me 
 // like I know onee fromm decade or more than decade or by birth
 // geography is my fav subject may be this is the reason 
+
+// you know ...I have sent the text to the root thinking that it is onee twinn
+// gepgraphy vision was differnt in both the section
+// later I come to know it is only one sectionn
