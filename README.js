@@ -972,3 +972,4 @@ refer past screenshot to achieve the same
 // how to detect that some noun has watched many clip 
 // of blazzerss and running totally in no signal tower zone or no 
 // juice in glass
+// very simple thr talk will be like aastha tv 
