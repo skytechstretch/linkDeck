@@ -1072,3 +1072,4 @@ refer past screenshot to achieve the same
 // so this time you can see ..no anger 
 // i am totally ignoring motherf@ckersss
 // I have read one mic blog ..it is very true when I compare it with my past illPill
+// only in one point I am completly disagree about violent topic
