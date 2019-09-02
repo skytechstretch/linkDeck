@@ -1054,3 +1054,7 @@ refer past screenshot to achieve the same
 // then in most of the cases there is some other kind of req to get the deal
 // no matter who deserves moree
 // actually IND Is trash in this field 
+
+// so use the brain vein ,maintain one blogging site 
+// write about social issues ,genuine issues,get awards ..
+// become global wow figure 
