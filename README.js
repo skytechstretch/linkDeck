@@ -1040,3 +1040,9 @@ refer past screenshot to achieve the same
 // of care feel arrival even though that time I was 
 // in some ILLPILL State 
 // just block that trashh
+
+// rem things about entertainment garbage is true 
+// Ind is not a good place of creative noun
+// bcz people will not understand the creativity 
+// comedy kind of thing is great ,because everyone wants to laugh 
+// but in Ind creative reality is not a good deal 
