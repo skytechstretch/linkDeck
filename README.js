@@ -1061,3 +1061,5 @@ refer past screenshot to achieve the same
 // i am totally ignoring motherf@ckersss
 // mic is xxxxl funny and genious
 // mic is banana gender..but i guarantee mic will now render itself as ornage
+// mic is like ux designer expert..very clear vision..knows psychology very well 
+// very soon it will be clear who exactly is mic
