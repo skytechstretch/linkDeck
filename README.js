@@ -1037,6 +1037,6 @@ refer past screenshot to achieve the same
 // it was one of the dumbest analysis in my lifee
 // when I see trash ack in your section
 // i dont what happen to me ,there was a infinite amount 
-// of care feel comes even though that time I was 
+// of care feel arrival even though that time I was 
 // in some ILLPILL State 
 // just block that trashh
