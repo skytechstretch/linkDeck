@@ -1034,3 +1034,6 @@ refer past screenshot to achieve the same
 //what matter is people should feel the reality 
 // not a virtual perfection humpty dumpty sat on the wall 
 // type tailored grammer
+
+// grammer is a great thing..i hated bcz of lack of interst 
+// just like I hate Physics ..lack of interst 
