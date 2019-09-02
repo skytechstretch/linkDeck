@@ -990,3 +990,8 @@ refer past screenshot to achieve the same
 
 // i have seen many case,where people say you are like my brother..where xvideouss type is silent 
 // some long past fact of some sweetdrug noun verb adjectivess
+// thats enough ..everyone knows this thing I know 
+// but no one speak ..thats okay..
+
+// so heading towards now 
+// https://stackoverflow.com/questions/4531649/what-exactly-is-node-js-used-for/4531651
