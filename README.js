@@ -1021,7 +1021,7 @@ refer past screenshot to achieve the same
 // like I know onee fromm decade or more than decade or by birth
 // geography is my fav subject may be this is the reason 
 
-// you know ...I have sent the text to the root thinking that it is onee twinn
+// you know ...I have sent the text to the root(when i was in illPill domain)giving guidance about reality thinking that it is onee twinn
 // gepgraphy vision was differnt in both the section
 // later I come to know it is only one sectionn
 // in root section I notices innocency with the belief 
