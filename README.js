@@ -1042,7 +1042,7 @@ refer past screenshot to achieve the same
 // just block that trashh
 
 // rem things about entertainment garbage is true 
-// Ind is not a good place of creative noun
+// Ind is not a good place for creative noun
 // bcz people will not understand the creativity 
 // comedy kind of thing is great ,because everyone wants to laugh 
 // but in Ind creative reality is not a good deal 
