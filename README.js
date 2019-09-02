@@ -1058,3 +1058,7 @@ refer past screenshot to achieve the same
 // so use the brain vein ,maintain one blogging site 
 // write about social issues ,genuine issues,get awards ..
 // become global wow figure 
+
+// i have one future project in my mind totally 
+// non-profitable but I guarantee I will Put your Name as 
+// some developer role ..whole world wil say writer ,developer omg 
