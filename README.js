@@ -1028,13 +1028,10 @@ refer past screenshot to achieve the same
 // world rewards talent ,world respect talent 
 // no world is not like that 
 // majority of world is motherf@ckerr
-// i m not grammar type writer 
-// i hate grammer in school and in real life also 
+
 // i respect truth via any medium 
 //what matter is people should feel the reality 
 // not a virtual perfection humpty dumpty sat on the wall 
 // type tailored grammer
 
-// grammer is a great thing..i hated bcz of lack of interst 
-// just like I hate economics ..lack of interst 
-
+/
