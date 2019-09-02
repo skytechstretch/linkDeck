@@ -1024,3 +1024,7 @@ refer past screenshot to achieve the same
 // you know ...I have sent the text to the root thinking that it is onee twinn
 // gepgraphy vision was differnt in both the section
 // later I come to know it is only one sectionn
+// in root section I notices innocency with the belief 
+// world rewards talent ,world respect talent 
+// no world is not like that 
+// world is motherf@ckerr
