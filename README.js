@@ -976,3 +976,5 @@ refer past screenshot to achieve the same
 // I have decade of exp in selff ohh yeah 
 // I wanna thanks blazzerflow/blogging site with awesome script
 // internet hai toh selff ohhh yeahhh haii
+// but i dont like stuff like stepfeather/stepanythingg
+// these things should be bannedd
