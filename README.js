@@ -1071,3 +1071,4 @@ refer past screenshot to achieve the same
 // my main motto was not that anger state 
 // so this time you can see ..no anger 
 // i am totally ignoring motherf@ckersss
+// I have read one mic blog ..it is very true when I compare it with my past illPill
