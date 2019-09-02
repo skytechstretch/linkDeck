@@ -995,3 +995,10 @@ refer past screenshot to achieve the same
 
 // so heading towards now 
 // https://stackoverflow.com/questions/4531649/what-exactly-is-node-js-used-for/4531651
+
+// geography i guess 3 years back was more wow 
+// presently also wow but fact is fact 
+// so how to get old geography 
+// min junk 
+// min tension releaser 
+// sprouts organic instance 
