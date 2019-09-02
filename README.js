@@ -981,3 +981,5 @@ refer past screenshot to achieve the same
 // whats your view ?
 // virtual system is the mechanism of many ohh yeahh blogging site
 // this is totally ridiculouss//they can put more real stuff
+// things are geeting very complex now hope everyone aware 
+// of this complexity
