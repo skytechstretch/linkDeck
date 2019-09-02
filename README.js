@@ -979,5 +979,5 @@ refer past screenshot to achieve the same
 // but i dont like stuff like stepfeather/stepanythingg
 // these things should be bannedd
 // whats your view ?
-// virtual system is the mechanism of ohh yeahh blogging site
+// virtual system is the mechanism of many ohh yeahh blogging site
 // this is totally ridiculouss//they can put more real stuff
