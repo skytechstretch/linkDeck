@@ -1031,8 +1031,6 @@ refer past screenshot to achieve the same
 
 // i respect truth via any medium 
 //what matter is people should feel the reality 
-// not a virtual perfection humpty dumpty sat on the wall 
-// type tailored grammer
 
 // my root is not in ..so i think it is one twinnn with root 
 // just like my section ..my png with root
