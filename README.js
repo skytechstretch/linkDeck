@@ -973,3 +973,5 @@ refer past screenshot to achieve the same
 // of blazzerss and running totally in no signal tower zone or no 
 // juice in glass
 // very simple thr talk will be like aastha tv 
+// I have decade of exp in selff ohh yeah 
+// I wanna thanks blazzerflow/blogging site with awesome script
