@@ -1006,3 +1006,10 @@ refer past screenshot to achieve the same
 // that world is innocent like me
 // we look 10 times greater when we have smile and funnny 
 // humour 
+// due to many ILL Pill and lack of emotion support 
+// I used to take beer a lot in past not now 
+// actually these things are not solution
+// and I also dont know what is the  best solution
+// to fight with these kind of things 
+// but one thing I know ,make yourself busy 
+// in the work 
