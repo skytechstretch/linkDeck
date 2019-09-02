@@ -1053,3 +1053,4 @@ refer past screenshot to achieve the same
 // for this stuff if unluckily one is orange 
 // then in most of the cases there is some other kind of req to get the deal
 // no matter who deserves moree
+// actually IND Is trash in this field 
