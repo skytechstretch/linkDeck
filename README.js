@@ -1006,14 +1006,7 @@ refer past screenshot to achieve the same
 // that world is innocent like me
 // we look 10 times greater when we have smile and funnny 
 // humour 
-// due to many ILL Pill and lack of emotion support 
-// I used to take beer a lot in past not now 
-// actually these things are not solution
-// and I also dont know what is the  best solution
-// to fight with these kind of things 
-// but one thing I know ,make yourself busy 
-// in the work 
-// brain vein comes in vain van ,when there is this kind of thing 
+// 
 // so what I have learnt majority of the world 
 // loves fraud to feel proud so beware from them 
 // why I feel ,I know onee in full depth 
@@ -1058,11 +1051,6 @@ refer past screenshot to achieve the same
 // so use the brain vein ,maintain one blogging site 
 // write about social issues ,genuine issues,get awards ..
 // become global wow figure 
-
-// i have one future project in my mind totally 
-// non-profitable but I guarantee I will Put your Name as 
-// some developer role ..whole world wil say writer ,developer omg 
-
 // we will invite ganguly as our chief guest againn ..
 // this time I am not trying to emit impress dress
 // this is my domain science so I can do this ,so dont laughh
@@ -1071,11 +1059,3 @@ refer past screenshot to achieve the same
 // my main motto was not that anger state 
 // so this time you can see ..no anger 
 // i am totally ignoring motherf@ckersss
-// I have read one mic blog ..it is very true when I compare it with my past illPill
-// only in one point I am completly disagree about violent topic
-// what is violent ?
-// manytimes we confuse genuine action with violent word
-// violent is a term when you are agreesive for executing false things (Ravana)
-// violent is a term when you are agressive for executing right things (Arjuna,Krishna,Ram,BajrangBali,manymore)
-// so clear the word meaning ..as there is lot of confusion
-// I play with words to stich the breech 
