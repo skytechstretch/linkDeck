@@ -983,3 +983,7 @@ refer past screenshot to achieve the same
 // this is totally ridiculouss//they can put more real stuff
 // things are geeting very complex now hope everyone aware 
 // of this complexity
+// so keep distance from blazzerss/xvidouss walle uncle/anythinggg
+// world is like this ..they will try to come in your domain 
+//with some pseudo relation mention ..then they try to become 
+// xvideouss walle unclee or anythingg
