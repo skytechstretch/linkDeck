@@ -969,3 +969,6 @@ refer past screenshot to achieve the same
 // explanation: high gear for wow speed as smooth speed hai toh pleasure hai
 // fact of the day 
 // people after watching blazzerss ,gets transited in to aastha tv for sound sleep
+// how to detect that some noun has watched many clip 
+// of blazzerss and running totally in no signal tower zone or no 
+// juice in glass
