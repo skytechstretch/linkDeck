@@ -1059,3 +1059,4 @@ refer past screenshot to achieve the same
 // my main motto was not that anger state 
 // so this time you can see ..no anger 
 // i am totally ignoring motherf@ckersss
+// mic is xxxxl funny and genious
