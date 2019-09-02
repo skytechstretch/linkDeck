@@ -1013,3 +1013,6 @@ refer past screenshot to achieve the same
 // to fight with these kind of things 
 // but one thing I know ,make yourself busy 
 // in the work 
+// brain vein comes in vain van ,when there is this kind of thing 
+// so what I have learnt majority of the world 
+// loves fraud to feel proud so beware from them 
