@@ -1046,3 +1046,6 @@ refer past screenshot to achieve the same
 // bcz people will not understand the creativity 
 // comedy kind of thing is great ,because everyone wants to laugh 
 // but in Ind creative reality is not a good deal 
+
+// I respect modelling kind of things ..and lead bcz it requires 
+// disciplinee ..
