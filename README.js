@@ -1049,3 +1049,7 @@ refer past screenshot to achieve the same
 
 // I respect modelling kind of things ..and lead bcz it requires 
 // disciplinee ..
+// but again In Ind there are lot of resource avilable 
+// for this stuff if unluckily one is orange 
+// then in most of the cases there is some other kind of req to get the deal
+// no matter who deserves moree
