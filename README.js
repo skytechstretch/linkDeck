@@ -967,3 +967,5 @@ refer past screenshot to achieve the same
 //parwachan of the day 
 // where there is great force ,there is a awesome moemntum 
 // explanation: high gear for wow speed as smooth speed hai toh pleasure hai
+// fact of the day 
+// people after watching blazzerss ,gets transited in to aastha tv for sound sleep
