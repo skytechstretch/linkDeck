@@ -1060,3 +1060,4 @@ refer past screenshot to achieve the same
 // so this time you can see ..no anger 
 // i am totally ignoring motherf@ckersss
 // mic is xxxxl funny and genious
+// mic is banana gender..but i guarantee mic will now render itself as ornage
