@@ -987,3 +987,6 @@ refer past screenshot to achieve the same
 // majority of world is like this ..they will try to come in your domain 
 //with some pseudo relation mention ..then they try to become 
 // xvideouss walle unclee or anythingg
+
+// i have seen many case,where people say you are like my brother..where xvideouss type is silent 
+// some long past fact of some sweetdrug noun verb adjectivess
