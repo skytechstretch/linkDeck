@@ -999,3 +999,4 @@ refer past screenshot to achieve the same
 // quiz of the day 
 // heelo kha pe ho ,mujhee seer me dard ho rha(where are you,I am having headache)..kis click script mei Jayada Upyog(use) hota hai
 // watch yoga clip for solid satisfaction ..as yoga bhog hai toh no rog hai ..ohhh nooo !!
+// now i will act like aastha tv
