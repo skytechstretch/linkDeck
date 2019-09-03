@@ -1011,3 +1011,4 @@ refer past screenshot to achieve the same
 // every pain gives lessonn...awesome
 // please make video on types of pain so that one can can use it as a prevention vaccine 
 // just like polio AD ..two video to keep you away from notlegal wrapper
+// if i would hve 1 byte subs I would have set fire 
