@@ -995,4 +995,6 @@ refer past screenshot to achieve the same
 
 // so heading towards now 
 // https://stackoverflow.com/questions/4531649/what-exactly-is-node-js-used-for/4531651
-
+// warning ! Self Ohh Yeahh Only Allowed 
+// quiz of the day 
+// heelo kha pe ho ,mujhee seer me dard ho rha(where are you,I am having headache)..kis click script mei Jayada Upyog(use) hota hai
