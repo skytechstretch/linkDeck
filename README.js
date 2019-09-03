@@ -1010,4 +1010,4 @@ refer past screenshot to achieve the same
 // internally very badly that thr secret is no more in cheat basket 
 // every pain gives lessonn...awesome
 // please make video on types of pain so that one can can use it as a prevention vaccine 
-// just like polio AD ..
+// just like polio AD ..two video to keep you away from notlegal wrapper
