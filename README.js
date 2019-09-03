@@ -1008,3 +1008,6 @@ refer past screenshot to achieve the same
 //  I guarantee video on doubleface detection or sweet drug 
 // will save many people ...and it will burn all double face 
 // internally very badly that thr secret is no more in cheat basket 
+// every pain gives lessonn...awesome
+// make video on types of pain so that one can can use it as a prevention vaccine 
+// just like polio AD ..
