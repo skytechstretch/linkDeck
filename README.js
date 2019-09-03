@@ -1003,3 +1003,5 @@ refer past screenshot to achieve the same
 // namaste khana hua ,pooja path hua ,life is gods gift
 // we should not be violent ,we should love everyone 
 // we should forgive everyone,life is short.....sleptt
+// hey mic why not one video on sweetdrug/attention seeker 
+// or more precisely expecting praise with doubleFace 
