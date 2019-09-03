@@ -1005,3 +1005,6 @@ refer past screenshot to achieve the same
 // we should forgive everyone,life is short.....sleptt
 // hey mic why not one video on sweetdrug/attention seeker 
 // or more precisely expecting praise with doubleFace 
+//  I guarantee video on doubleface detection or sweet drug 
+// will save many people ...and it will burn all double face 
+// internally very badly that thr secret is no more in cheat basket 
