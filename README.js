@@ -1015,6 +1015,6 @@ refer past screenshot to achieve the same
 //useful repo ,naming part seems as keyword but code is 100 percent wow 
 // https://repl.it/@MimiR_
 // hi mic ,create some value of  book kind of video ..and refer my origin book i.e my off the mark book/knowledge text  as some pic desc if possible
-#digital_education_story_with_background_music_that_how_someone_from_remote_area_can_learn_exceptional_things
-#threre is a huge click traffic effect I can see awesome 
+//digital_education_story_with_background_music_that_how_someone_from_remote_area_can_learn_exceptional_things
+//threre is a huge click traffic effect I can see awesome 
 // one awarness video to save innocent soul from double face  kind of sweet drug 
