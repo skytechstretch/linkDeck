@@ -1014,3 +1014,5 @@ refer past screenshot to achieve the same
 // if i would hve 1 byte subs I would have set fire 
 //useful repo ,naming part seems as keyword but code is 100 percent wow 
 // https://repl.it/@MimiR_
+// hi mic ,create some value of  book kind of video ..and refer my origin book  as some pic desc if possible
+#digital_education_story_with_background_music_that_how_someone_from_remote_area_can_learn_exceptional_things
