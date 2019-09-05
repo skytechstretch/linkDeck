@@ -1032,3 +1032,6 @@ refer past screenshot to achieve the same
 // its cool and great
 // I am xxxxl Happy Today
 // render everywhere and destory any doubt about the fact
+// but care for privacy as my anonymoys account has lot of 
+// haterss..okay no problem I will deal with haterss
+//haters are like weak bones I can break easilyyy
