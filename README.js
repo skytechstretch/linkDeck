@@ -1028,10 +1028,3 @@ refer past screenshot to achieve the same
 // even though human teach ethics and they are royal too nut not loyal
 //  so i can say dog > these kind of cheaters
 // above is fact of the day
-// This is the reason I  want to use Public account 
-// its cool and great
-// I am xxxxl Happy Today
-// render everywhere and destory any doubt about the fact
-// but care for privacy as my anonymoys account has lot of 
-// haterss..okay no problem I will deal with haterss
-//haters are like weak bones I can break easilyyy
