@@ -1019,3 +1019,8 @@ refer past screenshot to achieve the same
 // blazzers are like glen mcrath decision out guarranteed
 // yesterday i was seeing ,some public place clip 
 // it was awesomee
+// repeating old parwachan of the day on this auspicious day
+// if there is no up and down we are dead and without up and down one can 
+// not enjoy the pleasure moment 
+// arthath : you have to go through through the hard mechanism to attain pleasure 
+// ohh yeahhh ohhh aahhhh wowww
