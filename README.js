@@ -1028,3 +1028,6 @@ refer past screenshot to achieve the same
 // even though human teach ethics and they are royal too nut not loyal
 //  so i can say dog > these kind of cheaters
 // above is fact of the day
+// quiz of the day 
+// buddhe(old) log kha pe sabse jyada badnam hai(where old peole are more unsavoury)
+// winner will get preminum blazzer clip
