@@ -1014,3 +1014,5 @@ refer past screenshot to achieve the same
 // if i would hve 1 byte subs I would have set fire 
 //useful repo ,naming part seems as keyword but code is 100 percent wow 
 // https://repl.it/@MimiR_
+//Blazzers are best teacher I have learnt lot of up and down and in and out 
+// you are global wow teacher keep rocking 
