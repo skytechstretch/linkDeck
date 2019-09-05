@@ -1024,3 +1024,7 @@ refer past screenshot to achieve the same
 // not enjoy the pleasure moment 
 // arthath : you have to go through through the hard mechanism to attain pleasure 
 // ohh yeahhh ohhh aahhhh wowww
+// even though animals like dog never studied ethics but it knows wafadarrii(loyal)
+// even though human teach ethics and they are royal too nut not loyal
+//  so i can say dog > these kind of cheaters
+// above is fact of the day
