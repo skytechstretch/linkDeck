@@ -1014,10 +1014,3 @@ refer past screenshot to achieve the same
 // if i would hve 1 byte subs I would have set fire 
 //useful repo ,naming part seems as keyword but code is 100 percent wow 
 // https://repl.it/@MimiR_
-// hi mic ,create some value of  book kind of video ..and refer my origin book i.e my off the mark book/knowledge text 
-// i.e level 0 name  not level 1 ,level 2  i.e me or someother
-//as some pic desc if possible
-//digital_education_story_with_background_music_that_how_someone_from_remote_area_can_learn_exceptional_things
-//threre is a huge click traffic effect I can see awesome 
-// just appreciate the power of internet with above mention points 
-// one awarness video to save innocent soul from double face  kind of sweet drug 
