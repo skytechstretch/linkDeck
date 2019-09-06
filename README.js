@@ -1075,3 +1075,7 @@ refer past screenshot to achieve the same
 // scientist should discover some food just like alcohol
 // i.e tension releaser food ..with no riskk
 // whole world will be then in peace 
+
+// without helmet we will ride ,we will break the signal as we are in some urgent mission 
+// we will do stunt like pseudo fast furious movie (gaali denaa band kar diyee hai) kiya milta hai happinesss
+// take happinesss no problem in it but dont disturb surroundingg 
