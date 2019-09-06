@@ -1098,3 +1098,5 @@ refer past screenshot to achieve the same
 // with very optimize condition that which control statement to execute 
 // I accept for all non-support mechanism from ,I have rendered all the factss
 // to the root..because I dont want any virus in our ecosystem
+// trash bhayankar as per god's rule ..you will suffer worst 
+// dog will do peee in your non-oxygen body(as per karma)
