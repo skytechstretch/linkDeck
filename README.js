@@ -1031,17 +1031,6 @@ refer past screenshot to achieve the same
 // quiz of the day 
 // buddhe(old) log kha pe sabse jyada badnam hai(where old peole are more unsavoury)
 // winner will get preminum blazzer clip
-
-
-
-
-
-
-
-
-
-
-
 /// i really want to say ..god will bless youuu
 // god always bless mirror type soul..as mirror always reflect truthh
 // this is factt..ignore my funny aasthaa tv talkkk
