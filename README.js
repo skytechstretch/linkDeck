@@ -1092,3 +1092,5 @@ refer past screenshot to achieve the same
 // ramdas's picture is awesome in behaviour ,in niyat ..
 // ramdas has observed these quality ,then compared with nightmare 
 // then told me that nightmare i.e trash bhayankar is (refer past abusee)
+// it was trash bhayankar who terminated ramdas 
+// ramdas was honest 1-diamensional lover with no any other choice 
