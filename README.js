@@ -1045,3 +1045,12 @@ refer past screenshot to achieve the same
 // thats itt
 
 // dear all Couples ,
+// Emit love ..Every noun need love 
+// yesterday I have seen one casee ,I was drinking water 
+// one orange comes to me (i think <1 married) ,orange intention was not lust 
+// I am psychologist expert ,what I feel ,orange wants to get some conversation 
+// some attention ,some praise ,in eyes I have seen the pain of absence of lovee
+// so appeal to all fruit gender ,put your family in top priority 
+// love them ,make them smile ,talk useless meaningless any thing but talk 
+// make them feel they are like heart beat 
+// thats itt
