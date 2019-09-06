@@ -1096,3 +1096,5 @@ refer past screenshot to achieve the same
 // ramdas was honest 1-diamensional lover with no any other choice 
 // but that trash bhayankar is a if-else programming statement 
 // with very optimize condition that which control statement to execute 
+// I accept for all non-support mechanism from ,I have rendered all the factss
+// to the root..because I dont want any virus in our ecosystem
