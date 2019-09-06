@@ -1089,21 +1089,3 @@ refer past screenshot to achieve the same
 // if u are lucky enough to get love u (refer past abuse)
 // speed thrill but chills ..try 00 in out it will also chill n trill with drill effect u (refer past abuseee)
 // do any chill pill but affect only yourself not your family ..not any other road entity 
-// ramdas's picture is awesome in behaviour ,in niyat ..
-// ramdas has observed these quality ,then compared with nightmare 
-// then told me that nightmare i.e trash bhayankar is (refer past abusee)
-// it was trash bhayankar who terminated ramdas 
-// ramdas was honest 1-diamensional lover with no any other choice 
-// but that trash bhayankar is a if-else programming statement 
-// with very optimize condition that which control statement to execute 
-// I accept for all non-support mechanism from ,I have rendered all the factss
-// to the root..because I dont want any virus in our ecosystem
-// trash bhayankar as per god's rule ..you will suffer worst 
-// dog will do peee in your non-oxygen body(as per karma)
-// i have opened ramdas account manytime ..soooooo
-// i know many distubingg thingsss
-// i have checked whatsappp many times ,so I know 
-// what kind of poison yiu are 
-// ramdas dont get faint ,I know you were just trying to settle
-// the things without any fire..its okay you are me ..i.e
-// both are samee..so i trust you
