@@ -1058,3 +1058,9 @@ refer past screenshot to achieve the same
 // skipping their family so never do this because god is owner 
 // and god is very strict..so behave like human 
 // okay my response was hi hello with smilee then I exit from shop 
+
+
+// one appeal to all fruit gender never print your crush traits as your behaviour reflection
+// because originality matter so be yourself we all are unique and God's emit so 
+// lets respect god ,god is not cruel ,god is great ,god is like our parent 
+// so god will always do favour so just be true Human 
