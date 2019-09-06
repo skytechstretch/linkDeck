@@ -1054,3 +1054,6 @@ refer past screenshot to achieve the same
 // love them ,make them smile ,talk useless meaningless any thing but talk 
 // make them feel they are like heart beat 
 // thats itt
+// i have seen many non-wow noun who gets fascinate with new HD qulaity orange 
+// skipping their family so never do this because god is owner 
+// and god is very strict..so behave like human 
