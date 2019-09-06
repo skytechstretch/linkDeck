@@ -1057,3 +1057,4 @@ refer past screenshot to achieve the same
 // i have seen many non-wow noun who gets fascinate with new HD qulaity orange 
 // skipping their family so never do this because god is owner 
 // and god is very strict..so behave like human 
+// okay my response was hi hello with smilee then I exit from shop 
