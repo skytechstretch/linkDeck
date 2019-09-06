@@ -1082,3 +1082,7 @@ refer past screenshot to achieve the same
 // if someone is emitingg pseudo fast furious movie type stunt then I gyarrente 
 // you will BE RIP EXPONENTIALLY ,so do entertainment as it Is safe 
 // It keeps us away from many disease
+// actually  i have seen many teenager they inc their engine gear vehicle 
+// when they see any orange areee(refer past galli) ...dont do this 
+// you have plenty of time ..ohhh yeahh u have to do 
+// not your engine..so show high speed performance there 
