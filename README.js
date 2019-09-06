@@ -1068,6 +1068,6 @@ refer past screenshot to achieve the same
 // i respect and appreciate rom in a queen very much becuase i have seen 
 // humanity kind of wow things ..
 // rom in a queen also respect and love oneee currry very much 
-// rom in a queen pair is shen ,he is also a great personality 
+// rom in a queen pair(heart partner) is shen ,he is also a great personality 
 // I am expert psychologist ,I can say this with 
 // no doubt in my mind
