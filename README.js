@@ -1094,3 +1094,5 @@ refer past screenshot to achieve the same
 // then told me that nightmare i.e trash bhayankar is (refer past abusee)
 // it was trash bhayankar who terminated ramdas 
 // ramdas was honest 1-diamensional lover with no any other choice 
+// but that trash bhayankar is a if-else programming statement 
+// with very optimize condition that which control statement to execute 
