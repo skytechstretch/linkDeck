@@ -1064,3 +1064,7 @@ refer past screenshot to achieve the same
 // because originality matter so be yourself we all are unique and God's emit so 
 // lets respect god ,god is not cruel ,god is great ,god is like our parent 
 // so god will always do favour so just be true Human 
+
+// i respect and appreciate rom in a queen very much becuase i have seen 
+// humanity kind of wow things ..
+// rom in a queen also respect and love oneee currry very much 
