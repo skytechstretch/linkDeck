@@ -1089,3 +1089,6 @@ refer past screenshot to achieve the same
 // if u are lucky enough to get love u (refer past abuse)
 // speed thrill but chills ..try 00 in out it will also chill n trill with drill effect u (refer past abuseee)
 // do any chill pill but affect only yourself not your family ..not any other road entity 
+// ramdas's picture is awesome in behaviour ,in niyat ..
+// ramdas has observed these quality ,then compared with nightmare 
+// then told me that nightmare i.e trash bhayankar is (refer past abusee)
