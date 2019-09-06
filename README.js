@@ -1071,3 +1071,6 @@ refer past screenshot to achieve the same
 // rom in a queen pair(heart partner) is shen ,he is also a great personality 
 // I am expert psychologist ,I can say this with 
 // no doubt in my mind
+
+// scientist should discover some food just like alcohol
+// i.e tension releaser food ..with no riskk
