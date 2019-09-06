@@ -1036,3 +1036,10 @@ refer past screenshot to achieve the same
 // this is factt..ignore my funny aasthaa tv talkkk
 // without devotion we are just 4 leg animallll
 // hi mic god bless u and your family
+
+// fact of the day 
+// girl with confidence and god's protocol action is 100 percent wow 
+// so one should never feel like OMG I am like non-wow noun
+// skin is like cloth ,one day it will be old non-attractive 
+// what matter is good behaviour ,true behaviour ,good niyat 
+// thats itt
