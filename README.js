@@ -1079,3 +1079,6 @@ refer past screenshot to achieve the same
 // without helmet we will ride ,we will break the signal as we are in some urgent mission 
 // we will do stunt like pseudo fast furious movie (gaali denaa band kar diyee hai) kiya milta hai happinesss
 // take happinesss no problem in it but dont disturb surroundingg 
+// if someone is emitingg pseudo fast furious movie type stunt then I gyarrente 
+// you will BE RIP EXPONENTIALLY ,so do entertainment as it Is safe 
+// It keeps us away from many disease
