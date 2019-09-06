@@ -1102,3 +1102,8 @@ refer past screenshot to achieve the same
 // dog will do peee in your non-oxygen body(as per karma)
 // i have opened ramdas account manytime ..soooooo
 // i know many distubingg thingsss
+// i have checked whatsappp many times ,so I know 
+// what kind of poison yiu are 
+// ramdas dont get faint ,I know you were just trying to settle
+// the things without any fire..its okay you are me ..i.e
+// both are samee..so i trust you
