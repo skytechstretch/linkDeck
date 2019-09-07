@@ -1097,3 +1097,5 @@ refer past screenshot to achieve the same
 
 // i am thinking to organize one debate environment between ramdas and oneee because nature wants to know 
 // who has more convincing powerr ..topic will be mitronnnn
+
+// naturee is in oneee sidee
