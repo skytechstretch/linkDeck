@@ -1111,3 +1111,5 @@ refer past screenshot to achieve the same
 // will be RIP
 // but nature fear their demand will get inc in addition to kashmir 
 // they will say we want tag POC ..pa k occupied currryyy
+
+//so no png in border
