@@ -1101,3 +1101,5 @@ refer past screenshot to achieve the same
 // naturee is in oneee sidee
 // ramdas is  my student in debate field so bewareee
 
+// yeah decision out emit krne ke liyee blazzerss dekhna jarurrii hai kiya 
+// this is the most frequently asked questionn in malluuu video platform
