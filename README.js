@@ -1139,3 +1139,6 @@ refer past screenshot to achieve the same
 // oneee via sweetdrug means so beawre 
 // I have also similar problem
 // one advise 
+//dont trust anyone from your circlee
+// belive in your talentt
+// god is always with you
