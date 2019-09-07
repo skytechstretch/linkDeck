@@ -1110,3 +1110,8 @@ refer past screenshot to achieve the same
 // telll meee currryyyy tell meeeee
 
 // omgggg this is i can surpriseee of the decade*decade
+// somewhere in the web i found curry is fart expert 
+// via secret emit then leaving placeee in silent modee
+// making other people unconscious thereee
+// this is really not ethical currryyy
+// why are u like that currryyy
