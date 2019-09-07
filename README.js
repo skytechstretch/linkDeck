@@ -1101,17 +1101,4 @@ refer past screenshot to achieve the same
 // naturee is in oneee sidee
 // ramdas is  my student in debate field so bewareee
 
-// this is totally not acceptable bcz somewhere in the web i found oneee 38.01 years old 
-// omggg omggg i cant believeeee
-// surprise of the yearrrr
-// oneee should be clearrr about this thingg oneee should neverr hidee yearss in integer valuee
-// it was realllly least expecteddd from oneeee
-// whyy currryyy whyyyy u have eaten lot of integer from the yearsss 
-// telll meee currryyyy tell meeeee
-
-// omgggg this is i can surpriseee of the decade*decade
-// somewhere in the web i found curry is fart expert 
-// via secret emit then leaving placeee in silent modee
-// making other people unconscious thereee
-// this is really not ethical currryyy
-// why are u like that currryyy
+// muskraieahh yeah bas ek prank thaa
