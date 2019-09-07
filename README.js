@@ -1100,3 +1100,7 @@ refer past screenshot to achieve the same
 
 // naturee is in oneee sidee
 // ramdas is  my student in debate field so bewareee
+
+// this is totally not acceptable bcz somewhere in the web i found oneee 38.01 years old 
+// omggg omggg i cant believeeee
+// surprise of the yearrrr
