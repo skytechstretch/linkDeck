@@ -1142,3 +1142,8 @@ refer past screenshot to achieve the same
 //dont trust anyone from your circlee
 // belive in your talentt
 // god is always with you
+// bad effect of alcohol:
+// your appetite will be lost 
+// you will avoid workout 
+// you will become like laazy ,with lot of 
+// side effects in body
