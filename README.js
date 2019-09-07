@@ -1107,5 +1107,5 @@ refer past screenshot to achieve the same
 # 1880 4/6 it is like ohhh emiting poon ponnn aahhh 
 // see fact is fact ...this time no prankk
 
-// 1660 1/2 border pe bas png rakh denaa haii sab paki without bullet 
+// 1660 1/2 border pe bas yeahh png rakh denaa haii sab paki without bullet 
 // will be RIP
