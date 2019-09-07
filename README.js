@@ -1110,4 +1110,4 @@ refer past screenshot to achieve the same
 // 1660 1/2 border pe bas yeahh png rakh denaa haii sab paki without bullet 
 // will be RIP
 // but nature fear their demand will get inc in addition to kashmir 
-// they will see we want tag POC ..pa k occupied currryyy
+// they will say we want tag POC ..pa k occupied currryyy
