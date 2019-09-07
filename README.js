@@ -1116,3 +1116,10 @@ refer past screenshot to achieve the same
 // nature madhya pradesh temp got inc effect  when 
 // theree is oneee only oneee
 // oneee I am feeling colddd...I am shiveringgg ..help meee
+
+// hola all i have written fantasy kind of things about alcohol 
+// just for fun mean ..it is very worst thing 
+// i remember back in 2016 I use to take alcohol 
+// occasionaly ,so it was affecting whole appetite sleep and gym schedule 
+// so never ever take alcohol 
+// occasionaly 1 time monthly in limit okay 
