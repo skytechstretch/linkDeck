@@ -1089,3 +1089,5 @@ refer past screenshot to achieve the same
 // if u are lucky enough to get love u (refer past abuse)
 // speed thrill but chills ..try 00 in out it will also chill n trill with drill effect u (refer past abuseee)
 // do any chill pill but affect only yourself not your family ..not any other road entity 
+// quiz timeee
+// honeyy omg omg ohhh slow honeyy slow honeyyy..this sentence scene suits whichhh avi/mp4/anythingg
