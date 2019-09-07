@@ -1127,3 +1127,14 @@ refer past screenshot to achieve the same
 // onee 2402 desc:
 // as per my knowledge about face reading 
 // introvert just like me i.e very earlier I have revealed 
+//architecture like this asys that onee is very very strict 
+// in its work ,oneee cant tolerate intoxic in any field 
+// no doubt if some intoxic or non-wow 
+// comes in onee radarr then god can also not save that non-wow 
+// i.e oneee is very selective in making bond 
+// no space for non-wow i.e bad niyat 
+// if oneee is in good bond bond mode with anyone 
+// then oneee can even fight with god for that particular good bond mode
+// this is reason many non-wow people try to take benefit from 
+// oneee via sweetdrug means so beawre 
+// I have also similar problem
