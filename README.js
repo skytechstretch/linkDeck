@@ -1154,3 +1154,4 @@ refer past screenshot to achieve the same
 //P.s:Ramdas has one small packet ready for you guys ,so enjoy maddii(thanks me later)
 // Yeah jayada formality or to avoid text in reply 3 heart in face walla emoji 
 // or only heart react jaruri hai kiyaa(have learnt this technique recently)
+// only core introvert will understand this
