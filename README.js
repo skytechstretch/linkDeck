@@ -1175,4 +1175,4 @@ refer past screenshot to achieve the same
 // now coming to oneee 2116 :
 // respect ,what is respect ?
 // during my school days I use to stand Up to respect teacher 
-// but do you know we have one part in embeded in our body part 
+// but do you know we have one part  embeded in our body part 
