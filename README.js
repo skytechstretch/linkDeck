@@ -1168,3 +1168,5 @@ refer past screenshot to achieve the same
 // one 2116 desc:
 // Bharat Mata ki "jai" Bharat mata ki "Jai"
 // mitronn
+// during 2005-08-09...there was no digitall digital ohh yeahhh
+// we have to travel to street to collect script book
