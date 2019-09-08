@@ -1204,3 +1204,4 @@ refer past screenshot to achieve the same
 // but then I changed my voice to 80 year old with lot of 
 // aaien aaiennn that teenager then finally told me that wrong no 
 // so waht is the conclusion ?
+// shakti kapoor kind of noun is very much high in this world
