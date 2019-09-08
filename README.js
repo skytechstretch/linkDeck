@@ -1155,3 +1155,5 @@ refer past screenshot to achieve the same
 // Yeah jayada formality or to avoid text in reply 3 heart in face walla emoji 
 // or only heart react jaruri hai kiyaa(have learnt this technique recently)
 // only core introvert will understand this
+// it is not that one is arrogant it is because one dont know 
+// waht exact to reply so tat aastha tv fragrance is maintained
