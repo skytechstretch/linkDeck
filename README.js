@@ -1207,3 +1207,4 @@ refer past screenshot to achieve the same
 // shakti kapoor kind of noun is very much high in this world
 // he was on the verge of abusing ..when I asked him from which place u belong 
 // he told me pakistan as I was virtual 80 year old so i told pellawohtan
+// now i dnt abuse so i disconnected the phone 
