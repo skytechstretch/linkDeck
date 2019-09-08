@@ -1177,3 +1177,5 @@ refer past screenshot to achieve the same
 // during my school days I use to stand Up to respect teacher 
 // but do you know we have 2 part  embeded in our body part 
 // 1 part is heart beat which always respect with all beat 
+// 2nd part is very indiscipline ,it only respect when there 
+// is high flow of blood 
