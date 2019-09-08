@@ -1148,3 +1148,7 @@ refer past screenshot to achieve the same
 // you will become like laazy ,with lot of 
 // side effects in body
 // thats ittt
+
+// dear trash bhayankar I got JD tension releaser (will utilize after 2 mon) 
+// one diary ,3 packets of sweet
+//P.s:Ramdas has one small packet ready for you guys ,so enjoy maddii(thanks me later)
