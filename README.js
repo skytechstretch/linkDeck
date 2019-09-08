@@ -1152,3 +1152,5 @@ refer past screenshot to achieve the same
 // dear trash bhayankar I got JD tension releaser (will utilize after 2 mon) 
 // one diary ,3 packets of sweet
 //P.s:Ramdas has one small packet ready for you guys ,so enjoy maddii(thanks me later)
+// Yeah jayada formality or to avoid text in reply 3 heart in face walla emoji 
+// jaruri hai kiyaa(have learnt this technique recently)
