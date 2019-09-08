@@ -1196,3 +1196,8 @@ refer past screenshot to achieve the same
 // thats ittt
 
 // some research emittt
+//today I was researching on anxiety 
+// and excitement 
+// so i dial one teenager banana phne with softttt sweet voiceeee
+// and then disconnected the phone 
+// 10 missed call after that to my noo
