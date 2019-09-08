@@ -1163,3 +1163,4 @@ refer past screenshot to achieve the same
 // vocabulary se darr lagta hai saheb
 
 // https://spaceplace.nasa.gov/binary-code/en/
+// https://www.youtube.com/watch?v=MmfOkUw0bQs&feature=youtu.be&fbclid=IwAR2pPDcMna1tmdl-ddHfUdn5AyAo9Q6qcIZbfHRSt6rxoNsoYJz7LDiUnHk
