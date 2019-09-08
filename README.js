@@ -1179,3 +1179,7 @@ refer past screenshot to achieve the same
 // 1 part is heart beat which always respect with all beat 
 // 2nd part is very indiscipline ,it only respect when there 
 // is high flow of blood 
+// oneee my 2nd parttt respect onlyyy dedicatedd to oneee
+// 1st part respect also fullyyy  dedicated to oneee
+// and familyyy and some friends
+// repeating: Good Soul Feel +ohh yeah feel ===lovee
