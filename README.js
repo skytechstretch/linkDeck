@@ -1161,3 +1161,5 @@ refer past screenshot to achieve the same
 // okay oneee 2057 desc:
 // haaaaa no i will not givee haaaaa
 // vocabulary se darr lagta hai saheb
+
+// https://spaceplace.nasa.gov/binary-code/en/
