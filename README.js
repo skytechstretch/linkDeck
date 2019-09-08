@@ -1153,4 +1153,4 @@ refer past screenshot to achieve the same
 // one diary ,3 packets of sweet
 //P.s:Ramdas has one small packet ready for you guys ,so enjoy maddii(thanks me later)
 // Yeah jayada formality or to avoid text in reply 3 heart in face walla emoji 
-// jaruri hai kiyaa(have learnt this technique recently)
+// or only heart react jaruri hai kiyaa(have learnt this technique recently)
