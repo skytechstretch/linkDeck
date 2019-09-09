@@ -1239,5 +1239,9 @@ refer past screenshot to achieve the same
 // they think he is fool make him foolish 
 // I rememeber back in 2002 ,there was need of internal export of noun 
 // that noun has showed 2 dollar as 4 dollar 
-// that noun and their family was uplifted and developed by root
+// that noun and their family was uplifted and developed by my root
 // but see their non-wow response 
+// in 2007 believe it or not everynoun denied for 
+// as now dollar was restricted to Exact refernce 
+// nouns 
+// in 2008 there was a height of non-wow response
