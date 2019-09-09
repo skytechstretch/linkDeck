@@ -1240,4 +1240,4 @@ refer past screenshot to achieve the same
 // ek aur jaruri succhnaa
 // fazool pharma from lachile pile walle ke aankho mei beinteha mohababat hai 
 // oneee ke liyeee so I guarantee he sings chupana bhi nahai aata
-// without proper guidance one should not reaserach Physics Topics 
+
