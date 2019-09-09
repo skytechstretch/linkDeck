@@ -1214,3 +1214,6 @@ refer past screenshot to achieve the same
 // first in out then xx then otherthing so time processing here is high 
 // and not desired 
 // event driven and non blocking I/O is like blazzersss
+// while pushing some request whole UI is responsive 
+// you can feel and touch any part of it without 
+// any difficulty 
