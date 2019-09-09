@@ -1241,5 +1241,3 @@ refer past screenshot to achieve the same
 // fazool pharma from lachile pile walle ke aankho mei beinteha mohababat hai 
 // oneee ke liyeee so I guarantee he sings chupana bhi nahai aata
 
-// Oh!! Such a beautiful gitrepo...Love this repo..Thank you for making this repo
-// awesomeee oneee awesomeee you are just like meee
