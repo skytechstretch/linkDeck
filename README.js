@@ -1240,9 +1240,3 @@ refer past screenshot to achieve the same
 // ek aur jaruri succhnaa
 // fazool pharma from lachile pile walle ke aankho mei beinteha mohababat hai 
 // oneee ke liyeee so I guarantee he sings chupana bhi nahai aata
-// ek hota hai acting 
-// phir hota hai oscar walla actingg
-// finally aata haii ha ha ha .........
-// phir aata hai login walla acting 
-// i also do logIn acting it is great thing 
-// and i really enjoyy
