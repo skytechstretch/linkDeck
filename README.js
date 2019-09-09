@@ -1231,20 +1231,3 @@ refer past screenshot to achieve the same
 // tak paucch gayiiii bachawoh koi mujhe virtually bachawohh
 // oneeee oneeee terminate your self ohh yeahhh now 
 // and saveee meee
-// somewhere in the web I read Never expect to get what you give 
-// ,not everyone has a heart like you 
-// this line is very much true for honest and innocent people 
-// just like my banana root .
-// hundreds of times ,I have seen people cheating over my banana root 
-// they think he is fool make him foolish 
-// I rememeber back in 2002 ,there was need of internal export of noun 
-// that noun has showed 2 dollar as 4 dollar 
-// that noun and their family was uplifted and developed by my root
-// but see their non-wow response 
-// in 2007 believe it or not everynoun denied for 
-// as now dollar was restricted to Exact refernce 
-// nouns 
-// in 2008 there was a height of non-wow response
-//these incident actually teaches me the real human psychology
-// this is the reason I loose my temper when I see People with 
-// above mention non-wow quality
