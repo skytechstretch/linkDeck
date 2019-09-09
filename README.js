@@ -1208,3 +1208,4 @@ refer past screenshot to achieve the same
 // he was on the verge of abusing ..when I asked him from which place u belong 
 // he told me pakistan as I was virtual 80 year old so i told pellawohtan
 // now i dnt abuse so i disconnected the phone 
+// Node js is event driven non-blocking I/O what is this ?
