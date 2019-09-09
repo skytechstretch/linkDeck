@@ -1213,3 +1213,4 @@ refer past screenshot to achieve the same
 // they are synchronus in behaviour 
 // first in out then xx then otherthing so time processing here is high 
 // and not desired 
+// event driven and non blocking I/O is like blazzersss
