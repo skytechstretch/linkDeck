@@ -1220,3 +1220,6 @@ refer past screenshot to achieve the same
 // it will register all the opp side honey call while 
 // pushing and will call all those call req with proper detail 
 // i.e event driven 
+// this is why I preferred czech bus as it is event driven non-blocking I/O
+// whereas mallu video paltform is like local passenger vehicle with many stop 
+// i.e blocking thus pushing banana in infinite waiting zone
