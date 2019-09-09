@@ -1209,3 +1209,7 @@ refer past screenshot to achieve the same
 // he told me pakistan as I was virtual 80 year old so i told pellawohtan
 // now i dnt abuse so i disconnected the phone 
 // Node js is event driven non-blocking I/O what is this ?
+// One analogy consider first malluu platform video ..
+// they are synchronus in behaviour 
+// first in out then xx then otherthing so time processing here is high 
+// and not desired 
