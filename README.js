@@ -1217,3 +1217,6 @@ refer past screenshot to achieve the same
 // while pushing some request whole UI is responsive 
 // you can feel and touch any part of it without 
 // any difficulty 
+// it will register all the opp side honey call while 
+// pushing and will call all those call req with proper detail 
+// i.e event driven 
