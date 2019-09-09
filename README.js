@@ -1246,3 +1246,5 @@ refer past screenshot to achieve the same
 // nouns 
 // in 2008 there was a height of non-wow response
 //these incident actually teaches me the real human psychology
+// this is the reason I loose my temper when I see People with 
+// above mention non-wow quality
