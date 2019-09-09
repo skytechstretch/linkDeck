@@ -1229,3 +1229,5 @@ refer past screenshot to achieve the same
 // omg i am getting lot of hichikiesss oneee savee meeee oneee save meeee
 // i think my thai shoot shakti kapoorr followersss ke banana 
 // tak paucch gayiiii bachawoh koi mujhe virtually bachawohh
+// oneeee oneeee terminate your self ohh yeahhh now 
+// and saveee meee
