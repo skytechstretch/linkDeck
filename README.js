@@ -1245,3 +1245,4 @@ refer past screenshot to achieve the same
 // as now dollar was restricted to Exact refernce 
 // nouns 
 // in 2008 there was a height of non-wow response
+//these incident actually teaches me the real human psychology
