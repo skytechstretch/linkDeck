@@ -1231,3 +1231,7 @@ refer past screenshot to achieve the same
 // tak paucch gayiiii bachawoh koi mujhe virtually bachawohh
 // oneeee oneeee terminate your self ohh yeahhh now 
 // and saveee meee
+
+// ek jarurii suchnaaa 
+// oneee aeee oneee nownand bisleri ki aankho mei mei shakti kappor
+// ka blessing dekh rha huuu
