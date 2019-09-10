@@ -1248,3 +1248,11 @@ refer past screenshot to achieve the same
 // and inform ifwall if emit of nutrient is like GT road then ifwall will become fortwall
 // onee 2293 desc:
 // oh beautifull !! you look gorgeous I heartily thanks you for posting this png 🙃🙃
+
+// today I loose my control via words because I visualize one innocent soul 
+// alone got bullied by motherfacker kind of sweet drug 
+// I ahve told before also mjority of bnanas are like sweetdrug 
+// motherfacker ,they feel that they are smart that no one can detect them
+// but we live in god world ,and god is very strict 
+// god is owner ,so we should never worry about any non-wow 
+// things in lifeee 
