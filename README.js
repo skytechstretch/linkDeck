@@ -1243,3 +1243,5 @@ refer past screenshot to achieve the same
 // this bad heart condition was necesaaryy I think motherfackers are thinking 
 // that I am only mr bean 
 // ek aawaseak suchna 
+// lankesh pachale digital daur mei bhi strett pradesh se ohh yeahh script accept 
+// karta haiii...I can say this with no doubt in my mind
