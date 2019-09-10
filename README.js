@@ -1256,3 +1256,7 @@ refer past screenshot to achieve the same
 // but we live in god world ,and god is very strict 
 // god is owner ,so we should never worry about any non-wow 
 // things in lifeee 
+// iknow mic is very much disappointed for my words usage 
+// but that was required 
+// for hitting shit I can do any kind of emit 
+// because shit desrvees more than shit 
