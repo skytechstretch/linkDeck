@@ -1248,4 +1248,3 @@ refer past screenshot to achieve the same
 // and inform ifwall if emit of nutrient is like GT road then ifwall will become fortwall
 // onee 2293 desc:
 // oh beautifull !! you look gorgeous I heartily thanks you for posting this png 🙃🙃
-// we should write in non-puzzle way because not everyone is smart like mee
