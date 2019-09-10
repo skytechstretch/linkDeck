@@ -1240,4 +1240,5 @@ refer past screenshot to achieve the same
 // ek aur jaruri succhnaa
 // fazool pharma from lachile pile walle ke aankho mei beinteha mohababat hai 
 // oneee ke liyeee so I guarantee he sings chupana bhi nahai aata
-
+// this bad heart condition was necesaaryy I think motherfackers are thinking 
+// that I am only mr bean 
