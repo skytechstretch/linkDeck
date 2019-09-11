@@ -1286,3 +1286,4 @@ refer past screenshot to achieve the same
 // a hype omg omg you are reading script ohh u r bad
 // what bad bsdk this is universe extension theory 
 // no script no universe 
+// what we should learn from dog 
