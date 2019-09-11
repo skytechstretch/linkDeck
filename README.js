@@ -1267,3 +1267,5 @@ refer past screenshot to achieve the same
 // i use to sit in one specific place for having tea
 // i have seen around 1000 differnt noun reactions on orange 
 // who carry their child for school bus departure
+// they become child friendly ,hey boy/girl going to school heen heeenn heen
+// so their intention is to get child mother attention 
