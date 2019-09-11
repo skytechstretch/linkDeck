@@ -1269,3 +1269,6 @@ refer past screenshot to achieve the same
 // who carry their child for school bus departure
 // they become child friendly ,hey boy/girl going to school heen heeenn heen
 // so their intention is to get child mother attention 
+// when that child is with banana 
+// the react ion becomes helloo excuse mee ..totally ignoring 
+// hey boy/girl going to schollll
