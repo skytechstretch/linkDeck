@@ -1297,3 +1297,5 @@ refer past screenshot to achieve the same
 // it is nature but assuming it as real virtual apsara for self satisfactionn
 // this is totally not acceptable now i will show hairy limb then u will 
 // become shiv sundar das
+// there should be HI now in addition to AI ..5 cases I have seen with banana type hair in head 
+// p.s curly hair and what i am talking is differnt
