@@ -1282,3 +1282,7 @@ refer past screenshot to achieve the same
 // one day i forgot script in bathroom(as after emit ,relaxation makes u forgot everything around it)
 // so when it was seen by our guardian ,i simply said this is ramdas work 
 // this case is still in pending state ,I guess no one remember this incident now
+// actually these things are great but in ind there is 
+// a hype omg omg you are reading script ohh u r bad
+// what bad bsdk this is universe extension theory 
+// no script no universe 
