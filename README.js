@@ -1278,3 +1278,5 @@ refer past screenshot to achieve the same
 // script makes banana more tight then video 
 // as there is slowly slowly visualization mechanism 
 // try it out and save mb/gb 
+// by child i am ohh yeah script enthusisast 
+// one day i forgot script in bathroom(as after emit ,relaxation makes u forgot everything around it)
