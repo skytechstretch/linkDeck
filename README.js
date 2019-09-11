@@ -1287,3 +1287,5 @@ refer past screenshot to achieve the same
 // what bad bsdk this is universe extension theory 
 // no script no universe 
 // what we should learn from dog 
+// loyalty but i guaranteee people 
+// are only intersted in searching some style in some blazzerss or some .com
