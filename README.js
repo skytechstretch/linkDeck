@@ -1274,3 +1274,7 @@ refer past screenshot to achieve the same
 // hey boy/girl going to schollll
 // my reaction is neutral i.e either banana or orange
 // i act in balanced way 
+// fact of the day 
+// script makes banana more tight then video 
+// as there is slowly slowly visualization mechanism 
+// try it out and save mb/gb 
