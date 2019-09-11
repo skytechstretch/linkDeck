@@ -1289,3 +1289,5 @@ refer past screenshot to achieve the same
 // what we should learn from dog 
 // loyalty but i guaranteee people 
 // are only intersted in searching some style in some blazzerss or some .com
+// actually oneee has inspired me to flaunt my thailand
+// we both have simlar kind of thailand I guess in addition to heart
