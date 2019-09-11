@@ -1272,3 +1272,5 @@ refer past screenshot to achieve the same
 // when that child is with banana 
 // the react ion becomes helloo excuse mee ..totally ignoring 
 // hey boy/girl going to schollll
+// my reaction is neutral i.e either banana or orange
+// i act in balanced way 
