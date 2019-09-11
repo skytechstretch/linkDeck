@@ -1298,4 +1298,5 @@ refer past screenshot to achieve the same
 // this is totally not acceptable now i will show hairy limb then u will 
 // become shiv sundar das
 // there should be HI now in addition to AI ..5 cases I have seen with banana type hair in head 
+// 99% chance people with aboe traits are fatherball sucker I can say this with no doubt in my Mind
 // p.s curly hair and what i am talking is differnt
