@@ -1263,3 +1263,4 @@ refer past screenshot to achieve the same
 // curiosity of the day
 // jo noun bade mehenn(sharp type) chutieah katte hai i.e chunna lagate hai
 // kiya unke dna mei rat sperm majood hai
+// observation of the day
