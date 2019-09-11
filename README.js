@@ -1300,5 +1300,3 @@ refer past screenshot to achieve the same
 // there should be HI now in addition to AI ..5 cases I have seen with banana type hair in head 
 // 99% chance people with aboe traits are fatherball sucker I can say this with no doubt in my Mind
 // p.s curly hair and what i am talking is differnt
-// i m unable to understand why the hell you are showing sense of respect by putting that mothefacker png in featuredSection
-// featured word is getting polluted 
