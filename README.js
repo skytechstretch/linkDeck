@@ -1336,6 +1336,5 @@ roam in queen
 // oneeee my heart beatt wantsss to hearr your head shaking kind of adorable vibration
 
 // ohh beautiful ..what a smile oneee(this is exact matching)
-// onee and naturee hometown is sameee but inspite of that 
-// we never meet theree this is really very sad said i can  say
+
 // one curryyy haii toh nature life always fit haiii
