@@ -1304,5 +1304,4 @@ refer past screenshot to achieve the same
 // nothing of the day 
 // nothing nothing is like a like
 //which is noting at all 
-// so waht is nothing ?
-// so now its to get onee mango oneee aee oneee tum kb aaogeee
+// so now its time to get onee mango oneee aee oneee tum kb aaogeee
