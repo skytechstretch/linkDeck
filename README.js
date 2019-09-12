@@ -1327,3 +1327,6 @@ roam in queen
 // you just increment good work 
 // bless count will get incremented automatically 
 // god is tech savyy
+// p.s : good work consist every kind of verb 
+// what matter is it is in which side i.e dharma or adharma 
+// geeta updesh thats ittt
