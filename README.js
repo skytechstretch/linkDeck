@@ -1306,7 +1306,7 @@ refer past screenshot to achieve the same
 //which is noting at all 
 // so now its time to get onee mango oneee aee oneee tum kb aaogeee
 // so okay now its time to get some chaieee ok byee folkss
-// appeal to all filter orange ...
+// appeal to all filter orange and motherfacker banana ...
 // Now I have upgraded my face reading technique 
 // oneee has also upgraded face reading and sweet drug reading technique 
 // so buckle Up all Bitchess
