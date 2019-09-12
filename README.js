@@ -1310,3 +1310,6 @@ refer past screenshot to achieve the same
 // Now I have upgraded my face reading technique 
 // oneee has also upgraded face reading and sweet drug reading technique 
 // so buckle Up all Bitchess
+
+
+// face reading of shen 
