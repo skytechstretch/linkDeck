@@ -1340,3 +1340,4 @@ roam in queen
 // one curryyy haii toh nature life always fit haiii
 
 // okay onee 213 fb desc :
+// leavee ittt... vocabulary se darr lagta hai sahebb
