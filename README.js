@@ -1313,3 +1313,10 @@ refer past screenshot to achieve the same
 
 
 // face reading of shen 
+
+// shen true gentleman ,i have seen true affection and love towards
+roam in queen 
+// you both are awesome pair ,have seen latest celebration 
+// pic ,you both are great lover 
+// play the music lover in paris 
+// you both will feel more great and awesomee
