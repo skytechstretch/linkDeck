@@ -1323,3 +1323,7 @@ roam in queen
 
 // god bless all 
 // amen
+// god blessing is like automation 
+// you just increment good work 
+// bless count will get incremented automatically 
+// god is tech savyy
