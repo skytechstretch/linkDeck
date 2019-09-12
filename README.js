@@ -1341,3 +1341,6 @@ roam in queen
 
 // okay onee 213 fb desc :
 // leavee ittt... vocabulary se darr lagta hai sahebb
+
+// good night folks ,read script save mb 
+//amen
