@@ -1330,3 +1330,6 @@ roam in queen
 // p.s : good work consist every kind of verb 
 // what matter is it is in which side i.e dharma or adharma 
 // geeta updesh thats ittt
+
+// urgently i need oneee mangooo i am dying 
+// i m hungryyy oneeee are u deafff?
