@@ -1301,3 +1301,5 @@ refer past screenshot to achieve the same
 // 99% chance people with aboe traits are fatherball sucker I can say this with no doubt in my Mind
 // p.s curly hair and what i am talking is differnt
 // sonothing 
+// nothing of the day 
+// 
