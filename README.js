@@ -1352,3 +1352,13 @@ roam in queen
 // https://blog.mozilla.org/internetcitizen/2017/01/25/better-password-security/
 
 // some technical gyan 
+// what if you are in sleep kind of activity
+// website similar to fb or someting appear in your screen 
+// with your fav attraction hobby 
+// you will click ..because it is like faclook.com 
+// slight mispelling ,you are entering password info 
+// no matter it is credit card or some social login 
+// so alwahys check end to end name thats it
+// never install any suspicious softeare it can track 
+// your keyboard moveemnts 
+// this pushing in to faint state
