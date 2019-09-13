@@ -1350,3 +1350,5 @@ roam in queen
 
 // never ignore 
 // https://blog.mozilla.org/internetcitizen/2017/01/25/better-password-security/
+
+// some technical gyan 
