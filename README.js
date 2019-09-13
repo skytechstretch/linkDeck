@@ -1376,3 +1376,6 @@ roam in queen
 // to login with facebook to get paytm cash worth rs 10000 like that 
 // actually i was surprised 
 // as subject was Paytm lucky winner 
+// so this is cyber security 
+// in future i will be doing phd in it 
+// then with word i will attack with diffie helman
