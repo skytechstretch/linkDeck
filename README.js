@@ -1363,3 +1363,4 @@ roam in queen
 // your keyboard moveemnts 
 // this pushing in to faint state
 // via phising 
+// avoid youtube tech secret tricks 
