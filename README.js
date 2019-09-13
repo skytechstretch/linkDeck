@@ -1347,3 +1347,6 @@ roam in queen
 
 // color machayee shor 
 // https://www.npmjs.com/package/chalk
+
+// never ignore 
+// https://blog.mozilla.org/internetcitizen/2017/01/25/better-password-security/
