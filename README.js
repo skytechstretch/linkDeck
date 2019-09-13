@@ -1367,3 +1367,5 @@ roam in queen
 // there are many application which can read your sensitive info 
 // when it is in processing mode like credit card and ... so 
 // never ever install suspicious software 
+// oneee u can referr my alien fb first pro file png 
+// lot of info in 1 png 
