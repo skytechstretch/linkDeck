@@ -1369,3 +1369,6 @@ roam in queen
 // never ever install suspicious software 
 // oneee u can referr my alien fb first pro file png 
 // lot of info in 1 png 
+// just keep the info in my mind 24*7 thats it 
+// happy weakending folks 
+// keep reading keep emiting 
