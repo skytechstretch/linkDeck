@@ -1364,3 +1364,6 @@ roam in queen
 // this pushing in to faint state
 // via phising 
 // avoid youtube tech secret tricks 
+// there are many application which can read your sensitive info 
+// when it is in processing mode like credit card and ... so 
+// never ever install suspicious software 
