@@ -1344,3 +1344,6 @@ roam in queen
 
 // good night folks ,read script save mb 
 //amen
+
+// color machayee shor 
+// https://www.npmjs.com/package/chalk
