@@ -1380,3 +1380,4 @@ roam in queen
 // in future i will be doing phd in it 
 // then with word i will attack with diffie helman
 // todays gyan
+// never set same password for differnt login planet
