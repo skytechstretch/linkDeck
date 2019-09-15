@@ -1379,3 +1379,4 @@ roam in queen
 // so this is cyber security 
 // in future i will be doing phd in it 
 // then with word i will attack with diffie helman
+// todays gyan
