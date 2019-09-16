@@ -1400,4 +1400,4 @@ roam in queen
 // but i really appreciate those  noun who clearly show 
 // that they are shit or wow treat so maintain proper distance 
 // to avoid nuisance
-//  
+//  or to feel gods wow formation without any feel segmentation
