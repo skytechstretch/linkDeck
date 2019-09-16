@@ -1391,3 +1391,5 @@ roam in queen
 
 // skybye02 && ifwall i.e .....agar.... && original print thats it i.e total 3 
 // on this auspicious day onee should write some wow strings for great wow day 
+// cast the love about main soul in a way that world see 
+// creative wow definition of main wow bond 
