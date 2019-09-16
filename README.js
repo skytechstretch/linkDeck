@@ -1406,3 +1406,8 @@ roam in queen
 // onneee niyatt is like proper set of god's bless 
 // decadeilll pill niyat is like empty set i.e no god protocol value inside 
 // in it 
+
+// okay just keep one thing in mind 
+// god is a reality lover 
+// so behave properly continously to avoid unfriendly shit in your life sheett so transmit 
+// god's protocol in your actions to mention wow in all season 
