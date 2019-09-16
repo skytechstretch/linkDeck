@@ -1401,3 +1401,5 @@ roam in queen
 // that they are shit or wow treat so maintain proper distance 
 // to avoid nuisance
 //  or to feel gods wow formation without any feel segmentation
+
+// oneee ka ek with minimum wow png > all combine past illpill Decade png
