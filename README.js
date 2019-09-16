@@ -1403,3 +1403,6 @@ roam in queen
 //  or to feel gods wow formation without any feel segmentation
 
 // oneee ka ek with minimum wow png > all combine past illpill Decade png
+// onneee niyatt is like proper set of god's bless 
+// decadeilll pill niyat is like empty set i.e no god protocol value inside 
+// in it 
