@@ -1381,3 +1381,7 @@ roam in queen
 // then with word i will attack with diffie helman
 // todays gyan
 // never set same password for differnt login planet
+
+
+// some drink way to attain main wow
+// https://www.amazon.in/s?k=BIRJU+MAHAVIR&ref=bl_dp_s_web_0
