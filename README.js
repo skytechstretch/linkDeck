@@ -1394,4 +1394,10 @@ roam in queen
 // cast the love about main soul in a way that world see 
 // creative wow definition of main wow bond 
 
-// what is honesty or true reflection ?
+// what is  true reflection ?
+// jo apna intro public platform pe clear likhe 
+// no matter it is shit or wow treat type sense 
+// but i really appreciate those  noun who clearly show 
+// that they are shit or wow treat so maintain proper distance 
+// to avoid nuisance
+//  
