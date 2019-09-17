@@ -1422,3 +1422,12 @@ roam in queen
 // without any reason 
 // what is machine learning according to tom mitchell ?
 // consider yurself as a programme written in blood language 
+// now imagine your experience based on life task 
+// then rethink again that what is the probability 
+// that you have better experience now based on our experience in some life task 
+// i.e improving improving experience 
+// via nlp i.e u r saying ohh yeahh xvideosee
+// speech transform in to text 
+// under the hood 
+//algortithm fucks some code 
+// and then produce some result out of many results 
