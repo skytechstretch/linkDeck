@@ -1432,4 +1432,5 @@ roam in queen
 //algortithm fucks some code 
 // and then produce some result out of many results 
 // this is machine learning 
-// 
+// omg dceision out signal within 2 sec its record omg I cant belivee ...
+// parallel lines just like me (to some extent)
