@@ -1420,3 +1420,4 @@ roam in queen
 // positivity_invitation(some facts via many gyani prani,its genuine )
 // i.e working in dark mode room can bring negativity and non-wow feel 
 // without any reason 
+// what is machine learning according to tom mitchell ?
