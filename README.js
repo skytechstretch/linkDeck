@@ -1440,6 +1440,6 @@ roam in queen
 // god's messenger /noun omg instant anytips on fly 
 // conc: Love your own family for real happiness 
 // and rest the lust to set real wow in life 
-// b resetting your bananaa to your heart soul 
+// by resetting your bananaa to your heart soul ()
 // if no heart soul ,this is digital world
 // read script satisfy yourself 
