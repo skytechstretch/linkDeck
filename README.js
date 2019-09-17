@@ -1432,3 +1432,5 @@ roam in queen
 //algortithm fucks some code 
 // and then produce some result out of many results 
 // this is machine learning 
+// this is the 10 th sample during last 4 months 
+// observation is weird but it is fact 
