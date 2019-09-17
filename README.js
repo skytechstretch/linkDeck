@@ -1421,3 +1421,4 @@ roam in queen
 // i.e working in dark mode room can bring negativity and non-wow feel 
 // without any reason 
 // what is machine learning according to tom mitchell ?
+// consider yurself as a programme written in blood language 
