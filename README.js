@@ -1434,3 +1434,12 @@ roam in queen
 // this is machine learning 
 // this is the 10 th sample during last 4 months 
 // observation is weird but it is fact 
+// if children is walking alone no one cares 
+// and ask for choclates or some other cool stuff 
+// if they are with mother (y m) ,crowd will act like 
+// god's messenger /noun omg instant anytips on fly 
+// conc: Love your own family for real happiness 
+// and rest the lust to set real wow in life 
+// b resetting your bananaa to your heart soul 
+// if no heart soul ,this is digital world
+// read script satisfy yourself 
