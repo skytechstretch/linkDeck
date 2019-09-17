@@ -1450,3 +1450,6 @@ roam in queen
 // 10 sec with other child who was with father 
 // arrival at differnt time in some departure zone 
 // conc: there are many tharkiss out there
+// surprsing thing is that I have seen that non-hi neighbour 
+// dont talk with same affection or good-feel mechanism type 
+//vibes towards their children
