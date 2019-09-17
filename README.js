@@ -1453,3 +1453,6 @@ roam in queen
 // surprsing thing is that I have seen that non-hi neighbour 
 // dont talk with same affection or good-feel mechanism type 
 //vibes towards their children
+// so i can say non-hi neighbour is tharkii motherfuckerr 
+// with no doubt in my mind 
+// p.s: love the family and have good niyat treat in your action towards world thats itt 
