@@ -1415,3 +1415,6 @@ roam in queen
 
 // some rep post
 // https://www.coursera.org/specializations/mathematics-machine-learning
+// i love working with system reflection on only 
+// but we should actually switch on the bulb 
+// positivity_invitation(some facts via many gyani prani,its genuine )
