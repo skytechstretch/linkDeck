@@ -1443,3 +1443,10 @@ roam in queen
 // by resetting your bananaa to your heart soul ()
 // if no heart soul ,this is digital world
 // read script satisfy yourself 
+// okay I was on 10th sample ,
+// two couples were going with their child 
+// i think one non-hi bond type neighbour 
+// spend 3 mins with one child who was with mother 
+// 10 sec with other child who was with father 
+// arrival at differnt time in some departure zone 
+// conc: there are many tharkiss out there
