@@ -1412,3 +1412,6 @@ roam in queen
 // so behave properly continously to avoid unfriendly shit in your life sheett so transmit 
 // god's protocol in your actions to mention wow in all season 
 // mitron aaj ke din dhan se kalla jamun jarur khannaaa
+
+// some rep post
+// https://www.coursera.org/specializations/mathematics-machine-learning
