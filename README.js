@@ -1481,3 +1481,5 @@ roam in queen
 // of science
 // for them maths is finger bone ..replicating motherfacking code load is backbone 
 // in science
+// useful link
+// https://creatoracademy.youtube.com/page/lesson/revenue-basics
