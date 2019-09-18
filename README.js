@@ -1465,3 +1465,5 @@ roam in queen
 // and earning hell lot of gandhjii pngss
 // so just imagine onee what onee can do 
 // with such exceptional wow talent
+
+// idiots are gaining lot from digital print
