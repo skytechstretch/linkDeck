@@ -1457,3 +1457,5 @@ roam in queen
 // with no doubt in my mind 
 // p.s: love the family and have good niyat treat in your action towards world thats itt 
 // wednesday is really luckyy for me
+// today i won cash via click scratch dealing 
+// 
