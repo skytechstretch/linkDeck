@@ -1458,4 +1458,9 @@ roam in queen
 // p.s: love the family and have good niyat treat in your action towards world thats itt 
 // wednesday is really luckyy for me
 // today i won cash via click scratch dealing 
-// 
+// onee should make some problem with solution 
+// video in free time if possible and should post it in 
+// youtube i guarantee lacs per month for sure 
+// i have seen many non wow noun picking trending things and providing shit 
+// and earning hell lot of gandhjii pngss
+
