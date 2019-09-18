@@ -1463,4 +1463,5 @@ roam in queen
 // youtube i guarantee lacs per month for sure 
 // i have seen many non wow noun picking trending things and providing shit 
 // and earning hell lot of gandhjii pngss
-
+// so just imagine onee what onee can do 
+// with such exceptional wow talent
