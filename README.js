@@ -1483,3 +1483,5 @@ roam in queen
 // in science
 // useful link
 // https://creatoracademy.youtube.com/page/lesson/revenue-basics
+// so onee should rock in its field 
+// all field can yield dolara dollaraa
