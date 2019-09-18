@@ -1456,3 +1456,4 @@ roam in queen
 // so i can say non-hi neighbour is tharkii motherfuckerr 
 // with no doubt in my mind 
 // p.s: love the family and have good niyat treat in your action towards world thats itt 
+// wednesday is really luckyy for me
