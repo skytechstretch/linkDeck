@@ -1477,3 +1477,5 @@ roam in queen
 // one is doing 5 year phd in NLP and not sure whether he knows 
 // all thing or not and others are like dumb cars garage 
 // who thinks their engine can bring high speed revolution 
+// all creedits to new born nobbiess ,they treat these idiots as father 
+// of science
