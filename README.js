@@ -1474,3 +1474,6 @@ roam in queen
 // by putting motherfacking facts to cap someone 
 // with virtual happiness
 // and their followers are kind of more idiot kg 
+// one is doing 5 year phd in NLP and not sure whether he knows 
+// all thing or not and others are like dumb cars garage 
+// who thinks their engine can bring high speed revolution 
