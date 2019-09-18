@@ -1479,3 +1479,5 @@ roam in queen
 // who thinks their engine can bring high speed revolution 
 // all creedits to new born nobbiess ,they treat these idiots as father 
 // of science
+// for them maths is finger bone ..replicating motherfacking code load is backbone 
+// in science
