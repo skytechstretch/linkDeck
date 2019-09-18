@@ -1467,3 +1467,6 @@ roam in queen
 // with such exceptional wow talent
 
 // idiots are gaining lot from digital print
+
+// so its time for non-idiots to end the procrastination
+// and rock the digital bell
