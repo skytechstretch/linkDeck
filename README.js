@@ -1470,3 +1470,7 @@ roam in queen
 
 // so its time for non-idiots to end the procrastination
 // and rock the digital bell
+// one of the iditos is siraj who has no laaj 
+// by putting motherfacking facts to cap someone 
+// with virtual happiness
+// and their followers are kind of more idiot kg 
