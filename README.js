@@ -1485,3 +1485,6 @@ roam in queen
 // https://creatoracademy.youtube.com/page/lesson/revenue-basics
 // so onee should rock in its field 
 // all field can yield dolara dollaraa
+// oneee send me some abuse which if one try to find in dictionary 
+// they will be all drained out by energy 
+// i want to throw those vocabulary in someones face
