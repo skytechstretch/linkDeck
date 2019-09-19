@@ -1583,13 +1583,7 @@ there are lot of trash this is the reason
 // the cloud nine cloud nine is oneee 
 // that is awesome feelingg
 
-// i have written hell lot of shit thinhs about uganda takluu 
-// but onee never blocked mee
-// even though onee was knowing it is some how not a proper thing
-// because onee has a image of some doordarsahn kind of activity
-// in its post that is no abusee 
-// but onee still allows
-// because onee knows reality and virtuality very well 
+
 
 // onee + nature = heaven modeee 
 // more precisely i can say onee curry + nature fact = hevaen modee(fname lastname included)
