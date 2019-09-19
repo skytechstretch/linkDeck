@@ -1498,4 +1498,5 @@ roam in queen
 // dhongi baba ab digital mei bhi upladh
 // aaj hi foolow kare dhongi babaaaaa totke 
 
+// what is supervised learning ?
 
