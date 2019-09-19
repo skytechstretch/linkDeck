@@ -1510,3 +1510,5 @@ roam in queen
 // purchaing is directly proportional to festival or credit day whe some gets their work cheques
 
 // children also know more cry more choclates or some cool stuff directly propotional
+// self ohh yeah enthusisat also know 
+// differnt attributes for solid self pleasure 
