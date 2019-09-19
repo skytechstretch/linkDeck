@@ -1506,3 +1506,5 @@ roam in queen
 
 // lets take an example of online shopping festival
 // thwey follow unitary method for their sale festival if u see many click com
+// they know if 5rs --- 1 items then 50 rs more items
+// purchaing is directly proportional to festival or credit day whe some gets their work cheques
