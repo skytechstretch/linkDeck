@@ -1578,3 +1578,7 @@ there are lot of trash this is the reason
 
 // and request oneee ,the planetary equation of nature 
 // via 0-9 ..
+// only init function knows and i hope now onee knows so 
+// i hope onee understand 
+// the cloud nine cloud nine is oneee 
+// that is awesome feelingg
