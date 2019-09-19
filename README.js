@@ -1513,3 +1513,4 @@ roam in queen
 // self ohh yeah enthusisat also know 
 // differnt attributes for solid self pleasure 
 //
+so how glass detection comes here 
