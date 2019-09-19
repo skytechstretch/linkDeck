@@ -1499,3 +1499,6 @@ roam in queen
 // aaj hi foolow kare dhongi babaaaaa totke 
 
 // i am tuesdayleak
+// but i have that fix with the leak with god's protocol
+// that fix is not req when i see root O + AB=overall Awesome bless i.e awesome  lovee 
+// o is also like I 
