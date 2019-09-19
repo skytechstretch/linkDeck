@@ -1562,3 +1562,6 @@ there are lot of trash this is the reason
 // i can say this with no doubt in my mind
 
 // u know why i revealed i reality 
+// bcz vowels in onee indicates some higher 
+// numerical analysis prediction algorithm
+// everything should be clear ,this is the base of super bond
