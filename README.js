@@ -1514,3 +1514,4 @@ roam in queen
 // differnt attributes for solid self pleasure 
 //
 so how glass detection comes here 
+there are lot of trash this is the reason
