@@ -1508,3 +1508,5 @@ roam in queen
 // thwey follow unitary method for their sale festival if u see many click com
 // they know if 5rs --- 1 items then 50 rs more items
 // purchaing is directly proportional to festival or credit day whe some gets their work cheques
+
+// children also know more cry more choclates or some cool stuff directly propotional
