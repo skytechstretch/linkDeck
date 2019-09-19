@@ -1549,3 +1549,5 @@ there are lot of trash this is the reason
 // it will bring dolaraaa dollaraa dollaraaa
 // mechanism of cheater in the wrapper of teacher
 // so cheater is also inborn data scientisttt 
+
+// when i hear some bullshit 
