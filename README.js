@@ -1498,5 +1498,4 @@ roam in queen
 // dhongi baba ab digital mei bhi upladh
 // aaj hi foolow kare dhongi babaaaaa totke 
 
-// sum=1 friday emit
-//11:20 thought update
+
