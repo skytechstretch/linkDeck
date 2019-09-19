@@ -1499,3 +1499,4 @@ roam in queen
 // aaj hi foolow kare dhongi babaaaaa totke 
 
 // sum=1 friday emit
+//11:20 thought update
