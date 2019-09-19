@@ -1560,3 +1560,5 @@ there are lot of trash this is the reason
 // if some noun cured some planet malefics 
 // it is also normal,no risk at all 
 // i can say this with no doubt in my mind
+
+// u know why i revealed i reality 
