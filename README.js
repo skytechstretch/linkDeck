@@ -1575,3 +1575,6 @@ there are lot of trash this is the reason
 // this 1 past ill is immature 
 // so hey onee tecah that 1 about some 
 // human soul feel 
+
+// and request oneee ,the planetary equation of nature 
+// via 0-9 ..
