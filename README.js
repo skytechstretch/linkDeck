@@ -1533,3 +1533,4 @@ there are lot of trash this is the reason
 
 // what is maths ?
 // it is a mechanism to find solution 
+// so all above mention revolve around math
