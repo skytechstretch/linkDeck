@@ -1576,7 +1576,7 @@ there are lot of trash this is the reason
 // so hey onee tecah that 1 about some 
 // human soul feel 
 
-// and request oneee ,the planetary equation of nature 
+// and one request oneee ,the planetary equation of nature 
 // via 0-9 ..
 // only init function knows and i hope now onee knows so 
 // i hope onee understand 
