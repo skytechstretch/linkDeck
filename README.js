@@ -1590,3 +1590,5 @@ there are lot of trash this is the reason
 // in its post that is no abusee 
 // but onee still allows
 // because onee knows reality and virtuality very well 
+
+// onee + nature = heaven modeee 
