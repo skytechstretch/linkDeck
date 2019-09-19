@@ -1534,3 +1534,7 @@ there are lot of trash this is the reason
 // what is maths ?
 // it is a mechanism to find solution 
 // so all above mention revolve around math
+
+// but pakoriwalla ,chaieewalla ..anywalla whateverr
+// they have some commonsense math 
+// i.e behavioural math without any equation and integration
