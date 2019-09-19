@@ -1544,3 +1544,7 @@ there are lot of trash this is the reason
 // so this mechanism is called monkey-algorithm 
 
 // okay one last example
+// noobies want virtual happiness so 
+// push some cmd c cmd v with actual issue===0
+// it will bring dolaraaa dollaraa dollaraaa
+// mechanism of cheater in the wrapper of teacher
