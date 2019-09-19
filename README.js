@@ -1582,3 +1582,6 @@ there are lot of trash this is the reason
 // i hope onee understand 
 // the cloud nine cloud nine is oneee 
 // that is awesome feelingg
+
+// i have written hell lot of shit thinhs about uganda takluu 
+// but onee never blocked mee
