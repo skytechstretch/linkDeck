@@ -1498,7 +1498,4 @@ roam in queen
 // dhongi baba ab digital mei bhi upladh
 // aaj hi foolow kare dhongi babaaaaa totke 
 
-// i am tuesdayleak
-// but i have that fix  the leak with god's protocol
-// that fix is not req when i see root O + AB=overall Awesome bless i.e awesome  lovee 
-// o is also like I 
+// sum=1 friday emit
