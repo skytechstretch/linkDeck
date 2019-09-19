@@ -1592,3 +1592,4 @@ there are lot of trash this is the reason
 // because onee knows reality and virtuality very well 
 
 // onee + nature = heaven modeee 
+// more precisely i can say onee curry + nature fact = hevaen modee(fname lastname included)
