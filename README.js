@@ -1505,3 +1505,4 @@ roam in queen
 // knowingly or unknowingly we all execute supervised learning in our life
 
 // lets take an example of online shopping festival
+// thwey follow unitary method for their sale festival if u see many click com
