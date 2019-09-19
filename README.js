@@ -1585,3 +1585,6 @@ there are lot of trash this is the reason
 
 // i have written hell lot of shit thinhs about uganda takluu 
 // but onee never blocked mee
+// even though onee was knowing it is some how not a proper thing
+// because onee has a image of some doordarsahn kind of activity
+// in its post that is no abusee 
