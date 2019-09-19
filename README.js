@@ -1530,3 +1530,5 @@ there are lot of trash this is the reason
 
 // wait where is maths ?
 // omg noobies are too much happier now
+
+// what is maths ?
