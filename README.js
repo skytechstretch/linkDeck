@@ -1551,3 +1551,6 @@ there are lot of trash this is the reason
 // so cheater is also inborn data scientisttt 
 
 // when i hear some bullshit 
+// it is like forming square with two sides 
+// omg shortcut motherfackerr learn it 
+// make a square
