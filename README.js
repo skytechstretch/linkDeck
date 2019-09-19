@@ -1488,3 +1488,7 @@ roam in queen
 // oneee send me some abuse which if one try to find in dictionary 
 // they will be all drained out by energy 
 // i want to throw those vocabulary in someones face
+// 10 days mei bane Doctor ,somewhere I have seen this post 
+// and yep I have seen those books 
+// so translate it in to 20 days mei Scientist bane 
+// dhongi baba fakker followers should translate this 
