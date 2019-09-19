@@ -1567,3 +1567,11 @@ there are lot of trash this is the reason
 // everything should be clear ,this is the base of super bond
 
 // to 1 of my past ill pill 
+// i think u have added some fake account as a friend for your trp 
+// in dumb group 
+// this is not me 
+// but i am observing some data set 
+// so i just inform 
+// this 1 past ill is immature 
+// so hey onee tecah that 1 about some 
+// human soul feel 
