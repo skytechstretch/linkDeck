@@ -1500,3 +1500,5 @@ roam in queen
 
 // what is supervised learning ?
 
+// unitary method approach ,directly proportinal ,inversly prpprtional 
+// plenty of cells (in body as attriibutes)
