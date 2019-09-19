@@ -1566,4 +1566,4 @@ there are lot of trash this is the reason
 // numerical analysis prediction algorithm
 // everything should be clear ,this is the base of super bond
 
-// to one of my past ill pill 
+// to 1 of my past ill pill 
