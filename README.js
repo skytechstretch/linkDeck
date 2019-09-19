@@ -1502,3 +1502,4 @@ roam in queen
 
 // unitary method approach ,directly proportinal ,inversly prpprtional 
 // plenty of cells (in body as attriibutes)
+// knowingly or unknowingly we all execute supervised learning in our life
