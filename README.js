@@ -1521,3 +1521,6 @@ there are lot of trash this is the reason
 // because they have many attributes like 
 // slap,ear pulling 
 // so child is a natural data scientist
+
+// autos waallee ,when see some stranger they say some higher price 
+// so they are alzso in born data scientist
