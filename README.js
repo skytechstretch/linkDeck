@@ -1554,3 +1554,5 @@ there are lot of trash this is the reason
 // it is like forming square with two sides 
 // omg shortcut motherfackerr learn it 
 // make a square
+
+// disease if detected earlier can be cured
