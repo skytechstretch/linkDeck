@@ -1524,3 +1524,6 @@ there are lot of trash this is the reason
 
 // autos waallee ,when see some stranger they say some higher price 
 // so they are alzso in born data scientist
+
+// during rainy season pakoriwaalla prepare more stuffs 
+// so they are also in born data scientist
