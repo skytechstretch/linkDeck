@@ -1532,3 +1532,4 @@ there are lot of trash this is the reason
 // omg noobies are too much happier now
 
 // what is maths ?
+// it is a mechanism to find solution 
