@@ -1542,3 +1542,5 @@ there are lot of trash this is the reason
 // so i can say copying one code 
 // showing solution is a behavioural math 
 // so this mechanism is called monkey-algorithm 
+
+// okay one last example
