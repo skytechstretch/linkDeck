@@ -1556,3 +1556,7 @@ there are lot of trash this is the reason
 // make a square
 
 // disease if detected earlier can be cured
+// similarly before getiing official 2 way ohh yeah 
+// if some noun cured some planet malefics 
+// it is also normal,no risk at all 
+// i can say this with no doubt in my mind
