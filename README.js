@@ -1495,3 +1495,5 @@ roam in queen
 // dhongi baba fakeer ke pass kon jata hai
 // idiots madarfacker so dhongi baba fakeerr is like angel bell
 // of madarfacker
+// dhongi baba ab digital mei bhi upladh
+// aaj hi foolow kare dhongi babaaaaa totke 
