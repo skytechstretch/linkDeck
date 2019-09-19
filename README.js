@@ -1515,3 +1515,9 @@ roam in queen
 //
 so how glass detection comes here 
 there are lot of trash this is the reason
+
+// after breaking something in home child 
+// got underground
+// because they have many attributes like 
+// slap,ear pulling 
+// so child is a natural data scientist
