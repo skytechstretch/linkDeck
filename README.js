@@ -1492,3 +1492,6 @@ roam in queen
 // and yep I have seen those books 
 // so translate it in to 20 days mei Scientist bane 
 // dhongi baba fakker followers should translate this 
+// dhongi baba fakeer ke pass kon jata hai
+// idiots madarfacker so dhongi baba fakeerr is like angel bell
+// of madarfacker
