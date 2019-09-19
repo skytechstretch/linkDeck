@@ -1527,3 +1527,5 @@ there are lot of trash this is the reason
 
 // during rainy season pakoriwaalla prepare more stuffs 
 // so they are also in born data scientist
+
+// wait where is maths ?
