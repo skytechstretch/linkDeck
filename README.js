@@ -1538,3 +1538,7 @@ there are lot of trash this is the reason
 // but pakoriwalla ,chaieewalla ..anywalla whateverr
 // they have some commonsense math 
 // i.e behavioural math without any equation and integration
+
+// so i can say copying one code 
+// showing solution is a behavioural math 
+// so this mechanism is called monkey-algorithm 
