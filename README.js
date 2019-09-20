@@ -1595,3 +1595,5 @@ there are lot of trash this is the reason
 // classification method is used for giving loan or giving some offer
 // regression method is used in sensex kind of mechanism ,or predicting what to introduce ceaslessy 
 // to maximize profit 
+// bitches are also data scientist then because unknowingly they use 
+// regression method
