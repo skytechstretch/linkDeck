@@ -1635,3 +1635,6 @@ dogs are also data scintist with null math reth in their brain
 // shower your poem ,overall shower your talent 
 // i guarantee sweet vocal + unique talent + wow UI =superrrrrr supeerrrrr hitt
 // in free time 
+
+// run daily only run minimize oily food,toxic tension releaser drink 
+// and see the differnce in 2 weeks only 
