@@ -1676,3 +1676,5 @@ dogs are also data scintist with null math reth in their brain
 // okay folks going to gym 
 // as today i have eaten lot of extra calories 
 // so extra gym banta hai folkss
+
+// ek jaruri suchna before going to gym
