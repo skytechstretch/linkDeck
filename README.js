@@ -1645,3 +1645,9 @@ dogs are also data scintist with null math reth in their brain
 
 // i will teach onee swimming trick
 // this line i.e 1646 is also my dream 
+
+// onee dont underestimate youtube power 
+// try max what will happen negative revies 
+// ok no problems negative reviews better 
+// than no reviews 
+// what materr is whether we are trying or not 
