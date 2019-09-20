@@ -1670,3 +1670,6 @@ dogs are also data scintist with null math reth in their brain
 // but he was not aware of his power 
 // oneee also has infinite power 
 // and onee also dont know about its hidden power
+// jay shree ram 
+// always recite this line (1673) ,this line has infinite 
+// positive power just like jesus ,allah ...so on 
