@@ -1619,3 +1619,6 @@ dogs are also data scintist with null math reth in their brain
 // this is my i.e line no 1618 is my dream line
 // onee lets execute computer vision (eye talk ) then  veinn diagram(hug) then 180 degree angle
 // this line i.e 1620 is my superdream 
+// onee emiteed co2 via 00
+// this is also ok..it is normal 
+// onee so continue your spark via 00
