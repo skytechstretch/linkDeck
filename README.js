@@ -1617,3 +1617,4 @@ dogs are also data scintist with null math reth in their brain
 // in universe all are data scientist verse 
 // onee open the door
 // this is my i.e line no 1618 is my dream line
+// onee lets execute computer vision (eye talk ) then  veinn diagram(hug) then 180 degree angle
