@@ -1605,3 +1605,6 @@ there are lot of trash this is the reason
 // they install toy to play 
 // as toy is directly proportional to time 
 // time is directly proportional to some junk purchase
+
+// do you know?
+dogs are also data scintist with null math reth in their brain
