@@ -1597,3 +1597,4 @@ there are lot of trash this is the reason
 // to maximize profit 
 // bitches are also data scientist then because unknowingly they use 
 // regression method
+// i.e continously predicting which side i will get more wow
