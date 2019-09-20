@@ -1684,3 +1684,6 @@ dogs are also data scintist with null math reth in their brain
 // that how to play with multiple heart at same time
 
 // onee voice have u people heard or not
+// onee voice is seet likee rasmalai/malaichop 
+// and all past ill pill voice is like eclairs/maha lacto /aalu pratha(i.e bhari bharii)
+// thats it folks
