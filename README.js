@@ -1614,3 +1614,5 @@ dogs are also data scintist with null math reth in their brain
 // becsue ,nearby my home three tea shop ,but all dog sits in one particular shop 
 // so they have one smell model 
 // to get biscuit ,so they are awesome data scientist
+// in universe all are data scientist verse 
+// 
