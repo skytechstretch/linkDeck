@@ -1609,3 +1609,8 @@ there are lot of trash this is the reason
 // do you know?
 dogs are also data scintist with null math reth in their brain
 // because everday they survive with smell attribute
+// they automatically sense that okay that noun wil give biscuit ,or that shop has more probability 
+//to emit biscuit 
+// becsue ,nearby my home three tea shop ,but all dog sits in one particular shop 
+// so they have one smell model 
+// to get biscuit ,so they are awesome data scientist
