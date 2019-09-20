@@ -1622,3 +1622,6 @@ dogs are also data scintist with null math reth in their brain
 // onee emiteed co2 via 00
 // this is also ok..it is normal 
 // onee so continue your spark via 00
+// i have seen onee one pic 
+// it clearly indicated that onee is a pon poon
+// expert
