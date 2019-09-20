@@ -1665,3 +1665,8 @@ dogs are also data scintist with null math reth in their brain
 // hey onee pechanieah aapne andar ke shakti 
 // ko aapka ek pen worth lacss 
 // jay shree ram 
+
+// in ramayana ,lord hanuman the shiva avtar has infinite power 
+// but he was not aware of his power 
+// oneee also has infinite power 
+// and onee also dont know about its hidden power
