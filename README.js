@@ -1598,3 +1598,4 @@ there are lot of trash this is the reason
 // bitches are also data scientist then because unknowingly they use 
 // regression method
 // i.e continously predicting which side i will get more wow
+// as they are slaves of wow via any mean
