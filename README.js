@@ -1581,3 +1581,5 @@ there are lot of trash this is the reason
 // skybye02 ifwall with prefix hul and universal doordarshan kind of account ===3 in total thats  itt
 // har har mahadev 
 // some anonymos has truly exceptional high reasoning power 
+
+// what is claasification and regression in MAL
