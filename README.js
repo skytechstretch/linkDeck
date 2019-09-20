@@ -1601,3 +1601,7 @@ there are lot of trash this is the reason
 // as they are slaves of wow via any mean
 // just like macDonald 
 // fuck child health to maximize profit 
+// so what these junk outlet do
+// they install toy to play 
+// as toy is directly proportional to time 
+// time is directly proportional to some junk purchase
