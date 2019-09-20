@@ -1678,3 +1678,7 @@ dogs are also data scintist with null math reth in their brain
 // so extra gym banta hai folkss
 
 // ek jaruri suchna before going to gym
+// this suchna is for my past ill pill 
+// tum log shumbh nisumbh type ho 
+// so tumlog bas regression technique lagawoh 
+// that how to play with multiple heart at same time
