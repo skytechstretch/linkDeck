@@ -1583,3 +1583,4 @@ there are lot of trash this is the reason
 // some anonymos has truly exceptional high reasoning power 
 
 // what is claasification and regression in MAL
+// i.e machine adaptive learning 
