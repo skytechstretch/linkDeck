@@ -1584,3 +1584,7 @@ there are lot of trash this is the reason
 
 // what is claasification and regression in MAL
 // i.e machine adaptive learning 
+
+// by seeing google map for destination 
+// we can find many way while travel mode on 
+// i.e continous predicting the way to reach destination
