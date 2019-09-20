@@ -1593,3 +1593,5 @@ there are lot of trash this is the reason
 // if time is 2 ,eat(label as hungry) if time is 1o sleep(label as rest)
 
 // classification method is used for giving loan or giving some offer
+// regression method is used in sensex kind of mechanism ,or predicting what to introduce ceaslessy 
+// to maximize profit 
