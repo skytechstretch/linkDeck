@@ -1673,3 +1673,6 @@ dogs are also data scintist with null math reth in their brain
 // jay shree ram 
 // always recite this line (1673) ,this line has infinite 
 // positive power just like jesus ,allah ...so on 
+// okay folks going to gym 
+// as today i have eaten lot of extra calories 
+// so extra gym banta hai folkss
