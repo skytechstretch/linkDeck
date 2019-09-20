@@ -1588,3 +1588,6 @@ there are lot of trash this is the reason
 // by seeing google map for destination 
 // we can find many way while travel mode on 
 // i.e continous predicting the way to reach destination
+
+// whereas classification i can say yes/no kind of output i.e discrete 
+// if time is 2 ,eat(label as hungry) if time is 1o sleep(label as rest)
