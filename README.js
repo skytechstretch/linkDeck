@@ -1639,3 +1639,6 @@ dogs are also data scintist with null math reth in their brain
 // run daily only run minimize oily food,toxic tension releaser drink 
 // and see the differnce in 2 weeks only 
 // brisk walking is best avoid run
+// u have seen ,my warm speed i.e 20
+// so dont copy my speed ,as to attain this speed 
+// more and more practise is req 
