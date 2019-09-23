@@ -1713,6 +1713,6 @@ dogs are also data scintist with null math reth in their brain
 // on public channel which is meant for non-political stuff
 // because it will cut down subscribe click cheque to some low figure decimal 
 
-// see onee this year end I want one wow something something via oneee channel profit
+// see onee this year end I want one wow something something gift via oneee channel profit
 // so start working on it ,and dont thnik to extend the deadlone for same 
 // bcz bhut hi khatarnak hu mai ,mainn honn drone
