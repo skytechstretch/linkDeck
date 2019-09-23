@@ -1689,3 +1689,6 @@ dogs are also data scintist with null math reth in their brain
 // thats it folks
 // record the info chord loud
 // https://www.makeuseof.com/tag/5-best-screen-recorders-capturing-mac-os-x/
+
+// onee c the link
+// https://www.impactbnd.com/blog/how-to-increase-youtube-subscribers
