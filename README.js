@@ -1708,3 +1708,7 @@ dogs are also data scintist with null math reth in their brain
 // and emit the rasmalieee type of chorus with 
 // wow and sound ingredients 
 // that people get addicted to onee click chaneell
+
+// never ever emit political views 
+// on public channel which is meant for non-political stuff
+// because it will cut down subscribe click cheque to some low figure decimal 
