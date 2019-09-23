@@ -1729,3 +1729,5 @@ dogs are also data scintist with null math reth in their brain
 // onee has wow 00 awesomee
 // decimal is a mathematical term ,so dont make this decimal viral 
 // in other way 
+
+// today i am in business-plan mood 
