@@ -1687,7 +1687,5 @@ dogs are also data scintist with null math reth in their brain
 // onee voice is sweet likee rasmalai/malaichop 
 // and all past ill pill voice is like eclairs/maha lacto /aalu pratha(i.e bhari bharii)
 // thats it folks
-
-// skytech 
-// https://youtu.be/0XjXPdqMRx4
-//  stretch skytech for wow beat
+// record the info chord loud
+// https://www.makeuseof.com/tag/5-best-screen-recorders-capturing-mac-os-x/
