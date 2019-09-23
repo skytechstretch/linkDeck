@@ -1724,3 +1724,6 @@ dogs are also data scintist with null math reth in their brain
 // 0>.(zero greater than decimal)
 // decimal is no try zone here 
 // zero is the first step ,2nd step....but definitely this step will lead us to top 
+
+// okay oneee
+// onee has wow 00 awesomee
