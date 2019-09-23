@@ -1693,3 +1693,18 @@ dogs are also data scintist with null math reth in their brain
 // onee c the link
 // https://www.impactbnd.com/blog/how-to-increase-youtube-subscribers
 // onee now become youtube influencer 
+
+// If i would have skill like oneee i.e ruskin bond kind of band frequency
+// i would have simplify all the universe poem with 
+// some scnario and example 
+// I would have pushed my own poetic flute to create 
+// new wow vibes on click 
+// thats itt
+// debate quality in onee 
+// preach how amd waht things to emit in debate 
+// essentials for debate 
+// take some non-political theme 
+// take some social cause issuees 
+// and emit the rasmalieee type of chorus with 
+// wow and sound ingredients 
+// that people get addicted to onee click chaneell
