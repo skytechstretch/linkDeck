@@ -1716,3 +1716,8 @@ dogs are also data scintist with null math reth in their brain
 // see onee this year end I want one wow something something gift via oneee channel profit
 // so start working on it ,and dont thnik to extend the deadlone for same 
 // bcz bhut hi khatarnak hu mai ,mainn honn drone
+// we should never think about result but only about our pure action 
+// fail/pass are just like temporary rain 
+// what matter is that what is our mental strength 
+// i.e whether it is tall or not 24*7 
+// thats it ,this strength is the key to everything 
