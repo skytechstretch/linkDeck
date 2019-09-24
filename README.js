@@ -1731,3 +1731,5 @@ dogs are also data scintist with null math reth in their brain
 // in other way 
 
 // today i am in business-plan mood 
+
+// omg omg 
